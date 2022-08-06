@@ -4,7 +4,11 @@ import math
 import pymavlink
 import datetime
 import dairetespit
-
+#   https://dronekit-python.readthedocs.io/en/latest/automodule.html#dronekit.connect
+#   https://dronekit-python.readthedocs.io/en/latest/examples/vehicle_state.html
+#   https://dronekit-python.readthedocs.io/en/latest/examples/simple_goto.html
+#   https://dronekit-python.readthedocs.io/en/latest/examples/guided-set-speed-yaw-demo.html
+#   https://dronekit-python.readthedocs.io/en/latest/examples/mission_basic.html
 class UAV():
     def __init__(self,connection_address):
         self.tb2=connect(connection_address,wait_ready=True)
@@ -39,49 +43,42 @@ class UAV():
         distancetopoint = iha.getdistancemetres(self.tb2.location.global_frame, targetWaypointLocation)
         return distancetopoint
 
-    def getdistancemetres(self,aLocation1, aLocation2):
+    def getdistancemetres(self,aLocation1, aLocation2): # find the distance by using gps data
         dlat = aLocation2.lat - aLocation1.lat
         dlong = aLocation2.lon - aLocation1.lon
         return math.sqrt((dlat*dlat) + (dlong*dlong)) * 1.113195e5
     
     
-    def flightlogs(self):
+    def flightlogs(self):  # writing the flight information to a txt file
         self.file=open('flightlogs.txt','a')
-        now=datetime.datetime.now()
+        now=datetime.datetime.now() # get time for set apart datas 
         self.file.write(f"Time: {now}\nAirspeed: {self.tb2.airspeed} m/s\nEuler Angles: {self.tb2.attitude}\n")
         self.file.write("Relative Altitude: %s\n" % self.tb2.location.global_relative_frame.alt)
         self.file.write(f"Longitute:{self.tb2.location.global_relative_frame.lon} Latitude:{self.tb2.location.global_relative_frame.lat}\n")
         self.file.close()
+    
 
-
-iha=UAV('tcp:127.0.0.1:5762')
-iha.takeCommands()
-iha.arm_and_takeoff()
-kameraac=1
+# Executed Area 
+iha=UAV('tcp:127.0.0.1:5762') # starting iha object by sending tcp address
+iha.takeCommands()  # download commands from mission planner 
+iha.arm_and_takeoff() # go for fly 
+kameraac=1  # controlling of camera to execute just once
 while 1:
-    if iha.tb2.commands.next==1:
+    print(" Battery: %s" % iha.tb2.battery)
+    if iha.tb2.commands.next is not None:
         print(f"Distance to Waypoint {iha.tb2.commands.next} :{iha.distance_to_current_waypoint()}")
-        iha.flightlogs()
-        time.sleep(0.3)
+    iha.flightlogs()
     if iha.tb2.commands.next==2:
         print(f"Distance to Waypoint {iha.tb2.commands.next} :{iha.distance_to_current_waypoint()}")
-        time.sleep(0.3)
-        if kameraac ==True:
+        if kameraac ==True:  # 10 seconds camera opening
             dairetespit.find_blue_circle()
             kameraac=0
-
-    if iha.tb2.commands.next==3:
-        print(f"Distance to Waypoint {iha.tb2.commands.next} :{iha.distance_to_current_waypoint()}")
-        iha.flightlogs()
-        time.sleep(0.3)
-    if iha.tb2.commands.next==4:
-        print(f"Distance to Waypoint {iha.tb2.commands.next} :{iha.distance_to_current_waypoint()}")
-        iha.flightlogs()
-        time.sleep(0.3)
-    if iha.tb2.commands.next==5:
-        print(f"Distance to Waypoint {iha.tb2.commands.next} :{iha.distance_to_current_waypoint()}")
-        iha.flightlogs()
-        time.sleep(0.3)
+        iha.flightlogs()  # after just once camera execution, log info again if the plane still go for waypoint 2
+    time.sleep(0.3)
+    if iha.tb2.commands.next==6 and iha.distance_to_current_waypoint()<15: # due to square shaped route, approximately less 15 metres to 6th waypoint, return to launch position
+        print("Returning to Launch")        #https://dronekit-python.readthedocs.io/en/latest/examples/simple_goto.html
+        iha.tb2.mode = VehicleMode("RTL")
+        break
 
 
     
