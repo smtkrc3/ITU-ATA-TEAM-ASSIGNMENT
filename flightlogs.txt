@@ -1,0 +1,2588 @@
+Time: 2022-08-06 23:29:19.689634
+Airspeed: 0.022061703726649284 m/s
+Euler Angles: Attitude:pitch=0.0009690301376394928,yaw=0.004749251063913107,roll=0.0011971384519711137
+Relative Altitude: 0.0
+Longitute:28.809325 Latitude:40.9746435
+Time: 2022-08-06 23:29:20.000585
+Airspeed: 0.022061703726649284 m/s
+Euler Angles: Attitude:pitch=0.0009947564685717225,yaw=0.004813427105545998,roll=0.0012224337551742792
+Relative Altitude: -0.013
+Longitute:28.809325 Latitude:40.9746435
+Time: 2022-08-06 23:29:20.309801
+Airspeed: 0.022061703726649284 m/s
+Euler Angles: Attitude:pitch=0.0010248374892398715,yaw=0.0048518371768295765,roll=0.0012567813973873854
+Relative Altitude: -0.015
+Longitute:28.809325 Latitude:40.9746436
+Time: 2022-08-06 23:29:20.620915
+Airspeed: 0.022061703726649284 m/s
+Euler Angles: Attitude:pitch=0.0010276432149112225,yaw=0.0048916456289589405,roll=0.0012970676179975271
+Relative Altitude: -0.019
+Longitute:28.809325 Latitude:40.9746451
+Time: 2022-08-06 23:29:20.932121
+Airspeed: 2.0175256729125977 m/s
+Euler Angles: Attitude:pitch=0.0009822468273341656,yaw=0.004883649758994579,roll=0.0013442265335470438
+Relative Altitude: -0.03
+Longitute:28.809325 Latitude:40.9746499
+Time: 2022-08-06 23:29:21.241446
+Airspeed: 5.792492866516113 m/s
+Euler Angles: Attitude:pitch=0.0011387214763090014,yaw=0.004296797327697277,roll=0.0014502516714856029
+Relative Altitude: -0.093
+Longitute:28.809325 Latitude:40.9746746
+Time: 2022-08-06 23:29:21.549849
+Airspeed: 7.762263298034668 m/s
+Euler Angles: Attitude:pitch=0.0015973387053236365,yaw=0.003594811074435711,roll=0.0015054000541567802
+Relative Altitude: -0.139
+Longitute:28.809325 Latitude:40.9746949
+Time: 2022-08-06 23:29:21.860122
+Airspeed: 10.594350814819336 m/s
+Euler Angles: Attitude:pitch=0.0022786257322877645,yaw=0.0027603725902736187,roll=0.0015762182883918285
+Relative Altitude: -0.154
+Longitute:28.809325 Latitude:40.9747221
+Time: 2022-08-06 23:29:22.168515
+Airspeed: 12.219837188720703 m/s
+Euler Angles: Attitude:pitch=0.0030038768891245127,yaw=0.0021557945292443037,roll=0.0016417207662016153
+Relative Altitude: -0.146
+Longitute:28.809325 Latitude:40.9747515
+Time: 2022-08-06 23:29:22.478908
+Airspeed: 15.407658576965332 m/s
+Euler Angles: Attitude:pitch=0.004777871537953615,yaw=0.0016447248635813594,roll=0.0017814086750149727
+Relative Altitude: -0.179
+Longitute:28.809325 Latitude:40.9748228
+Time: 2022-08-06 23:29:22.788060
+Airspeed: 16.875423431396484 m/s
+Euler Angles: Attitude:pitch=0.005937880836427212,yaw=0.0015539972810074687,roll=0.001858492149040103
+Relative Altitude: -0.209
+Longitute:28.8093249 Latitude:40.9748639
+Time: 2022-08-06 23:29:23.102885
+Airspeed: 17.890100479125977 m/s
+Euler Angles: Attitude:pitch=0.05625394731760025,yaw=0.0014327304670587182,roll=-0.00018478333367966115
+Relative Altitude: -0.172
+Longitute:28.8093249 Latitude:40.974904
+Time: 2022-08-06 23:29:23.412564
+Airspeed: 19.781875610351562 m/s
+Euler Angles: Attitude:pitch=0.16425615549087524,yaw=0.0010172761976718903,roll=-0.003056903602555394
+Relative Altitude: 0.65
+Longitute:28.8093249 Latitude:40.9749511
+Time: 2022-08-06 23:29:23.725257
+Airspeed: 22.412649154663086 m/s
+Euler Angles: Attitude:pitch=0.11749758571386337,yaw=0.0015910028014332056,roll=-0.00033964309841394424
+Relative Altitude: 3.075
+Longitute:28.8093248 Latitude:40.9750498
+Time: 2022-08-06 23:29:24.033650
+Airspeed: 23.271638870239258 m/s
+Euler Angles: Attitude:pitch=0.13775479793548584,yaw=-0.00048186254571191967,roll=-0.0032185502350330353
+Relative Altitude: 4.136
+Longitute:28.8093247 Latitude:40.975101
+Time: 2022-08-06 23:29:24.341869
+Airspeed: 23.878339767456055 m/s
+Euler Angles: Attitude:pitch=0.2093174159526825,yaw=0.0015981141477823257,roll=-0.003987256903201342
+Relative Altitude: 5.592
+Longitute:28.8093246 Latitude:40.9751569
+Time: 2022-08-06 23:29:24.653366
+Airspeed: 24.045093536376953 m/s
+Euler Angles: Attitude:pitch=0.24149848520755768,yaw=-4.955804979545064e-05,roll=-0.004513522610068321
+Relative Altitude: 7.285
+Longitute:28.8093245 Latitude:40.9752075
+Time: 2022-08-06 23:29:24.963487
+Airspeed: 24.217041015625 m/s
+Euler Angles: Attitude:pitch=0.22685545682907104,yaw=0.00024081100127659738,roll=-0.006477381102740765
+Relative Altitude: 10.931
+Longitute:28.8093241 Latitude:40.9753118
+Time: 2022-08-06 23:29:25.274140
+Airspeed: 24.163991928100586 m/s
+Euler Angles: Attitude:pitch=0.23751556873321533,yaw=0.0014427523128688335,roll=-0.0031258841045200825
+Relative Altitude: 12.783
+Longitute:28.8093239 Latitude:40.9753657
+Time: 2022-08-06 23:29:25.581485
+Airspeed: 24.14984703063965 m/s
+Euler Angles: Attitude:pitch=0.24308831989765167,yaw=0.00014690928219351918,roll=-0.0015992863336578012
+Relative Altitude: 14.554
+Longitute:28.8093238 Latitude:40.9754152
+Time: 2022-08-06 23:29:25.891945
+Airspeed: 24.116605758666992 m/s
+Euler Angles: Attitude:pitch=0.245218887925148,yaw=-0.00047239221748895943,roll=-0.0022879289463162422
+Relative Altitude: 16.493
+Longitute:28.8093237 Latitude:40.9754687
+Time: 2022-08-06 23:29:26.200777
+Airspeed: 24.042133331298828 m/s
+Euler Angles: Attitude:pitch=0.24211083352565765,yaw=-0.0003077086294069886,roll=-0.003308737650513649
+Relative Altitude: 18.284
+Longitute:28.8093235 Latitude:40.9755181
+Time: 2022-08-06 23:29:26.510362
+Airspeed: 24.067142486572266 m/s
+Euler Angles: Attitude:pitch=0.23154351115226746,yaw=-0.0005132940714247525,roll=-0.002121984725818038
+Relative Altitude: 21.923
+Longitute:28.8093229 Latitude:40.9756223
+Time: 2022-08-06 23:29:26.817735
+Airspeed: 24.08823013305664 m/s
+Euler Angles: Attitude:pitch=0.23402851819992065,yaw=-0.0013062190264463425,roll=-0.002228460041806102
+Relative Altitude: 23.811
+Longitute:28.8093226 Latitude:40.9756763
+Time: 2022-08-06 23:29:27.124779
+Airspeed: 24.063037872314453 m/s
+Euler Angles: Attitude:pitch=0.23691383004188538,yaw=-0.0033935518004000187,roll=-0.002897972008213401
+Relative Altitude: 25.577
+Longitute:28.8093222 Latitude:40.9757262
+Time: 2022-08-06 23:29:27.437790
+Airspeed: 24.061464309692383 m/s
+Euler Angles: Attitude:pitch=0.23692409694194794,yaw=-0.0011113639920949936,roll=-0.000640718440990895
+Relative Altitude: 27.498
+Longitute:28.8093217 Latitude:40.97578
+Time: 2022-08-06 23:29:27.749689
+Airspeed: 24.12369728088379 m/s
+Euler Angles: Attitude:pitch=0.23744098842144012,yaw=-0.003633674932643771,roll=-0.00032771663973107934
+Relative Altitude: 31.168
+Longitute:28.8093208 Latitude:40.9758836
+Time: 2022-08-06 23:29:28.061098
+Airspeed: 24.13010025024414 m/s
+Euler Angles: Attitude:pitch=0.24358586966991425,yaw=-0.004831166472285986,roll=-0.0007839574827812612
+Relative Altitude: 32.962
+Longitute:28.8093203 Latitude:40.9759333
+Time: 2022-08-06 23:29:28.369400
+Airspeed: 24.134140014648438 m/s
+Euler Angles: Attitude:pitch=0.24160444736480713,yaw=-0.004129302222281694,roll=0.0017565039452165365
+Relative Altitude: 34.934
+Longitute:28.8093197 Latitude:40.9759873
+Time: 2022-08-06 23:29:28.681676
+Airspeed: 24.135215759277344 m/s
+Euler Angles: Attitude:pitch=0.23929741978645325,yaw=-0.005558096803724766,roll=0.0015067784115672112
+Relative Altitude: 36.736
+Longitute:28.8093191 Latitude:40.9760375
+Time: 2022-08-06 23:29:28.993721
+Airspeed: 24.051616668701172 m/s
+Euler Angles: Attitude:pitch=0.24646922945976257,yaw=-0.001590588130056858,roll=0.0033205801155418158
+Relative Altitude: 40.504
+Longitute:28.8093179 Latitude:40.9761417
+Time: 2022-08-06 23:29:29.303824
+Airspeed: 24.107254028320312 m/s
+Euler Angles: Attitude:pitch=0.245071142911911,yaw=-0.005290154833346605,roll=0.002326112473383546
+Relative Altitude: 42.497
+Longitute:28.8093173 Latitude:40.9761955
+Time: 2022-08-06 23:29:29.613949
+Airspeed: 24.03753662109375 m/s
+Euler Angles: Attitude:pitch=0.24566073715686798,yaw=-0.005196570884436369,roll=0.0014849640429019928
+Relative Altitude: 44.325
+Longitute:28.8093167 Latitude:40.9762451
+Time: 2022-08-06 23:29:29.922546
+Airspeed: 24.10243797302246 m/s
+Euler Angles: Attitude:pitch=0.2464185506105423,yaw=-0.004495421424508095,roll=0.002694790717214346
+Relative Altitude: 46.316
+Longitute:28.809316 Latitude:40.9762987
+Time: 2022-08-06 23:29:30.234086
+Airspeed: 24.130571365356445 m/s
+Euler Angles: Attitude:pitch=0.2445017248392105,yaw=-0.0034583795350044966,roll=0.005140441004186869
+Relative Altitude: 50.134
+Longitute:28.8093147 Latitude:40.9764023
+Time: 2022-08-06 23:29:30.549867
+Airspeed: 24.133468627929688 m/s
+Euler Angles: Attitude:pitch=0.24664846062660217,yaw=-0.003663920797407627,roll=0.0013354350812733173
+Relative Altitude: 51.958
+Longitute:28.8093141 Latitude:40.9764524
+Time: 2022-08-06 23:29:30.858748
+Airspeed: 24.085647583007812 m/s
+Euler Angles: Attitude:pitch=0.2489738017320633,yaw=-0.0030924291349947453,roll=0.001024256693199277
+Relative Altitude: 53.948
+Longitute:28.8093135 Latitude:40.9765064
+Time: 2022-08-06 23:29:31.171373
+Airspeed: 24.02692222595215 m/s
+Euler Angles: Attitude:pitch=0.25330236554145813,yaw=-0.004706159234046936,roll=0.0015593144344165921
+Relative Altitude: 55.814
+Longitute:28.8093128 Latitude:40.976556
+Time: 2022-08-06 23:29:31.482884
+Airspeed: 24.06608772277832 m/s
+Euler Angles: Attitude:pitch=0.25078868865966797,yaw=-0.0038336128927767277,roll=0.0009849410271272063
+Relative Altitude: 59.712
+Longitute:28.8093114 Latitude:40.976659
+Time: 2022-08-06 23:29:31.793095
+Airspeed: 24.00324058532715 m/s
+Euler Angles: Attitude:pitch=0.2523975372314453,yaw=-0.0031496987212449312,roll=0.004046526271849871
+Relative Altitude: 61.728
+Longitute:28.8093106 Latitude:40.9767124
+Time: 2022-08-06 23:29:32.103529
+Airspeed: 24.021385192871094 m/s
+Euler Angles: Attitude:pitch=0.2541539669036865,yaw=-0.00498943543061614,roll=0.00387434009462595
+Relative Altitude: 63.597
+Longitute:28.8093099 Latitude:40.9767617
+Time: 2022-08-06 23:29:32.411417
+Airspeed: 23.987876892089844 m/s
+Euler Angles: Attitude:pitch=0.2562400698661804,yaw=-0.0027919646818190813,roll=0.004989786073565483
+Relative Altitude: 65.64
+Longitute:28.8093092 Latitude:40.9768151
+Time: 2022-08-06 23:29:32.726673
+Airspeed: 24.002405166625977 m/s
+Euler Angles: Attitude:pitch=0.2574826776981354,yaw=-0.003668712917715311,roll=0.0017947180895134807
+Relative Altitude: 69.572
+Longitute:28.8093078 Latitude:40.9769182
+Time: 2022-08-06 23:29:33.031235
+Airspeed: 23.986066818237305 m/s
+Euler Angles: Attitude:pitch=0.2585686445236206,yaw=-0.003359685419127345,roll=0.000466742116259411
+Relative Altitude: 71.477
+Longitute:28.8093071 Latitude:40.9769675
+Time: 2022-08-06 23:29:33.341582
+Airspeed: 23.975749969482422 m/s
+Euler Angles: Attitude:pitch=0.2547454535961151,yaw=-0.004385290667414665,roll=0.002205870347097516
+Relative Altitude: 73.543
+Longitute:28.8093063 Latitude:40.9770211
+Time: 2022-08-06 23:29:33.652647
+Airspeed: 23.973003387451172 m/s
+Euler Angles: Attitude:pitch=0.25583094358444214,yaw=-0.004647011868655682,roll=0.0029384074732661247
+Relative Altitude: 75.43
+Longitute:28.8093055 Latitude:40.9770704
+Time: 2022-08-06 23:29:33.965048
+Airspeed: 23.970806121826172 m/s
+Euler Angles: Attitude:pitch=0.26081836223602295,yaw=-0.00590929901227355,roll=0.005095430184155703
+Relative Altitude: 79.431
+Longitute:28.8093039 Latitude:40.9771727
+Time: 2022-08-06 23:29:34.273525
+Airspeed: 23.92052459716797 m/s
+Euler Angles: Attitude:pitch=0.2578483521938324,yaw=-0.0069001722149550915,roll=0.005707720294594765
+Relative Altitude: 81.499
+Longitute:28.809303 Latitude:40.977226
+Time: 2022-08-06 23:29:34.584789
+Airspeed: 23.910938262939453 m/s
+Euler Angles: Attitude:pitch=0.26186633110046387,yaw=-0.008499491959810257,roll=0.0066052693873643875
+Relative Altitude: 83.411
+Longitute:28.809302 Latitude:40.9772755
+Time: 2022-08-06 23:29:34.895200
+Airspeed: 23.949996948242188 m/s
+Euler Angles: Attitude:pitch=0.262871116399765,yaw=-0.008430329151451588,roll=0.009295628406107426
+Relative Altitude: 85.494
+Longitute:28.809301 Latitude:40.9773293
+Time: 2022-08-06 23:29:35.205565
+Airspeed: 23.960386276245117 m/s
+Euler Angles: Attitude:pitch=0.2648533582687378,yaw=-0.006276678293943405,roll=0.011034522205591202
+Relative Altitude: 87.428
+Longitute:28.8093001 Latitude:40.9773785
+Time: 2022-08-06 23:29:35.518676
+Airspeed: 23.933700561523438 m/s
+Euler Angles: Attitude:pitch=0.26610615849494934,yaw=-0.006443920079618692,roll=0.004316227976232767
+Relative Altitude: 91.504
+Longitute:28.8092983 Latitude:40.9774809
+Time: 2022-08-06 23:29:35.828584
+Airspeed: 23.957794189453125 m/s
+Euler Angles: Attitude:pitch=0.26669594645500183,yaw=-0.0052881306037306786,roll=0.00497397081926465
+Relative Altitude: 93.625
+Longitute:28.8092974 Latitude:40.9775338
+Time: 2022-08-06 23:29:36.140365
+Airspeed: 23.87913703918457 m/s
+Euler Angles: Attitude:pitch=0.2687831223011017,yaw=-0.004832186736166477,roll=0.005324927624315023
+Relative Altitude: 95.579
+Longitute:28.8092966 Latitude:40.9775826
+Time: 2022-08-06 23:29:36.450324
+Airspeed: 23.91459846496582 m/s
+Euler Angles: Attitude:pitch=0.2722221314907074,yaw=-0.005030573345720768,roll=0.0037538150791078806
+Relative Altitude: 97.721
+Longitute:28.8092958 Latitude:40.9776354
+Time: 2022-08-06 23:29:36.759429
+Airspeed: 23.822057723999023 m/s
+Euler Angles: Attitude:pitch=0.2706754207611084,yaw=-0.006071856245398521,roll=0.003795181168243289
+Relative Altitude: 101.84
+Longitute:28.8092941 Latitude:40.9777378
+Time: 2022-08-06 23:29:37.073533
+Airspeed: 23.862720489501953 m/s
+Euler Angles: Attitude:pitch=0.2719859480857849,yaw=-0.004517845343798399,roll=0.005943885538727045
+Relative Altitude: 103.819
+Longitute:28.8092933 Latitude:40.9777868
+Time: 2022-08-06 23:29:37.388167
+Airspeed: 23.898460388183594 m/s
+Euler Angles: Attitude:pitch=0.27270951867103577,yaw=-0.006328370422124863,roll=0.007157627027481794
+Relative Altitude: 105.978
+Longitute:28.8092925 Latitude:40.9778396
+Time: 2022-08-06 23:29:37.700084
+Airspeed: 23.849985122680664 m/s
+Euler Angles: Attitude:pitch=0.2694433331489563,yaw=-0.005434894002974033,roll=0.007530984468758106
+Relative Altitude: 107.971
+Longitute:28.8092917 Latitude:40.9778885
+Time: 2022-08-06 23:29:38.009890
+Airspeed: 23.81117057800293 m/s
+Euler Angles: Attitude:pitch=0.24918857216835022,yaw=-0.0057462179102003574,roll=0.004159710370004177
+Relative Altitude: 111.99
+Longitute:28.8092902 Latitude:40.9779902
+Time: 2022-08-06 23:29:38.318355
+Airspeed: 23.880817413330078 m/s
+Euler Angles: Attitude:pitch=0.24279779195785522,yaw=-0.006079141981899738,roll=0.0019154425244778395
+Relative Altitude: 113.984
+Longitute:28.8092893 Latitude:40.9780434
+Time: 2022-08-06 23:29:38.628799
+Airspeed: 23.891481399536133 m/s
+Euler Angles: Attitude:pitch=0.23960399627685547,yaw=-0.0049817836843431,roll=0.0018678484484553337
+Relative Altitude: 115.793
+Longitute:28.8092885 Latitude:40.9780927
+Time: 2022-08-06 23:29:38.938015
+Airspeed: 23.943336486816406 m/s
+Euler Angles: Attitude:pitch=0.22931018471717834,yaw=-0.0047315978445112705,roll=0.004376213066279888
+Relative Altitude: 117.724
+Longitute:28.8092877 Latitude:40.9781468
+Time: 2022-08-06 23:29:39.248736
+Airspeed: 23.990283966064453 m/s
+Euler Angles: Attitude:pitch=0.22248627245426178,yaw=-0.0057074264623224735,roll=0.007269962690770626
+Relative Altitude: 121.336
+Longitute:28.8092862 Latitude:40.9782512
+Camera Active Time:2022-08-06 23:29:46.317703
+The X value of Blue circle's: 579 , the Y value of Blue circle's: 477,the angle between origin and circle center: -42.4603195496593
+Camera Active Time:2022-08-06 23:29:46.322966
+The X value of Blue circle's: 167 , the Y value of Blue circle's: 454,the angle between origin and circle center: -125.56299629651868
+Camera Active Time:2022-08-06 23:29:46.328950
+The X value of Blue circle's: 130 , the Y value of Blue circle's: 460,the angle between origin and circle center: -130.8150838748816
+Camera Active Time:2022-08-06 23:29:46.332939
+The X value of Blue circle's: 607 , the Y value of Blue circle's: 456,the angle between origin and circle center: -36.965603201899064
+Camera Active Time:2022-08-06 23:29:46.336929
+The X value of Blue circle's: 198 , the Y value of Blue circle's: 438,the angle between origin and circle center: -121.63978155523553
+Camera Active Time:2022-08-06 23:29:46.341915
+The X value of Blue circle's: 216 , the Y value of Blue circle's: 432,the angle between origin and circle center: -118.44292862436335
+Camera Active Time:2022-08-06 23:29:46.345905
+The X value of Blue circle's: 472 , the Y value of Blue circle's: 428,the angle between origin and circle center: -51.04409216224111
+Camera Active Time:2022-08-06 23:29:46.349894
+The X value of Blue circle's: 160 , the Y value of Blue circle's: 416,the angle between origin and circle center: -132.27368900609375
+Camera Active Time:2022-08-06 23:29:46.353883
+The X value of Blue circle's: 200 , the Y value of Blue circle's: 411,the angle between origin and circle center: -125.05942696688697
+Camera Active Time:2022-08-06 23:29:46.359867
+The X value of Blue circle's: 589 , the Y value of Blue circle's: 410,the angle between origin and circle center: -32.291668864436154
+Camera Active Time:2022-08-06 23:29:46.364855
+The X value of Blue circle's: 193 , the Y value of Blue circle's: 397,the angle between origin and circle center: -128.96999119171855
+Camera Active Time:2022-08-06 23:29:46.368882
+The X value of Blue circle's: 171 , the Y value of Blue circle's: 388,the angle between origin and circle center: -135.19291435353304
+Camera Active Time:2022-08-06 23:29:46.373864
+The X value of Blue circle's: 568 , the Y value of Blue circle's: 387,the angle between origin and circle center: -30.657000381818538
+Camera Active Time:2022-08-06 23:29:46.377854
+The X value of Blue circle's: 146 , the Y value of Blue circle's: 391,the angle between origin and circle center: -139.04802935074224
+Camera Active Time:2022-08-06 23:29:46.381810
+The X value of Blue circle's: 506 , the Y value of Blue circle's: 388,the angle between origin and circle center: -38.50922836552432
+Camera Active Time:2022-08-06 23:29:46.386829
+The X value of Blue circle's: 157 , the Y value of Blue circle's: 376,the angle between origin and circle center: -140.15987174695945
+Camera Active Time:2022-08-06 23:29:46.395771
+The X value of Blue circle's: 443 , the Y value of Blue circle's: 368,the angle between origin and circle center: -46.14119925558714
+Camera Active Time:2022-08-06 23:29:46.399761
+The X value of Blue circle's: 553 , the Y value of Blue circle's: 366,the angle between origin and circle center: -28.40330499339585
+Camera Active Time:2022-08-06 23:29:46.403752
+The X value of Blue circle's: 566 , the Y value of Blue circle's: 364,the angle between origin and circle center: -26.75107578158552
+Camera Active Time:2022-08-06 23:29:46.408739
+The X value of Blue circle's: 531 , the Y value of Blue circle's: 361,the angle between origin and circle center: -29.832534129397732
+Camera Active Time:2022-08-06 23:29:46.412727
+The X value of Blue circle's: 180 , the Y value of Blue circle's: 358,the angle between origin and circle center: -139.87389642220478
+Camera Active Time:2022-08-06 23:29:46.416750
+The X value of Blue circle's: 170 , the Y value of Blue circle's: 353,the angle between origin and circle center: -143.0080667995852
+Camera Active Time:2022-08-06 23:29:46.422702
+The X value of Blue circle's: 186 , the Y value of Blue circle's: 341,the angle between origin and circle center: -142.99352149363978
+Camera Active Time:2022-08-06 23:29:46.427688
+The X value of Blue circle's: 583 , the Y value of Blue circle's: 343,the angle between origin and circle center: -21.387048811184716
+Camera Active Time:2022-08-06 23:29:46.432707
+The X value of Blue circle's: 496 , the Y value of Blue circle's: 343,the angle between origin and circle center: -30.337334786457824
+Camera Active Time:2022-08-06 23:29:46.437659
+The X value of Blue circle's: 152 , the Y value of Blue circle's: 340,the angle between origin and circle center: -149.2372804657611
+Camera Active Time:2022-08-06 23:29:46.441673
+The X value of Blue circle's: 581 , the Y value of Blue circle's: 323,the angle between origin and circle center: -17.641062733446592
+Camera Active Time:2022-08-06 23:29:46.446671
+The X value of Blue circle's: 411 , the Y value of Blue circle's: 324,the angle between origin and circle center: -42.70938995736147
+Camera Active Time:2022-08-06 23:29:46.450658
+The X value of Blue circle's: 524 , the Y value of Blue circle's: 324,the angle between origin and circle center: -22.380135051959574
+Camera Active Time:2022-08-06 23:29:46.457606
+The X value of Blue circle's: 501 , the Y value of Blue circle's: 324,the angle between origin and circle center: -24.895467545268925
+Camera Active Time:2022-08-06 23:29:46.461595
+The X value of Blue circle's: 501 , the Y value of Blue circle's: 307,the angle between origin and circle center: -20.31282627020737
+Camera Active Time:2022-08-06 23:29:46.465585
+The X value of Blue circle's: 561 , the Y value of Blue circle's: 304,the angle between origin and circle center: -14.872212053755863
+Camera Active Time:2022-08-06 23:29:46.470571
+The X value of Blue circle's: 153 , the Y value of Blue circle's: 294,the angle between origin and circle center: -162.08121540684283
+Camera Active Time:2022-08-06 23:29:46.474561
+The X value of Blue circle's: 516 , the Y value of Blue circle's: 283,the angle between origin and circle center: -12.373954628054014
+Camera Active Time:2022-08-06 23:29:46.478550
+The X value of Blue circle's: 172 , the Y value of Blue circle's: 278,the angle between origin and circle center: -165.59997869320895
+Camera Active Time:2022-08-06 23:29:46.482539
+The X value of Blue circle's: 90 , the Y value of Blue circle's: 274,the angle between origin and circle center: -171.5910882673993
+Camera Active Time:2022-08-06 23:29:46.488523
+The X value of Blue circle's: 15 , the Y value of Blue circle's: 282,the angle between origin and circle center: -172.1594007285494
+Camera Active Time:2022-08-06 23:29:46.492513
+The X value of Blue circle's: 177 , the Y value of Blue circle's: 270,the angle between origin and circle center: -168.15173376158558
+Camera Active Time:2022-08-06 23:29:46.496502
+The X value of Blue circle's: 490 , the Y value of Blue circle's: 276,the angle between origin and circle center: -11.956584243149132
+Camera Active Time:2022-08-06 23:29:46.501489
+The X value of Blue circle's: 39 , the Y value of Blue circle's: 270,the angle between origin and circle center: -173.90609574640584
+Camera Active Time:2022-08-06 23:29:46.505478
+The X value of Blue circle's: 66 , the Y value of Blue circle's: 273,the angle between origin and circle center: -172.59752441797568
+Camera Active Time:2022-08-06 23:29:46.509467
+The X value of Blue circle's: 9 , the Y value of Blue circle's: 268,the angle between origin and circle center: -174.8554079421319
+Camera Active Time:2022-08-06 23:29:46.513457
+The X value of Blue circle's: 118 , the Y value of Blue circle's: 269,the angle between origin and circle center: -171.83019163729173
+Camera Active Time:2022-08-06 23:29:46.517480
+The X value of Blue circle's: 577 , the Y value of Blue circle's: 262,the angle between origin and circle center: -4.892769114279933
+Camera Active Time:2022-08-06 23:29:46.522467
+The X value of Blue circle's: 164 , the Y value of Blue circle's: 265,the angle between origin and circle center: -170.89539913459782
+Camera Active Time:2022-08-06 23:29:46.526458
+The X value of Blue circle's: 472 , the Y value of Blue circle's: 259,the angle between origin and circle center: -7.125016348901798
+Camera Active Time:2022-08-06 23:29:46.530446
+The X value of Blue circle's: 404 , the Y value of Blue circle's: 255,the angle between origin and circle center: -10.124671655397817
+Camera Active Time:2022-08-06 23:29:46.536876
+The X value of Blue circle's: 110 , the Y value of Blue circle's: 245,the angle between origin and circle center: -178.6360724683971
+Camera Active Time:2022-08-06 23:29:46.540865
+The X value of Blue circle's: 94 , the Y value of Blue circle's: 248,the angle between origin and circle center: -177.9726772994998
+Camera Active Time:2022-08-06 23:29:46.544856
+The X value of Blue circle's: 133 , the Y value of Blue circle's: 232,the angle between origin and circle center: 177.55033737987296
+Camera Active Time:2022-08-06 23:29:46.549810
+The X value of Blue circle's: 147 , the Y value of Blue circle's: 223,the angle between origin and circle center: 174.38779677067515
+Camera Active Time:2022-08-06 23:29:46.554796
+The X value of Blue circle's: 6 , the Y value of Blue circle's: 218,the angle between origin and circle center: 175.99219545762767
+Camera Active Time:2022-08-06 23:29:46.558821
+The X value of Blue circle's: 419 , the Y value of Blue circle's: 183,the angle between origin and circle center: 29.931511840507792
+Camera Active Time:2022-08-06 23:29:46.562804
+The X value of Blue circle's: 18 , the Y value of Blue circle's: 161,the angle between origin and circle center: 165.34051700136783
+Camera Active Time:2022-08-06 23:29:46.567793
+The X value of Blue circle's: 135 , the Y value of Blue circle's: 160,the angle between origin and circle center: 156.61477894278624
+Camera Active Time:2022-08-06 23:29:46.571783
+The X value of Blue circle's: 31 , the Y value of Blue circle's: 159,the angle between origin and circle center: 164.3430472342043
+Camera Active Time:2022-08-06 23:29:46.575775
+The X value of Blue circle's: 6 , the Y value of Blue circle's: 154,the angle between origin and circle center: 164.6831401791233
+Camera Active Time:2022-08-06 23:29:46.579728
+The X value of Blue circle's: 131 , the Y value of Blue circle's: 147,the angle between origin and circle center: 153.79988515865267
+Camera Active Time:2022-08-06 23:29:46.583753
+The X value of Blue circle's: 124 , the Y value of Blue circle's: 141,the angle between origin and circle center: 153.2015660830701
+Camera Active Time:2022-08-06 23:29:46.587711
+The X value of Blue circle's: 47 , the Y value of Blue circle's: 139,the angle between origin and circle center: 159.69737233764383
+Camera Active Time:2022-08-06 23:29:46.592728
+The X value of Blue circle's: 400 , the Y value of Blue circle's: 144,the angle between origin and circle center: 50.19442890773481
+Camera Active Time:2022-08-06 23:29:46.596716
+The X value of Blue circle's: 94 , the Y value of Blue circle's: 136,the angle between origin and circle center: 155.2892005377698
+Camera Active Time:2022-08-06 23:29:46.600707
+The X value of Blue circle's: 22 , the Y value of Blue circle's: 136,the angle between origin and circle center: 160.76135548309156
+Camera Active Time:2022-08-06 23:29:46.604695
+The X value of Blue circle's: 112 , the Y value of Blue circle's: 145,the angle between origin and circle center: 155.45236133074872
+Camera Active Time:2022-08-06 23:29:46.608685
+The X value of Blue circle's: 31 , the Y value of Blue circle's: 125,the angle between origin and circle center: 158.3012097105102
+Camera Active Time:2022-08-06 23:29:46.613639
+The X value of Blue circle's: 100 , the Y value of Blue circle's: 125,the angle between origin and circle center: 152.4027041313563
+Camera Active Time:2022-08-06 23:29:46.617661
+The X value of Blue circle's: 66 , the Y value of Blue circle's: 133,the angle between origin and circle center: 157.1562620876718
+Camera Active Time:2022-08-06 23:29:46.622615
+The X value of Blue circle's: 384 , the Y value of Blue circle's: 126,the angle between origin and circle center: 60.68999292908387
+Camera Active Time:2022-08-06 23:29:46.626634
+The X value of Blue circle's: 37 , the Y value of Blue circle's: 112,the angle between origin and circle center: 155.66291172411346
+Camera Active Time:2022-08-06 23:29:46.630625
+The X value of Blue circle's: 32 , the Y value of Blue circle's: 102,the angle between origin and circle center: 154.39781244855823
+Camera Active Time:2022-08-06 23:29:46.634618
+The X value of Blue circle's: 48 , the Y value of Blue circle's: 91,the angle between origin and circle center: 151.28633137294574
+Camera Active Time:2022-08-06 23:29:46.638604
+The X value of Blue circle's: 96 , the Y value of Blue circle's: 82,the angle between origin and circle center: 144.80249671524524
+Camera Active Time:2022-08-06 23:29:46.644588
+The X value of Blue circle's: 17 , the Y value of Blue circle's: 89,the angle between origin and circle center: 153.51063673069623
+Camera Active Time:2022-08-06 23:29:46.648578
+The X value of Blue circle's: 69 , the Y value of Blue circle's: 76,the angle between origin and circle center: 146.83994306817812
+Camera Active Time:2022-08-06 23:29:46.652535
+The X value of Blue circle's: 37 , the Y value of Blue circle's: 70,the angle between origin and circle center: 149.00647942929837
+Camera Active Time:2022-08-06 23:29:46.657553
+The X value of Blue circle's: 145 , the Y value of Blue circle's: 214,the angle between origin and circle center: 171.54930110639796
+Camera Active Time:2022-08-06 23:29:46.712990
+The X value of Blue circle's: 91 , the Y value of Blue circle's: 363,the angle between origin and circle center: -151.75895841718088
+Camera Active Time:2022-08-06 23:29:46.713985
+The X value of Blue circle's: 397 , the Y value of Blue circle's: 163,the angle between origin and circle center: 45.0
+Camera Active Time:2022-08-06 23:29:46.714951
+The X value of Blue circle's: 372 , the Y value of Blue circle's: 152,the angle between origin and circle center: 59.42077312751099
+Camera Active Time:2022-08-06 23:29:46.716944
+The X value of Blue circle's: 75 , the Y value of Blue circle's: 190,the angle between origin and circle center: 168.4653793463553
+Camera Active Time:2022-08-06 23:29:46.717976
+The X value of Blue circle's: 353 , the Y value of Blue circle's: 128,the angle between origin and circle center: 73.58276716956522
+Camera Active Time:2022-08-06 23:29:46.718940
+The X value of Blue circle's: 337 , the Y value of Blue circle's: 129,the angle between origin and circle center: 81.2926297284796
+Camera Active Time:2022-08-06 23:29:46.742882
+The X value of Blue circle's: 397 , the Y value of Blue circle's: 168,the angle between origin and circle center: 43.078044041068566
+Camera Active Time:2022-08-06 23:29:46.743878
+The X value of Blue circle's: 367 , the Y value of Blue circle's: 148,the angle between origin and circle center: 62.93889386252676
+Camera Active Time:2022-08-06 23:29:46.744875
+The X value of Blue circle's: 75 , the Y value of Blue circle's: 192,the angle between origin and circle center: 168.91510870775767
+Camera Active Time:2022-08-06 23:29:46.788119
+The X value of Blue circle's: 358 , the Y value of Blue circle's: 145,the angle between origin and circle center: 68.19859051364818
+Camera Active Time:2022-08-06 23:29:46.789116
+The X value of Blue circle's: 74 , the Y value of Blue circle's: 193,the angle between origin and circle center: 169.18359766464692
+Camera Active Time:2022-08-06 23:29:46.822886
+The X value of Blue circle's: 358 , the Y value of Blue circle's: 145,the angle between origin and circle center: 68.19859051364818
+Camera Active Time:2022-08-06 23:29:46.823884
+The X value of Blue circle's: 74 , the Y value of Blue circle's: 193,the angle between origin and circle center: 169.18359766464692
+Camera Active Time:2022-08-06 23:29:46.853116
+The X value of Blue circle's: 394 , the Y value of Blue circle's: 169,the angle between origin and circle center: 43.814739181377604
+Camera Active Time:2022-08-06 23:29:46.854111
+The X value of Blue circle's: 355 , the Y value of Blue circle's: 144,the angle between origin and circle center: 69.96898731910227
+Camera Active Time:2022-08-06 23:29:46.856105
+The X value of Blue circle's: 74 , the Y value of Blue circle's: 195,the angle between origin and circle center: 169.6336773965495
+Camera Active Time:2022-08-06 23:29:46.888423
+The X value of Blue circle's: 394 , the Y value of Blue circle's: 169,the angle between origin and circle center: 43.814739181377604
+Camera Active Time:2022-08-06 23:29:46.890418
+The X value of Blue circle's: 355 , the Y value of Blue circle's: 144,the angle between origin and circle center: 69.96898731910227
+Camera Active Time:2022-08-06 23:29:46.891415
+The X value of Blue circle's: 74 , the Y value of Blue circle's: 195,the angle between origin and circle center: 169.6336773965495
+Camera Active Time:2022-08-06 23:29:46.930599
+The X value of Blue circle's: 392 , the Y value of Blue circle's: 168,the angle between origin and circle center: 45.0
+Camera Active Time:2022-08-06 23:29:46.932593
+The X value of Blue circle's: 351 , the Y value of Blue circle's: 148,the angle between origin and circle center: 71.37842063351242
+Camera Active Time:2022-08-06 23:29:46.934631
+The X value of Blue circle's: 365 , the Y value of Blue circle's: 143,the angle between origin and circle center: 65.11258828907549
+Camera Active Time:2022-08-06 23:29:46.936582
+The X value of Blue circle's: 75 , the Y value of Blue circle's: 196,the angle between origin and circle center: 169.81867999348555
+Camera Active Time:2022-08-06 23:29:46.962399
+The X value of Blue circle's: 392 , the Y value of Blue circle's: 168,the angle between origin and circle center: 45.0
+Camera Active Time:2022-08-06 23:29:46.963390
+The X value of Blue circle's: 351 , the Y value of Blue circle's: 148,the angle between origin and circle center: 71.37842063351242
+Camera Active Time:2022-08-06 23:29:46.964389
+The X value of Blue circle's: 365 , the Y value of Blue circle's: 143,the angle between origin and circle center: 65.11258828907549
+Camera Active Time:2022-08-06 23:29:46.965352
+The X value of Blue circle's: 75 , the Y value of Blue circle's: 196,the angle between origin and circle center: 169.81867999348555
+Camera Active Time:2022-08-06 23:29:46.995729
+The X value of Blue circle's: 395 , the Y value of Blue circle's: 168,the angle between origin and circle center: 43.830860672092584
+Camera Active Time:2022-08-06 23:29:46.996692
+The X value of Blue circle's: 341 , the Y value of Blue circle's: 140,the angle between origin and circle center: 78.14022087905202
+Camera Active Time:2022-08-06 23:29:46.997689
+The X value of Blue circle's: 76 , the Y value of Blue circle's: 198,the angle between origin and circle center: 170.23332060422732
+Camera Active Time:2022-08-06 23:29:47.021031
+The X value of Blue circle's: 395 , the Y value of Blue circle's: 168,the angle between origin and circle center: 43.830860672092584
+Camera Active Time:2022-08-06 23:29:47.023063
+The X value of Blue circle's: 341 , the Y value of Blue circle's: 140,the angle between origin and circle center: 78.14022087905202
+Camera Active Time:2022-08-06 23:29:47.024059
+The X value of Blue circle's: 76 , the Y value of Blue circle's: 198,the angle between origin and circle center: 170.23332060422732
+Camera Active Time:2022-08-06 23:29:47.058642
+The X value of Blue circle's: 396 , the Y value of Blue circle's: 170,the angle between origin and circle center: 42.6467031338917
+Camera Active Time:2022-08-06 23:29:47.060636
+The X value of Blue circle's: 77 , the Y value of Blue circle's: 199,the angle between origin and circle center: 170.42300994070635
+Camera Active Time:2022-08-06 23:29:47.083844
+The X value of Blue circle's: 396 , the Y value of Blue circle's: 170,the angle between origin and circle center: 42.6467031338917
+Camera Active Time:2022-08-06 23:29:47.084806
+The X value of Blue circle's: 77 , the Y value of Blue circle's: 199,the angle between origin and circle center: 170.42300994070635
+Camera Active Time:2022-08-06 23:29:47.125202
+The X value of Blue circle's: 372 , the Y value of Blue circle's: 153,the angle between origin and circle center: 59.133190548862935
+Camera Active Time:2022-08-06 23:29:47.126199
+The X value of Blue circle's: 79 , the Y value of Blue circle's: 199,the angle between origin and circle center: 170.3450229043438
+Camera Active Time:2022-08-06 23:29:47.143057
+The X value of Blue circle's: 372 , the Y value of Blue circle's: 153,the angle between origin and circle center: 59.133190548862935
+Camera Active Time:2022-08-06 23:29:47.144086
+The X value of Blue circle's: 79 , the Y value of Blue circle's: 199,the angle between origin and circle center: 170.3450229043438
+Camera Active Time:2022-08-06 23:29:47.187959
+The X value of Blue circle's: 81 , the Y value of Blue circle's: 198,the angle between origin and circle center: 170.03305321578307
+Camera Active Time:2022-08-06 23:29:47.207905
+The X value of Blue circle's: 81 , the Y value of Blue circle's: 198,the angle between origin and circle center: 170.03305321578307
+Camera Active Time:2022-08-06 23:29:47.251789
+The X value of Blue circle's: 81 , the Y value of Blue circle's: 198,the angle between origin and circle center: 170.03305321578307
+Camera Active Time:2022-08-06 23:29:47.271000
+The X value of Blue circle's: 81 , the Y value of Blue circle's: 198,the angle between origin and circle center: 170.03305321578307
+Camera Active Time:2022-08-06 23:29:47.331527
+The X value of Blue circle's: 71 , the Y value of Blue circle's: 239,the angle between origin and circle center: 179.76989770490277
+Camera Active Time:2022-08-06 23:29:47.332558
+The X value of Blue circle's: 81 , the Y value of Blue circle's: 198,the angle between origin and circle center: 170.03305321578307
+Camera Active Time:2022-08-06 23:29:47.362012
+The X value of Blue circle's: 71 , the Y value of Blue circle's: 239,the angle between origin and circle center: 179.76989770490277
+Camera Active Time:2022-08-06 23:29:47.364007
+The X value of Blue circle's: 81 , the Y value of Blue circle's: 198,the angle between origin and circle center: 170.03305321578307
+Camera Active Time:2022-08-06 23:29:47.394556
+The X value of Blue circle's: 80 , the Y value of Blue circle's: 199,the angle between origin and circle center: 170.30555571480582
+Camera Active Time:2022-08-06 23:29:47.427701
+The X value of Blue circle's: 80 , the Y value of Blue circle's: 199,the angle between origin and circle center: 170.30555571480582
+Camera Active Time:2022-08-06 23:29:47.461778
+The X value of Blue circle's: 76 , the Y value of Blue circle's: 228,the angle between origin and circle center: 177.18444331578877
+Camera Active Time:2022-08-06 23:29:47.462780
+The X value of Blue circle's: 80 , the Y value of Blue circle's: 199,the angle between origin and circle center: 170.30555571480582
+Camera Active Time:2022-08-06 23:29:47.478471
+The X value of Blue circle's: 76 , the Y value of Blue circle's: 228,the angle between origin and circle center: 177.18444331578877
+Camera Active Time:2022-08-06 23:29:47.479468
+The X value of Blue circle's: 80 , the Y value of Blue circle's: 199,the angle between origin and circle center: 170.30555571480582
+Camera Active Time:2022-08-06 23:29:47.523971
+The X value of Blue circle's: 59 , the Y value of Blue circle's: 235,the angle between origin and circle center: 178.90251394661948
+Camera Active Time:2022-08-06 23:29:47.524969
+The X value of Blue circle's: 102 , the Y value of Blue circle's: 226,the angle between origin and circle center: 176.32550047917036
+Camera Active Time:2022-08-06 23:29:47.525966
+The X value of Blue circle's: 80 , the Y value of Blue circle's: 199,the angle between origin and circle center: 170.30555571480582
+Camera Active Time:2022-08-06 23:29:47.549562
+The X value of Blue circle's: 59 , the Y value of Blue circle's: 235,the angle between origin and circle center: 178.90251394661948
+Camera Active Time:2022-08-06 23:29:47.551556
+The X value of Blue circle's: 102 , the Y value of Blue circle's: 226,the angle between origin and circle center: 176.32550047917036
+Camera Active Time:2022-08-06 23:29:47.552553
+The X value of Blue circle's: 80 , the Y value of Blue circle's: 199,the angle between origin and circle center: 170.30555571480582
+Camera Active Time:2022-08-06 23:29:47.588247
+The X value of Blue circle's: 105 , the Y value of Blue circle's: 241,the angle between origin and circle center: -179.7335099239416
+Camera Active Time:2022-08-06 23:29:47.589211
+The X value of Blue circle's: 81 , the Y value of Blue circle's: 200,the angle between origin and circle center: 170.49880684847184
+Camera Active Time:2022-08-06 23:29:47.612513
+The X value of Blue circle's: 105 , the Y value of Blue circle's: 241,the angle between origin and circle center: -179.7335099239416
+Camera Active Time:2022-08-06 23:29:47.613511
+The X value of Blue circle's: 81 , the Y value of Blue circle's: 200,the angle between origin and circle center: 170.49880684847184
+Camera Active Time:2022-08-06 23:29:47.666613
+The X value of Blue circle's: 64 , the Y value of Blue circle's: 233,the angle between origin and circle center: 178.43370881301695
+Camera Active Time:2022-08-06 23:29:47.667610
+The X value of Blue circle's: 76 , the Y value of Blue circle's: 228,the angle between origin and circle center: 177.18444331578877
+Camera Active Time:2022-08-06 23:29:47.669603
+The X value of Blue circle's: 82 , the Y value of Blue circle's: 200,the angle between origin and circle center: 170.45961819515736
+Camera Active Time:2022-08-06 23:29:47.690547
+The X value of Blue circle's: 64 , the Y value of Blue circle's: 233,the angle between origin and circle center: 178.43370881301695
+Camera Active Time:2022-08-06 23:29:47.692541
+The X value of Blue circle's: 76 , the Y value of Blue circle's: 228,the angle between origin and circle center: 177.18444331578877
+Camera Active Time:2022-08-06 23:29:47.693539
+The X value of Blue circle's: 82 , the Y value of Blue circle's: 200,the angle between origin and circle center: 170.45961819515736
+Camera Active Time:2022-08-06 23:29:47.736424
+The X value of Blue circle's: 73 , the Y value of Blue circle's: 233,the angle between origin and circle center: 178.37666747490954
+Camera Active Time:2022-08-06 23:29:47.737421
+The X value of Blue circle's: 83 , the Y value of Blue circle's: 200,the angle between origin and circle center: 170.42010795798797
+Camera Active Time:2022-08-06 23:29:47.767343
+The X value of Blue circle's: 73 , the Y value of Blue circle's: 233,the angle between origin and circle center: 178.37666747490954
+Camera Active Time:2022-08-06 23:29:47.768341
+The X value of Blue circle's: 83 , the Y value of Blue circle's: 200,the angle between origin and circle center: 170.42010795798797
+Camera Active Time:2022-08-06 23:29:47.800255
+The X value of Blue circle's: 83 , the Y value of Blue circle's: 201,the angle between origin and circle center: 170.6553280979003
+Camera Active Time:2022-08-06 23:29:47.831112
+The X value of Blue circle's: 83 , the Y value of Blue circle's: 201,the angle between origin and circle center: 170.6553280979003
+Camera Active Time:2022-08-06 23:29:47.861942
+The X value of Blue circle's: 43 , the Y value of Blue circle's: 244,the angle between origin and circle center: -179.17268162518528
+Camera Active Time:2022-08-06 23:29:47.863904
+The X value of Blue circle's: 48 , the Y value of Blue circle's: 240,the angle between origin and circle center: -180.0
+Camera Active Time:2022-08-06 23:29:47.864902
+The X value of Blue circle's: 29 , the Y value of Blue circle's: 228,the angle between origin and circle center: 177.6386253418244
+Camera Active Time:2022-08-06 23:29:47.865899
+The X value of Blue circle's: 38 , the Y value of Blue circle's: 218,the angle between origin and circle center: 175.53915174148344
+Camera Active Time:2022-08-06 23:29:47.866895
+The X value of Blue circle's: 82 , the Y value of Blue circle's: 202,the angle between origin and circle center: 170.92850242282285
+Camera Active Time:2022-08-06 23:29:47.890900
+The X value of Blue circle's: 43 , the Y value of Blue circle's: 244,the angle between origin and circle center: -179.17268162518528
+Camera Active Time:2022-08-06 23:29:47.891900
+The X value of Blue circle's: 48 , the Y value of Blue circle's: 240,the angle between origin and circle center: -180.0
+Camera Active Time:2022-08-06 23:29:47.892895
+The X value of Blue circle's: 29 , the Y value of Blue circle's: 228,the angle between origin and circle center: 177.6386253418244
+Camera Active Time:2022-08-06 23:29:47.893895
+The X value of Blue circle's: 38 , the Y value of Blue circle's: 218,the angle between origin and circle center: 175.53915174148344
+Camera Active Time:2022-08-06 23:29:47.894892
+The X value of Blue circle's: 82 , the Y value of Blue circle's: 202,the angle between origin and circle center: 170.92850242282285
+Camera Active Time:2022-08-06 23:29:47.924529
+The X value of Blue circle's: 88 , the Y value of Blue circle's: 250,the angle between origin and circle center: -177.53188208617146
+Camera Active Time:2022-08-06 23:29:47.925527
+The X value of Blue circle's: 74 , the Y value of Blue circle's: 245,the angle between origin and circle center: -178.83561195987613
+Camera Active Time:2022-08-06 23:29:47.926524
+The X value of Blue circle's: 70 , the Y value of Blue circle's: 229,the angle between origin and circle center: 177.48061070879373
+Camera Active Time:2022-08-06 23:29:47.927522
+The X value of Blue circle's: 84 , the Y value of Blue circle's: 205,the angle between origin and circle center: 171.56423248664854
+Camera Active Time:2022-08-06 23:29:47.952621
+The X value of Blue circle's: 88 , the Y value of Blue circle's: 250,the angle between origin and circle center: -177.53188208617146
+Camera Active Time:2022-08-06 23:29:47.954650
+The X value of Blue circle's: 74 , the Y value of Blue circle's: 245,the angle between origin and circle center: -178.83561195987613
+Camera Active Time:2022-08-06 23:29:47.955648
+The X value of Blue circle's: 70 , the Y value of Blue circle's: 229,the angle between origin and circle center: 177.48061070879373
+Camera Active Time:2022-08-06 23:29:47.956642
+The X value of Blue circle's: 84 , the Y value of Blue circle's: 205,the angle between origin and circle center: 171.56423248664854
+Camera Active Time:2022-08-06 23:29:47.987068
+The X value of Blue circle's: 95 , the Y value of Blue circle's: 264,the angle between origin and circle center: -173.91147184580484
+Camera Active Time:2022-08-06 23:29:47.989097
+The X value of Blue circle's: 75 , the Y value of Blue circle's: 254,the angle between origin and circle center: -176.72951207681643
+Camera Active Time:2022-08-06 23:29:47.990062
+The X value of Blue circle's: 49 , the Y value of Blue circle's: 234,the angle between origin and circle center: 178.73166597038545
+Camera Active Time:2022-08-06 23:29:47.991060
+The X value of Blue circle's: 41 , the Y value of Blue circle's: 228,the angle between origin and circle center: 177.53718332408317
+Camera Active Time:2022-08-06 23:29:47.993053
+The X value of Blue circle's: 49 , the Y value of Blue circle's: 189,the angle between origin and circle center: 169.34205394350414
+Camera Active Time:2022-08-06 23:29:47.994051
+The X value of Blue circle's: 93 , the Y value of Blue circle's: 210,the angle between origin and circle center: 172.47149891603945
+Camera Active Time:2022-08-06 23:29:48.015142
+The X value of Blue circle's: 95 , the Y value of Blue circle's: 264,the angle between origin and circle center: -173.91147184580484
+Camera Active Time:2022-08-06 23:29:48.017143
+The X value of Blue circle's: 75 , the Y value of Blue circle's: 254,the angle between origin and circle center: -176.72951207681643
+Camera Active Time:2022-08-06 23:29:48.018134
+The X value of Blue circle's: 49 , the Y value of Blue circle's: 234,the angle between origin and circle center: 178.73166597038545
+Camera Active Time:2022-08-06 23:29:48.019129
+The X value of Blue circle's: 41 , the Y value of Blue circle's: 228,the angle between origin and circle center: 177.53718332408317
+Camera Active Time:2022-08-06 23:29:48.021127
+The X value of Blue circle's: 49 , the Y value of Blue circle's: 189,the angle between origin and circle center: 169.34205394350414
+Camera Active Time:2022-08-06 23:29:48.022123
+The X value of Blue circle's: 93 , the Y value of Blue circle's: 210,the angle between origin and circle center: 172.47149891603945
+Camera Active Time:2022-08-06 23:29:48.047424
+The X value of Blue circle's: 95 , the Y value of Blue circle's: 264,the angle between origin and circle center: -173.91147184580484
+Camera Active Time:2022-08-06 23:29:48.048420
+The X value of Blue circle's: 75 , the Y value of Blue circle's: 254,the angle between origin and circle center: -176.72951207681643
+Camera Active Time:2022-08-06 23:29:48.050382
+The X value of Blue circle's: 49 , the Y value of Blue circle's: 234,the angle between origin and circle center: 178.73166597038545
+Camera Active Time:2022-08-06 23:29:48.051377
+The X value of Blue circle's: 41 , the Y value of Blue circle's: 228,the angle between origin and circle center: 177.53718332408317
+Camera Active Time:2022-08-06 23:29:48.052380
+The X value of Blue circle's: 49 , the Y value of Blue circle's: 189,the angle between origin and circle center: 169.34205394350414
+Camera Active Time:2022-08-06 23:29:48.054406
+The X value of Blue circle's: 93 , the Y value of Blue circle's: 210,the angle between origin and circle center: 172.47149891603945
+Camera Active Time:2022-08-06 23:29:48.077821
+The X value of Blue circle's: 100 , the Y value of Blue circle's: 269,the angle between origin and circle center: -172.49066892618268
+Camera Active Time:2022-08-06 23:29:48.078819
+The X value of Blue circle's: 118 , the Y value of Blue circle's: 265,the angle between origin and circle center: -172.94481393890334
+Camera Active Time:2022-08-06 23:29:48.080812
+The X value of Blue circle's: 89 , the Y value of Blue circle's: 256,the angle between origin and circle center: -176.03778932353208
+Camera Active Time:2022-08-06 23:29:48.081810
+The X value of Blue circle's: 107 , the Y value of Blue circle's: 223,the angle between origin and circle center: 175.43677024576215
+Camera Active Time:2022-08-06 23:29:48.130829
+The X value of Blue circle's: 111 , the Y value of Blue circle's: 275,the angle between origin and circle center: -170.49322801073433
+Camera Active Time:2022-08-06 23:29:48.132824
+The X value of Blue circle's: 71 , the Y value of Blue circle's: 262,the angle between origin and circle center: -174.95083353241714
+Camera Active Time:2022-08-06 23:29:48.134819
+The X value of Blue circle's: 68 , the Y value of Blue circle's: 246,the angle between origin and circle center: -178.6360724683971
+Camera Active Time:2022-08-06 23:29:48.135816
+The X value of Blue circle's: 81 , the Y value of Blue circle's: 209,the angle between origin and circle center: 172.6095907907123
+Camera Active Time:2022-08-06 23:29:48.136813
+The X value of Blue circle's: 113 , the Y value of Blue circle's: 242,the angle between origin and circle center: -179.44643481411762
+Camera Active Time:2022-08-06 23:29:48.154946
+The X value of Blue circle's: 111 , the Y value of Blue circle's: 275,the angle between origin and circle center: -170.49322801073433
+Camera Active Time:2022-08-06 23:29:48.155943
+The X value of Blue circle's: 71 , the Y value of Blue circle's: 262,the angle between origin and circle center: -174.95083353241714
+Camera Active Time:2022-08-06 23:29:48.157937
+The X value of Blue circle's: 68 , the Y value of Blue circle's: 246,the angle between origin and circle center: -178.6360724683971
+Camera Active Time:2022-08-06 23:29:48.158934
+The X value of Blue circle's: 81 , the Y value of Blue circle's: 209,the angle between origin and circle center: 172.6095907907123
+Camera Active Time:2022-08-06 23:29:48.159932
+The X value of Blue circle's: 113 , the Y value of Blue circle's: 242,the angle between origin and circle center: -179.44643481411762
+Camera Active Time:2022-08-06 23:29:48.195526
+The X value of Blue circle's: 96 , the Y value of Blue circle's: 291,the angle between origin and circle center: -167.17362481772724
+Camera Active Time:2022-08-06 23:29:48.196523
+The X value of Blue circle's: 124 , the Y value of Blue circle's: 288,the angle between origin and circle center: -166.23921488820875
+Camera Active Time:2022-08-06 23:29:48.198518
+The X value of Blue circle's: 108 , the Y value of Blue circle's: 288,the angle between origin and circle center: -167.24246783912335
+Camera Active Time:2022-08-06 23:29:48.199516
+The X value of Blue circle's: 113 , the Y value of Blue circle's: 281,the angle between origin and circle center: -168.79656513477067
+Camera Active Time:2022-08-06 23:29:48.201510
+The X value of Blue circle's: 101 , the Y value of Blue circle's: 279,the angle between origin and circle center: -169.90249561592472
+Camera Active Time:2022-08-06 23:29:48.202507
+The X value of Blue circle's: 74 , the Y value of Blue circle's: 270,the angle between origin and circle center: -173.0470425318261
+Camera Active Time:2022-08-06 23:29:48.203505
+The X value of Blue circle's: 82 , the Y value of Blue circle's: 243,the angle between origin and circle center: -179.27782253845518
+Camera Active Time:2022-08-06 23:29:48.205499
+The X value of Blue circle's: 118 , the Y value of Blue circle's: 236,the angle between origin and circle center: 178.865578369023
+Camera Active Time:2022-08-06 23:29:48.206497
+The X value of Blue circle's: 123 , the Y value of Blue circle's: 264,the angle between origin and circle center: -173.05403237923719
+Camera Active Time:2022-08-06 23:29:48.232661
+The X value of Blue circle's: 96 , the Y value of Blue circle's: 291,the angle between origin and circle center: -167.17362481772724
+Camera Active Time:2022-08-06 23:29:48.234697
+The X value of Blue circle's: 124 , the Y value of Blue circle's: 288,the angle between origin and circle center: -166.23921488820875
+Camera Active Time:2022-08-06 23:29:48.235655
+The X value of Blue circle's: 108 , the Y value of Blue circle's: 288,the angle between origin and circle center: -167.24246783912335
+Camera Active Time:2022-08-06 23:29:48.237686
+The X value of Blue circle's: 113 , the Y value of Blue circle's: 281,the angle between origin and circle center: -168.79656513477067
+Camera Active Time:2022-08-06 23:29:48.238681
+The X value of Blue circle's: 101 , the Y value of Blue circle's: 279,the angle between origin and circle center: -169.90249561592472
+Camera Active Time:2022-08-06 23:29:48.240676
+The X value of Blue circle's: 74 , the Y value of Blue circle's: 270,the angle between origin and circle center: -173.0470425318261
+Camera Active Time:2022-08-06 23:29:48.241637
+The X value of Blue circle's: 82 , the Y value of Blue circle's: 243,the angle between origin and circle center: -179.27782253845518
+Camera Active Time:2022-08-06 23:29:48.243635
+The X value of Blue circle's: 118 , the Y value of Blue circle's: 236,the angle between origin and circle center: 178.865578369023
+Camera Active Time:2022-08-06 23:29:48.244632
+The X value of Blue circle's: 123 , the Y value of Blue circle's: 264,the angle between origin and circle center: -173.05403237923719
+Camera Active Time:2022-08-06 23:29:48.263790
+The X value of Blue circle's: 99 , the Y value of Blue circle's: 323,the angle between origin and circle center: -159.41554834768547
+Camera Active Time:2022-08-06 23:29:48.264791
+The X value of Blue circle's: 134 , the Y value of Blue circle's: 327,the angle between origin and circle center: -154.93253656193951
+Camera Active Time:2022-08-06 23:29:48.267778
+The X value of Blue circle's: 99 , the Y value of Blue circle's: 309,the angle between origin and circle center: -162.66073851195955
+Camera Active Time:2022-08-06 23:29:48.268775
+The X value of Blue circle's: 84 , the Y value of Blue circle's: 305,the angle between origin and circle center: -164.6011802522866
+Camera Active Time:2022-08-06 23:29:48.270770
+The X value of Blue circle's: 177 , the Y value of Blue circle's: 302,the angle between origin and circle center: -156.5600639065651
+Camera Active Time:2022-08-06 23:29:48.272765
+The X value of Blue circle's: 140 , the Y value of Blue circle's: 301,the angle between origin and circle center: -161.27905132528292
+Camera Active Time:2022-08-06 23:29:48.274725
+The X value of Blue circle's: 110 , the Y value of Blue circle's: 290,the angle between origin and circle center: -166.6075022462489
+Camera Active Time:2022-08-06 23:29:48.276719
+The X value of Blue circle's: 88 , the Y value of Blue circle's: 290,the angle between origin and circle center: -167.83779648031816
+Camera Active Time:2022-08-06 23:29:48.277753
+The X value of Blue circle's: 98 , the Y value of Blue circle's: 277,the angle between origin and circle center: -170.53767779197437
+Camera Active Time:2022-08-06 23:29:48.279747
+The X value of Blue circle's: 146 , the Y value of Blue circle's: 278,the angle between origin and circle center: -167.6805547433634
+Camera Active Time:2022-08-06 23:29:48.281743
+The X value of Blue circle's: 101 , the Y value of Blue circle's: 272,the angle between origin and circle center: -171.68684466000056
+Camera Active Time:2022-08-06 23:29:48.283737
+The X value of Blue circle's: 115 , the Y value of Blue circle's: 263,the angle between origin and circle center: -173.5984637598503
+Camera Active Time:2022-08-06 23:29:48.284697
+The X value of Blue circle's: 160 , the Y value of Blue circle's: 259,the angle between origin and circle center: -173.22784003388645
+Camera Active Time:2022-08-06 23:29:48.286693
+The X value of Blue circle's: 179 , the Y value of Blue circle's: 258,the angle between origin and circle center: -172.72499504211075
+Camera Active Time:2022-08-06 23:29:48.288722
+The X value of Blue circle's: 126 , the Y value of Blue circle's: 250,the angle between origin and circle center: -177.04922089099367
+Camera Active Time:2022-08-06 23:29:48.289687
+The X value of Blue circle's: 99 , the Y value of Blue circle's: 244,the angle between origin and circle center: -178.9630855354699
+Camera Active Time:2022-08-06 23:29:48.291714
+The X value of Blue circle's: 133 , the Y value of Blue circle's: 283,the angle between origin and circle center: -167.0501455267212
+Camera Active Time:2022-08-06 23:29:48.310629
+The X value of Blue circle's: 99 , the Y value of Blue circle's: 323,the angle between origin and circle center: -159.41554834768547
+Camera Active Time:2022-08-06 23:29:48.312663
+The X value of Blue circle's: 134 , the Y value of Blue circle's: 327,the angle between origin and circle center: -154.93253656193951
+Camera Active Time:2022-08-06 23:29:48.314655
+The X value of Blue circle's: 99 , the Y value of Blue circle's: 309,the angle between origin and circle center: -162.66073851195955
+Camera Active Time:2022-08-06 23:29:48.315651
+The X value of Blue circle's: 84 , the Y value of Blue circle's: 305,the angle between origin and circle center: -164.6011802522866
+Camera Active Time:2022-08-06 23:29:48.318643
+The X value of Blue circle's: 177 , the Y value of Blue circle's: 302,the angle between origin and circle center: -156.5600639065651
+Camera Active Time:2022-08-06 23:29:48.319640
+The X value of Blue circle's: 140 , the Y value of Blue circle's: 301,the angle between origin and circle center: -161.27905132528292
+Camera Active Time:2022-08-06 23:29:48.321602
+The X value of Blue circle's: 110 , the Y value of Blue circle's: 290,the angle between origin and circle center: -166.6075022462489
+Camera Active Time:2022-08-06 23:29:48.323596
+The X value of Blue circle's: 88 , the Y value of Blue circle's: 290,the angle between origin and circle center: -167.83779648031816
+Camera Active Time:2022-08-06 23:29:48.325621
+The X value of Blue circle's: 98 , the Y value of Blue circle's: 277,the angle between origin and circle center: -170.53767779197437
+Camera Active Time:2022-08-06 23:29:48.326623
+The X value of Blue circle's: 146 , the Y value of Blue circle's: 278,the angle between origin and circle center: -167.6805547433634
+Camera Active Time:2022-08-06 23:29:48.328620
+The X value of Blue circle's: 101 , the Y value of Blue circle's: 272,the angle between origin and circle center: -171.68684466000056
+Camera Active Time:2022-08-06 23:29:48.329614
+The X value of Blue circle's: 115 , the Y value of Blue circle's: 263,the angle between origin and circle center: -173.5984637598503
+Camera Active Time:2022-08-06 23:29:48.332570
+The X value of Blue circle's: 160 , the Y value of Blue circle's: 259,the angle between origin and circle center: -173.22784003388645
+Camera Active Time:2022-08-06 23:29:48.333599
+The X value of Blue circle's: 179 , the Y value of Blue circle's: 258,the angle between origin and circle center: -172.72499504211075
+Camera Active Time:2022-08-06 23:29:48.335602
+The X value of Blue circle's: 126 , the Y value of Blue circle's: 250,the angle between origin and circle center: -177.04922089099367
+Camera Active Time:2022-08-06 23:29:48.337559
+The X value of Blue circle's: 99 , the Y value of Blue circle's: 244,the angle between origin and circle center: -178.9630855354699
+Camera Active Time:2022-08-06 23:29:48.338556
+The X value of Blue circle's: 133 , the Y value of Blue circle's: 283,the angle between origin and circle center: -167.0501455267212
+Camera Active Time:2022-08-06 23:29:48.357368
+The X value of Blue circle's: 106 , the Y value of Blue circle's: 351,the angle between origin and circle center: -152.58461008057253
+Camera Active Time:2022-08-06 23:29:48.358366
+The X value of Blue circle's: 173 , the Y value of Blue circle's: 340,the angle between origin and circle center: -145.77363818777619
+Camera Active Time:2022-08-06 23:29:48.360361
+The X value of Blue circle's: 149 , the Y value of Blue circle's: 333,the angle between origin and circle center: -151.46001481204004
+Camera Active Time:2022-08-06 23:29:48.361360
+The X value of Blue circle's: 101 , the Y value of Blue circle's: 331,the angle between origin and circle center: -157.4358883066748
+Camera Active Time:2022-08-06 23:29:48.363386
+The X value of Blue circle's: 176 , the Y value of Blue circle's: 324,the angle between origin and circle center: -149.74356283647072
+Camera Active Time:2022-08-06 23:29:48.364350
+The X value of Blue circle's: 141 , the Y value of Blue circle's: 308,the angle between origin and circle center: -159.1988031856222
+Camera Active Time:2022-08-06 23:29:48.366380
+The X value of Blue circle's: 137 , the Y value of Blue circle's: 305,the angle between origin and circle center: -160.44540649654883
+Camera Active Time:2022-08-06 23:29:48.367375
+The X value of Blue circle's: 131 , the Y value of Blue circle's: 299,the angle between origin and circle center: -162.66323832781802
+Camera Active Time:2022-08-06 23:29:48.369370
+The X value of Blue circle's: 165 , the Y value of Blue circle's: 296,the angle between origin and circle center: -160.13570259659
+Camera Active Time:2022-08-06 23:29:48.370371
+The X value of Blue circle's: 111 , the Y value of Blue circle's: 289,the angle between origin and circle center: -166.80532892499696
+Camera Active Time:2022-08-06 23:29:48.372362
+The X value of Blue circle's: 140 , the Y value of Blue circle's: 286,the angle between origin and circle center: -165.6645645804799
+Camera Active Time:2022-08-06 23:29:48.373359
+The X value of Blue circle's: 153 , the Y value of Blue circle's: 276,the angle between origin and circle center: -167.83497012971307
+Camera Active Time:2022-08-06 23:29:48.374323
+The X value of Blue circle's: 124 , the Y value of Blue circle's: 272,the angle between origin and circle center: -170.7273982227997
+Camera Active Time:2022-08-06 23:29:48.376351
+The X value of Blue circle's: 154 , the Y value of Blue circle's: 296,the angle between origin and circle center: -161.35820810630068
+Camera Active Time:2022-08-06 23:29:48.404955
+The X value of Blue circle's: 148 , the Y value of Blue circle's: 371,the angle between origin and circle center: -142.70608952491196
+Camera Active Time:2022-08-06 23:29:48.405919
+The X value of Blue circle's: 128 , the Y value of Blue circle's: 354,the angle between origin and circle center: -149.3002774491856
+Camera Active Time:2022-08-06 23:29:48.406915
+The X value of Blue circle's: 199 , the Y value of Blue circle's: 346,the angle between origin and circle center: -138.7805685343011
+Camera Active Time:2022-08-06 23:29:48.408945
+The X value of Blue circle's: 109 , the Y value of Blue circle's: 344,the angle between origin and circle center: -153.7617272921233
+Camera Active Time:2022-08-06 23:29:48.410939
+The X value of Blue circle's: 174 , the Y value of Blue circle's: 343,the angle between origin and circle center: -144.79781740785126
+Camera Active Time:2022-08-06 23:29:48.411934
+The X value of Blue circle's: 129 , the Y value of Blue circle's: 334,the angle between origin and circle center: -153.79605189582884
+Camera Active Time:2022-08-06 23:29:48.412934
+The X value of Blue circle's: 149 , the Y value of Blue circle's: 301,the angle between origin and circle center: -160.36740446246958
+Camera Active Time:2022-08-06 23:29:48.415892
+The X value of Blue circle's: 183 , the Y value of Blue circle's: 295,the angle between origin and circle center: -158.12652038874882
+Camera Active Time:2022-08-06 23:29:48.417886
+The X value of Blue circle's: 144 , the Y value of Blue circle's: 287,the angle between origin and circle center: -165.04832264607566
+Camera Active Time:2022-08-06 23:29:48.419881
+The X value of Blue circle's: 172 , the Y value of Blue circle's: 310,the angle between origin and circle center: -154.68711619812586
+Camera Active Time:2022-08-06 23:29:48.470170
+The X value of Blue circle's: 204 , the Y value of Blue circle's: 385,the angle between origin and circle center: -128.6598082540901
+Camera Active Time:2022-08-06 23:29:48.472165
+The X value of Blue circle's: 205 , the Y value of Blue circle's: 358,the angle between origin and circle center: -134.26232686256782
+Camera Active Time:2022-08-06 23:29:48.473128
+The X value of Blue circle's: 188 , the Y value of Blue circle's: 352,the angle between origin and circle center: -139.6858998395027
+Camera Active Time:2022-08-06 23:29:48.475157
+The X value of Blue circle's: 170 , the Y value of Blue circle's: 347,the angle between origin and circle center: -144.49847096001983
+Camera Active Time:2022-08-06 23:29:48.477155
+The X value of Blue circle's: 207 , the Y value of Blue circle's: 339,the angle between origin and circle center: -138.77819770716158
+Camera Active Time:2022-08-06 23:29:48.479148
+The X value of Blue circle's: 148 , the Y value of Blue circle's: 335,the angle between origin and circle center: -151.08700653573771
+Camera Active Time:2022-08-06 23:29:48.481140
+The X value of Blue circle's: 157 , the Y value of Blue circle's: 339,the angle between origin and circle center: -148.7270965785498
+Camera Active Time:2022-08-06 23:29:48.483136
+The X value of Blue circle's: 165 , the Y value of Blue circle's: 330,the angle between origin and circle center: -149.85861444792468
+Camera Active Time:2022-08-06 23:29:48.485132
+The X value of Blue circle's: 179 , the Y value of Blue circle's: 322,the angle between origin and circle center: -149.81941775179004
+Camera Active Time:2022-08-06 23:29:48.486094
+The X value of Blue circle's: 191 , the Y value of Blue circle's: 321,the angle between origin and circle center: -147.87500155961249
+Camera Active Time:2022-08-06 23:29:48.488122
+The X value of Blue circle's: 155 , the Y value of Blue circle's: 315,the angle between origin and circle center: -155.55604521958347
+Camera Active Time:2022-08-06 23:29:48.490117
+The X value of Blue circle's: 176 , the Y value of Blue circle's: 303,the angle between origin and circle center: -156.3706222693432
+Camera Active Time:2022-08-06 23:29:48.491079
+The X value of Blue circle's: 154 , the Y value of Blue circle's: 313,the angle between origin and circle center: -156.26207340108328
+Camera Active Time:2022-08-06 23:29:48.494072
+The X value of Blue circle's: 185 , the Y value of Blue circle's: 329,the angle between origin and circle center: -146.6047623563788
+Camera Active Time:2022-08-06 23:29:48.532320
+The X value of Blue circle's: 182 , the Y value of Blue circle's: 402,the angle between origin and circle center: -130.42607874009914
+Camera Active Time:2022-08-06 23:29:48.535347
+The X value of Blue circle's: 144 , the Y value of Blue circle's: 370,the angle between origin and circle center: -143.5490768204187
+Camera Active Time:2022-08-06 23:29:48.538338
+The X value of Blue circle's: 184 , the Y value of Blue circle's: 372,the angle between origin and circle center: -135.85509739626673
+Camera Active Time:2022-08-06 23:29:48.541330
+The X value of Blue circle's: 218 , the Y value of Blue circle's: 344,the angle between origin and circle center: -134.44374777291932
+Camera Active Time:2022-08-06 23:29:48.544288
+The X value of Blue circle's: 172 , the Y value of Blue circle's: 334,the angle between origin and circle center: -147.57893523749306
+Camera Active Time:2022-08-06 23:29:48.546282
+The X value of Blue circle's: 216 , the Y value of Blue circle's: 330,the angle between origin and circle center: -139.12759170251172
+Camera Active Time:2022-08-06 23:29:48.548302
+The X value of Blue circle's: 189 , the Y value of Blue circle's: 328,the angle between origin and circle center: -146.10854216275249
+Camera Active Time:2022-08-06 23:29:48.550272
+The X value of Blue circle's: 161 , the Y value of Blue circle's: 326,the angle between origin and circle center: -151.5919086916799
+Camera Active Time:2022-08-06 23:29:48.552265
+The X value of Blue circle's: 200 , the Y value of Blue circle's: 336,the angle between origin and circle center: -141.34019174590992
+Camera Active Time:2022-08-06 23:29:48.553262
+The X value of Blue circle's: 145 , the Y value of Blue circle's: 325,the angle between origin and circle center: -154.09349200048564
+Camera Active Time:2022-08-06 23:29:48.556258
+The X value of Blue circle's: 183 , the Y value of Blue circle's: 317,the angle between origin and circle center: -150.66210634532607
+Camera Active Time:2022-08-06 23:29:48.557252
+The X value of Blue circle's: 157 , the Y value of Blue circle's: 315,the angle between origin and circle center: -155.29176766799404
+Camera Active Time:2022-08-06 23:29:48.560280
+The X value of Blue circle's: 202 , the Y value of Blue circle's: 333,the angle between origin and circle center: -141.7570975445059
+Camera Active Time:2022-08-06 23:29:48.592059
+The X value of Blue circle's: 182 , the Y value of Blue circle's: 402,the angle between origin and circle center: -130.42607874009914
+Camera Active Time:2022-08-06 23:29:48.594053
+The X value of Blue circle's: 144 , the Y value of Blue circle's: 370,the angle between origin and circle center: -143.5490768204187
+Camera Active Time:2022-08-06 23:29:48.596027
+The X value of Blue circle's: 184 , the Y value of Blue circle's: 372,the angle between origin and circle center: -135.85509739626673
+Camera Active Time:2022-08-06 23:29:48.598044
+The X value of Blue circle's: 218 , the Y value of Blue circle's: 344,the angle between origin and circle center: -134.44374777291932
+Camera Active Time:2022-08-06 23:29:48.599006
+The X value of Blue circle's: 172 , the Y value of Blue circle's: 334,the angle between origin and circle center: -147.57893523749306
+Camera Active Time:2022-08-06 23:29:48.601038
+The X value of Blue circle's: 216 , the Y value of Blue circle's: 330,the angle between origin and circle center: -139.12759170251172
+Camera Active Time:2022-08-06 23:29:48.603030
+The X value of Blue circle's: 189 , the Y value of Blue circle's: 328,the angle between origin and circle center: -146.10854216275249
+Camera Active Time:2022-08-06 23:29:48.604992
+The X value of Blue circle's: 161 , the Y value of Blue circle's: 326,the angle between origin and circle center: -151.5919086916799
+Camera Active Time:2022-08-06 23:29:48.607020
+The X value of Blue circle's: 200 , the Y value of Blue circle's: 336,the angle between origin and circle center: -141.34019174590992
+Camera Active Time:2022-08-06 23:29:48.607984
+The X value of Blue circle's: 145 , the Y value of Blue circle's: 325,the angle between origin and circle center: -154.09349200048564
+Camera Active Time:2022-08-06 23:29:48.609978
+The X value of Blue circle's: 183 , the Y value of Blue circle's: 317,the angle between origin and circle center: -150.66210634532607
+Camera Active Time:2022-08-06 23:29:48.612967
+The X value of Blue circle's: 157 , the Y value of Blue circle's: 315,the angle between origin and circle center: -155.29176766799404
+Camera Active Time:2022-08-06 23:29:48.614963
+The X value of Blue circle's: 202 , the Y value of Blue circle's: 333,the angle between origin and circle center: -141.7570975445059
+Camera Active Time:2022-08-06 23:29:48.639083
+The X value of Blue circle's: 169 , the Y value of Blue circle's: 375,the angle between origin and circle center: -138.20202058332214
+Camera Active Time:2022-08-06 23:29:48.641078
+The X value of Blue circle's: 208 , the Y value of Blue circle's: 369,the angle between origin and circle center: -130.96507248386905
+Camera Active Time:2022-08-06 23:29:48.642115
+The X value of Blue circle's: 156 , the Y value of Blue circle's: 362,the angle between origin and circle center: -143.3543508353797
+Camera Active Time:2022-08-06 23:29:48.644070
+The X value of Blue circle's: 171 , the Y value of Blue circle's: 357,the angle between origin and circle center: -141.85976000552583
+Camera Active Time:2022-08-06 23:29:48.646103
+The X value of Blue circle's: 232 , the Y value of Blue circle's: 343,the angle between origin and circle center: -130.50954807888368
+Camera Active Time:2022-08-06 23:29:48.647097
+The X value of Blue circle's: 203 , the Y value of Blue circle's: 332,the angle between origin and circle center: -141.82115236478435
+Camera Active Time:2022-08-06 23:29:48.650057
+The X value of Blue circle's: 167 , the Y value of Blue circle's: 332,the angle between origin and circle center: -148.98120431145264
+Camera Active Time:2022-08-06 23:29:48.652049
+The X value of Blue circle's: 214 , the Y value of Blue circle's: 324,the angle between origin and circle center: -141.60483549675396
+Camera Active Time:2022-08-06 23:29:48.654043
+The X value of Blue circle's: 167 , the Y value of Blue circle's: 320,the angle between origin and circle center: -152.39602006938088
+Camera Active Time:2022-08-06 23:29:48.656037
+The X value of Blue circle's: 181 , the Y value of Blue circle's: 319,the angle between origin and circle center: -150.38846783275898
+Camera Active Time:2022-08-06 23:29:48.657034
+The X value of Blue circle's: 213 , the Y value of Blue circle's: 341,the angle between origin and circle center: -136.65230467765133
+Camera Active Time:2022-08-06 23:29:48.686129
+The X value of Blue circle's: 169 , the Y value of Blue circle's: 375,the angle between origin and circle center: -138.20202058332214
+Camera Active Time:2022-08-06 23:29:48.688125
+The X value of Blue circle's: 208 , the Y value of Blue circle's: 369,the angle between origin and circle center: -130.96507248386905
+Camera Active Time:2022-08-06 23:29:48.689120
+The X value of Blue circle's: 156 , the Y value of Blue circle's: 362,the angle between origin and circle center: -143.3543508353797
+Camera Active Time:2022-08-06 23:29:48.691116
+The X value of Blue circle's: 171 , the Y value of Blue circle's: 357,the angle between origin and circle center: -141.85976000552583
+Camera Active Time:2022-08-06 23:29:48.692077
+The X value of Blue circle's: 232 , the Y value of Blue circle's: 343,the angle between origin and circle center: -130.50954807888368
+Camera Active Time:2022-08-06 23:29:48.694073
+The X value of Blue circle's: 203 , the Y value of Blue circle's: 332,the angle between origin and circle center: -141.82115236478435
+Camera Active Time:2022-08-06 23:29:48.696103
+The X value of Blue circle's: 167 , the Y value of Blue circle's: 332,the angle between origin and circle center: -148.98120431145264
+Camera Active Time:2022-08-06 23:29:48.698061
+The X value of Blue circle's: 214 , the Y value of Blue circle's: 324,the angle between origin and circle center: -141.60483549675396
+Camera Active Time:2022-08-06 23:29:48.700055
+The X value of Blue circle's: 167 , the Y value of Blue circle's: 320,the angle between origin and circle center: -152.39602006938088
+Camera Active Time:2022-08-06 23:29:48.702050
+The X value of Blue circle's: 181 , the Y value of Blue circle's: 319,the angle between origin and circle center: -150.38846783275898
+Camera Active Time:2022-08-06 23:29:48.703048
+The X value of Blue circle's: 213 , the Y value of Blue circle's: 341,the angle between origin and circle center: -136.65230467765133
+Camera Active Time:2022-08-06 23:29:48.732640
+The X value of Blue circle's: 208 , the Y value of Blue circle's: 381,the angle between origin and circle center: -128.46103791703862
+Camera Active Time:2022-08-06 23:29:48.734634
+The X value of Blue circle's: 198 , the Y value of Blue circle's: 377,the angle between origin and circle center: -131.6854141793565
+Camera Active Time:2022-08-06 23:29:48.735632
+The X value of Blue circle's: 187 , the Y value of Blue circle's: 373,the angle between origin and circle center: -135.0
+Camera Active Time:2022-08-06 23:29:48.737626
+The X value of Blue circle's: 179 , the Y value of Blue circle's: 367,the angle between origin and circle center: -137.99034497516539
+Camera Active Time:2022-08-06 23:29:48.739621
+The X value of Blue circle's: 222 , the Y value of Blue circle's: 359,the angle between origin and circle center: -129.47245984834385
+Camera Active Time:2022-08-06 23:29:48.740618
+The X value of Blue circle's: 191 , the Y value of Blue circle's: 361,the angle between origin and circle center: -136.83283950594208
+Camera Active Time:2022-08-06 23:29:48.742612
+The X value of Blue circle's: 180 , the Y value of Blue circle's: 358,the angle between origin and circle center: -139.87389642220478
+Camera Active Time:2022-08-06 23:29:48.744608
+The X value of Blue circle's: 179 , the Y value of Blue circle's: 333,the angle between origin and circle center: -146.59217541029108
+Camera Active Time:2022-08-06 23:29:48.746602
+The X value of Blue circle's: 190 , the Y value of Blue circle's: 335,the angle between origin and circle center: -143.8418145601917
+Camera Active Time:2022-08-06 23:29:48.748596
+The X value of Blue circle's: 198 , the Y value of Blue circle's: 331,the angle between origin and circle center: -143.28068224272175
+Camera Active Time:2022-08-06 23:29:48.749592
+The X value of Blue circle's: 175 , the Y value of Blue circle's: 312,the angle between origin and circle center: -153.59322405433616
+Camera Active Time:2022-08-06 23:29:48.751587
+The X value of Blue circle's: 217 , the Y value of Blue circle's: 352,the angle between origin and circle center: -132.6029714699404
+Camera Active Time:2022-08-06 23:29:48.806463
+The X value of Blue circle's: 169 , the Y value of Blue circle's: 371,the angle between origin and circle center: -139.0567378612949
+Camera Active Time:2022-08-06 23:29:48.809455
+The X value of Blue circle's: 207 , the Y value of Blue circle's: 363,the angle between origin and circle center: -132.57366416839764
+Camera Active Time:2022-08-06 23:29:48.811450
+The X value of Blue circle's: 204 , the Y value of Blue circle's: 346,the angle between origin and circle center: -137.57914750028343
+Camera Active Time:2022-08-06 23:29:48.812447
+The X value of Blue circle's: 175 , the Y value of Blue circle's: 338,the angle between origin and circle center: -145.94673112974505
+Camera Active Time:2022-08-06 23:29:48.814441
+The X value of Blue circle's: 228 , the Y value of Blue circle's: 335,the angle between origin and circle center: -134.08089521628577
+Camera Active Time:2022-08-06 23:29:48.815441
+The X value of Blue circle's: 197 , the Y value of Blue circle's: 333,the angle between origin and circle center: -142.90716270295846
+Camera Active Time:2022-08-06 23:29:48.817470
+The X value of Blue circle's: 200 , the Y value of Blue circle's: 323,the angle between origin and circle center: -145.32968208901946
+Camera Active Time:2022-08-06 23:29:48.818464
+The X value of Blue circle's: 175 , the Y value of Blue circle's: 324,the angle between origin and circle center: -149.9158434412248
+Camera Active Time:2022-08-06 23:29:48.820429
+The X value of Blue circle's: 223 , the Y value of Blue circle's: 351,the angle between origin and circle center: -131.14936117608926
+Camera Active Time:2022-08-06 23:29:48.840890
+The X value of Blue circle's: 169 , the Y value of Blue circle's: 371,the angle between origin and circle center: -139.0567378612949
+Camera Active Time:2022-08-06 23:29:48.841888
+The X value of Blue circle's: 207 , the Y value of Blue circle's: 363,the angle between origin and circle center: -132.57366416839764
+Camera Active Time:2022-08-06 23:29:48.843882
+The X value of Blue circle's: 204 , the Y value of Blue circle's: 346,the angle between origin and circle center: -137.57914750028343
+Camera Active Time:2022-08-06 23:29:48.844880
+The X value of Blue circle's: 175 , the Y value of Blue circle's: 338,the angle between origin and circle center: -145.94673112974505
+Camera Active Time:2022-08-06 23:29:48.845877
+The X value of Blue circle's: 228 , the Y value of Blue circle's: 335,the angle between origin and circle center: -134.08089521628577
+Camera Active Time:2022-08-06 23:29:48.847872
+The X value of Blue circle's: 197 , the Y value of Blue circle's: 333,the angle between origin and circle center: -142.90716270295846
+Camera Active Time:2022-08-06 23:29:48.849867
+The X value of Blue circle's: 200 , the Y value of Blue circle's: 323,the angle between origin and circle center: -145.32968208901946
+Camera Active Time:2022-08-06 23:29:48.850864
+The X value of Blue circle's: 175 , the Y value of Blue circle's: 324,the angle between origin and circle center: -149.9158434412248
+Camera Active Time:2022-08-06 23:29:48.852859
+The X value of Blue circle's: 223 , the Y value of Blue circle's: 351,the angle between origin and circle center: -131.14936117608926
+Camera Active Time:2022-08-06 23:29:48.870554
+The X value of Blue circle's: 169 , the Y value of Blue circle's: 371,the angle between origin and circle center: -139.0567378612949
+Camera Active Time:2022-08-06 23:29:48.872548
+The X value of Blue circle's: 207 , the Y value of Blue circle's: 363,the angle between origin and circle center: -132.57366416839764
+Camera Active Time:2022-08-06 23:29:48.873511
+The X value of Blue circle's: 204 , the Y value of Blue circle's: 346,the angle between origin and circle center: -137.57914750028343
+Camera Active Time:2022-08-06 23:29:48.875541
+The X value of Blue circle's: 175 , the Y value of Blue circle's: 338,the angle between origin and circle center: -145.94673112974505
+Camera Active Time:2022-08-06 23:29:48.876535
+The X value of Blue circle's: 228 , the Y value of Blue circle's: 335,the angle between origin and circle center: -134.08089521628577
+Camera Active Time:2022-08-06 23:29:48.878533
+The X value of Blue circle's: 197 , the Y value of Blue circle's: 333,the angle between origin and circle center: -142.90716270295846
+Camera Active Time:2022-08-06 23:29:48.879532
+The X value of Blue circle's: 200 , the Y value of Blue circle's: 323,the angle between origin and circle center: -145.32968208901946
+Camera Active Time:2022-08-06 23:29:48.881488
+The X value of Blue circle's: 175 , the Y value of Blue circle's: 324,the angle between origin and circle center: -149.9158434412248
+Camera Active Time:2022-08-06 23:29:48.883483
+The X value of Blue circle's: 223 , the Y value of Blue circle's: 351,the angle between origin and circle center: -131.14936117608926
+Camera Active Time:2022-08-06 23:29:48.900847
+The X value of Blue circle's: 196 , the Y value of Blue circle's: 359,the angle between origin and circle center: -136.17875916991125
+Camera Active Time:2022-08-06 23:29:48.901846
+The X value of Blue circle's: 208 , the Y value of Blue circle's: 352,the angle between origin and circle center: -135.0
+Camera Active Time:2022-08-06 23:29:48.903873
+The X value of Blue circle's: 199 , the Y value of Blue circle's: 340,the angle between origin and circle center: -140.42809718611073
+Camera Active Time:2022-08-06 23:29:48.904871
+The X value of Blue circle's: 214 , the Y value of Blue circle's: 327,the angle between origin and circle center: -140.62240062708972
+Camera Active Time:2022-08-06 23:29:48.905834
+The X value of Blue circle's: 192 , the Y value of Blue circle's: 315,the angle between origin and circle center: -149.63236301585147
+Camera Active Time:2022-08-06 23:29:48.907864
+The X value of Blue circle's: 230 , the Y value of Blue circle's: 352,the angle between origin and circle center: -128.78436410029735
+Camera Active Time:2022-08-06 23:29:48.933663
+The X value of Blue circle's: 215 , the Y value of Blue circle's: 366,the angle between origin and circle center: -129.8055710922652
+Camera Active Time:2022-08-06 23:29:48.934660
+The X value of Blue circle's: 209 , the Y value of Blue circle's: 343,the angle between origin and circle center: -137.1409013663231
+Camera Active Time:2022-08-06 23:29:48.935658
+The X value of Blue circle's: 252 , the Y value of Blue circle's: 351,the angle between origin and circle center: -121.492161124727
+Camera Active Time:2022-08-06 23:29:48.963951
+The X value of Blue circle's: 215 , the Y value of Blue circle's: 366,the angle between origin and circle center: -129.8055710922652
+Camera Active Time:2022-08-06 23:29:48.965946
+The X value of Blue circle's: 209 , the Y value of Blue circle's: 343,the angle between origin and circle center: -137.1409013663231
+Camera Active Time:2022-08-06 23:29:48.966978
+The X value of Blue circle's: 252 , the Y value of Blue circle's: 351,the angle between origin and circle center: -121.492161124727
+Camera Active Time:2022-08-06 23:29:48.995019
+The X value of Blue circle's: 282 , the Y value of Blue circle's: 353,the angle between origin and circle center: -108.5869266614859
+Camera Active Time:2022-08-06 23:29:49.025041
+The X value of Blue circle's: 282 , the Y value of Blue circle's: 353,the angle between origin and circle center: -108.5869266614859
+Camera Active Time:2022-08-06 23:29:49.059488
+The X value of Blue circle's: 314 , the Y value of Blue circle's: 355,the angle between origin and circle center: -92.98663699047518
+Camera Active Time:2022-08-06 23:29:49.087895
+The X value of Blue circle's: 314 , the Y value of Blue circle's: 355,the angle between origin and circle center: -92.98663699047518
+Camera Active Time:2022-08-06 23:29:49.122186
+The X value of Blue circle's: 347 , the Y value of Blue circle's: 359,the angle between origin and circle center: -77.21654605857564
+Camera Active Time:2022-08-06 23:29:49.149676
+The X value of Blue circle's: 347 , the Y value of Blue circle's: 359,the angle between origin and circle center: -77.21654605857564
+Camera Active Time:2022-08-06 23:29:49.180153
+The X value of Blue circle's: 347 , the Y value of Blue circle's: 359,the angle between origin and circle center: -77.21654605857564
+Camera Active Time:2022-08-06 23:29:49.210779
+The X value of Blue circle's: 378 , the Y value of Blue circle's: 361,the angle between origin and circle center: -64.3897900767942
+Camera Active Time:2022-08-06 23:29:49.242442
+The X value of Blue circle's: 378 , the Y value of Blue circle's: 361,the angle between origin and circle center: -64.3897900767942
+Camera Active Time:2022-08-06 23:29:49.273352
+The X value of Blue circle's: 405 , the Y value of Blue circle's: 363,the angle between origin and circle center: -55.35332004392945
+Camera Active Time:2022-08-06 23:29:49.331310
+The X value of Blue circle's: 424 , the Y value of Blue circle's: 364,the angle between origin and circle center: -50.01311375503581
+Camera Active Time:2022-08-06 23:29:49.348634
+The X value of Blue circle's: 424 , the Y value of Blue circle's: 364,the angle between origin and circle center: -50.01311375503581
+Camera Active Time:2022-08-06 23:29:49.395020
+The X value of Blue circle's: 443 , the Y value of Blue circle's: 364,the angle between origin and circle center: -45.2319654512982
+Camera Active Time:2022-08-06 23:29:49.426214
+The X value of Blue circle's: 443 , the Y value of Blue circle's: 364,the angle between origin and circle center: -45.2319654512982
+Camera Active Time:2022-08-06 23:29:49.459344
+The X value of Blue circle's: 465 , the Y value of Blue circle's: 368,the angle between origin and circle center: -41.436731937093825
+Camera Active Time:2022-08-06 23:29:49.487897
+The X value of Blue circle's: 465 , the Y value of Blue circle's: 368,the angle between origin and circle center: -41.436731937093825
+Camera Active Time:2022-08-06 23:29:49.523491
+The X value of Blue circle's: 478 , the Y value of Blue circle's: 370,the angle between origin and circle center: -39.4470289669632
+Camera Active Time:2022-08-06 23:29:49.551396
+The X value of Blue circle's: 478 , the Y value of Blue circle's: 370,the angle between origin and circle center: -39.4470289669632
+Camera Active Time:2022-08-06 23:29:49.580842
+The X value of Blue circle's: 478 , the Y value of Blue circle's: 370,the angle between origin and circle center: -39.4470289669632
+Camera Active Time:2022-08-06 23:29:49.611411
+The X value of Blue circle's: 510 , the Y value of Blue circle's: 320,the angle between origin and circle center: -22.833654177917545
+Camera Active Time:2022-08-06 23:29:49.612408
+The X value of Blue circle's: 486 , the Y value of Blue circle's: 371,the angle between origin and circle center: -38.278970424361795
+Camera Active Time:2022-08-06 23:29:49.642372
+The X value of Blue circle's: 510 , the Y value of Blue circle's: 320,the angle between origin and circle center: -22.833654177917545
+Camera Active Time:2022-08-06 23:29:49.643370
+The X value of Blue circle's: 486 , the Y value of Blue circle's: 371,the angle between origin and circle center: -38.278970424361795
+Camera Active Time:2022-08-06 23:29:49.673412
+The X value of Blue circle's: 493 , the Y value of Blue circle's: 371,the angle between origin and circle center: -37.13393162710313
+Camera Active Time:2022-08-06 23:29:49.732437
+The X value of Blue circle's: 506 , the Y value of Blue circle's: 363,the angle between origin and circle center: -33.47627829610267
+Camera Active Time:2022-08-06 23:29:49.751800
+The X value of Blue circle's: 506 , the Y value of Blue circle's: 363,the angle between origin and circle center: -33.47627829610267
+Camera Active Time:2022-08-06 23:29:49.795859
+The X value of Blue circle's: 556 , the Y value of Blue circle's: 376,the angle between origin and circle center: -29.953608167801498
+Camera Active Time:2022-08-06 23:29:49.796849
+The X value of Blue circle's: 535 , the Y value of Blue circle's: 315,the angle between origin and circle center: -19.230672375661285
+Camera Active Time:2022-08-06 23:29:49.797815
+The X value of Blue circle's: 526 , the Y value of Blue circle's: 343,the angle between origin and circle center: -26.56505117707799
+Camera Active Time:2022-08-06 23:29:49.827340
+The X value of Blue circle's: 556 , the Y value of Blue circle's: 376,the angle between origin and circle center: -29.953608167801498
+Camera Active Time:2022-08-06 23:29:49.828337
+The X value of Blue circle's: 535 , the Y value of Blue circle's: 315,the angle between origin and circle center: -19.230672375661285
+Camera Active Time:2022-08-06 23:29:49.829334
+The X value of Blue circle's: 526 , the Y value of Blue circle's: 343,the angle between origin and circle center: -26.56505117707799
+Camera Active Time:2022-08-06 23:29:49.859255
+The X value of Blue circle's: 590 , the Y value of Blue circle's: 337,the angle between origin and circle center: -19.76129549968003
+Camera Active Time:2022-08-06 23:29:49.860252
+The X value of Blue circle's: 599 , the Y value of Blue circle's: 329,the angle between origin and circle center: -17.69249647926145
+Camera Active Time:2022-08-06 23:29:49.861249
+The X value of Blue circle's: 554 , the Y value of Blue circle's: 318,the angle between origin and circle center: -18.43494882292201
+Camera Active Time:2022-08-06 23:29:49.862246
+The X value of Blue circle's: 592 , the Y value of Blue circle's: 313,the angle between origin and circle center: -15.023153251759572
+Camera Active Time:2022-08-06 23:29:49.863244
+The X value of Blue circle's: 561 , the Y value of Blue circle's: 304,the angle between origin and circle center: -14.872212053755863
+Camera Active Time:2022-08-06 23:29:49.864241
+The X value of Blue circle's: 542 , the Y value of Blue circle's: 290,the angle between origin and circle center: -12.692665545117885
+Camera Active Time:2022-08-06 23:29:49.865239
+The X value of Blue circle's: 527 , the Y value of Blue circle's: 284,the angle between origin and circle center: -12.000209671885292
+Camera Active Time:2022-08-06 23:29:49.867233
+The X value of Blue circle's: 541 , the Y value of Blue circle's: 317,the angle between origin and circle center: -19.209168987850074
+Camera Active Time:2022-08-06 23:29:49.889372
+The X value of Blue circle's: 590 , the Y value of Blue circle's: 337,the angle between origin and circle center: -19.76129549968003
+Camera Active Time:2022-08-06 23:29:49.890402
+The X value of Blue circle's: 599 , the Y value of Blue circle's: 329,the angle between origin and circle center: -17.69249647926145
+Camera Active Time:2022-08-06 23:29:49.891402
+The X value of Blue circle's: 554 , the Y value of Blue circle's: 318,the angle between origin and circle center: -18.43494882292201
+Camera Active Time:2022-08-06 23:29:49.892400
+The X value of Blue circle's: 592 , the Y value of Blue circle's: 313,the angle between origin and circle center: -15.023153251759572
+Camera Active Time:2022-08-06 23:29:49.893395
+The X value of Blue circle's: 561 , the Y value of Blue circle's: 304,the angle between origin and circle center: -14.872212053755863
+Camera Active Time:2022-08-06 23:29:49.894389
+The X value of Blue circle's: 542 , the Y value of Blue circle's: 290,the angle between origin and circle center: -12.692665545117885
+Camera Active Time:2022-08-06 23:29:49.895390
+The X value of Blue circle's: 527 , the Y value of Blue circle's: 284,the angle between origin and circle center: -12.000209671885292
+Camera Active Time:2022-08-06 23:29:49.896387
+The X value of Blue circle's: 541 , the Y value of Blue circle's: 317,the angle between origin and circle center: -19.209168987850074
+Camera Active Time:2022-08-06 23:29:49.920782
+The X value of Blue circle's: 590 , the Y value of Blue circle's: 337,the angle between origin and circle center: -19.76129549968003
+Camera Active Time:2022-08-06 23:29:49.921741
+The X value of Blue circle's: 599 , the Y value of Blue circle's: 329,the angle between origin and circle center: -17.69249647926145
+Camera Active Time:2022-08-06 23:29:49.922738
+The X value of Blue circle's: 554 , the Y value of Blue circle's: 318,the angle between origin and circle center: -18.43494882292201
+Camera Active Time:2022-08-06 23:29:49.923735
+The X value of Blue circle's: 592 , the Y value of Blue circle's: 313,the angle between origin and circle center: -15.023153251759572
+Camera Active Time:2022-08-06 23:29:49.924768
+The X value of Blue circle's: 561 , the Y value of Blue circle's: 304,the angle between origin and circle center: -14.872212053755863
+Camera Active Time:2022-08-06 23:29:49.925763
+The X value of Blue circle's: 542 , the Y value of Blue circle's: 290,the angle between origin and circle center: -12.692665545117885
+Camera Active Time:2022-08-06 23:29:49.926761
+The X value of Blue circle's: 527 , the Y value of Blue circle's: 284,the angle between origin and circle center: -12.000209671885292
+Camera Active Time:2022-08-06 23:29:49.927754
+The X value of Blue circle's: 541 , the Y value of Blue circle's: 317,the angle between origin and circle center: -19.209168987850074
+Camera Active Time:2022-08-06 23:29:49.952328
+The X value of Blue circle's: 546 , the Y value of Blue circle's: 295,the angle between origin and circle center: -13.677776114838899
+Camera Active Time:2022-08-06 23:29:49.952328
+The X value of Blue circle's: 557 , the Y value of Blue circle's: 288,the angle between origin and circle center: -11.449337988500032
+Camera Active Time:2022-08-06 23:29:49.953328
+The X value of Blue circle's: 560 , the Y value of Blue circle's: 297,the angle between origin and circle center: -13.360218444764483
+Camera Active Time:2022-08-06 23:29:49.982675
+The X value of Blue circle's: 546 , the Y value of Blue circle's: 295,the angle between origin and circle center: -13.677776114838899
+Camera Active Time:2022-08-06 23:29:49.983671
+The X value of Blue circle's: 557 , the Y value of Blue circle's: 288,the angle between origin and circle center: -11.449337988500032
+Camera Active Time:2022-08-06 23:29:49.984668
+The X value of Blue circle's: 560 , the Y value of Blue circle's: 297,the angle between origin and circle center: -13.360218444764483
+Camera Active Time:2022-08-06 23:29:50.012259
+The X value of Blue circle's: 565 , the Y value of Blue circle's: 260,the angle between origin and circle center: -4.666858371438996
+Camera Active Time:2022-08-06 23:29:50.043760
+The X value of Blue circle's: 565 , the Y value of Blue circle's: 260,the angle between origin and circle center: -4.666858371438996
+Camera Active Time:2022-08-06 23:29:50.995378
+The X value of Blue circle's: 627 , the Y value of Blue circle's: 187,the angle between origin and circle center: 9.794906110909421
+Camera Active Time:2022-08-06 23:29:51.018656
+The X value of Blue circle's: 627 , the Y value of Blue circle's: 187,the angle between origin and circle center: 9.794906110909421
+Camera Active Time:2022-08-06 23:29:51.049332
+The X value of Blue circle's: 627 , the Y value of Blue circle's: 187,the angle between origin and circle center: 9.794906110909421
+Camera Active Time:2022-08-06 23:29:51.079862
+The X value of Blue circle's: 614 , the Y value of Blue circle's: 179,the angle between origin and circle center: 11.721586771859792
+Camera Active Time:2022-08-06 23:29:51.111929
+The X value of Blue circle's: 614 , the Y value of Blue circle's: 179,the angle between origin and circle center: 11.721586771859792
+Camera Active Time:2022-08-06 23:29:51.142513
+The X value of Blue circle's: 595 , the Y value of Blue circle's: 175,the angle between origin and circle center: 13.29857033049428
+Camera Active Time:2022-08-06 23:29:51.173743
+The X value of Blue circle's: 595 , the Y value of Blue circle's: 175,the angle between origin and circle center: 13.29857033049428
+Camera Active Time:2022-08-06 23:29:51.206140
+The X value of Blue circle's: 554 , the Y value of Blue circle's: 173,the angle between origin and circle center: 15.977729858840856
+Camera Active Time:2022-08-06 23:29:51.235766
+The X value of Blue circle's: 554 , the Y value of Blue circle's: 173,the angle between origin and circle center: 15.977729858840856
+Camera Active Time:2022-08-06 23:29:51.266431
+The X value of Blue circle's: 511 , the Y value of Blue circle's: 173,the angle between origin and circle center: 19.330122533133085
+Camera Active Time:2022-08-06 23:29:51.332192
+The X value of Blue circle's: 436 , the Y value of Blue circle's: 164,the angle between origin and circle center: 33.231711067979354
+Camera Active Time:2022-08-06 23:29:51.333166
+The X value of Blue circle's: 451 , the Y value of Blue circle's: 159,the angle between origin and circle center: 31.729356123596318
+Camera Active Time:2022-08-06 23:29:51.334198
+The X value of Blue circle's: 449 , the Y value of Blue circle's: 186,the angle between origin and circle center: 22.714412353167237
+Camera Active Time:2022-08-06 23:29:51.358683
+The X value of Blue circle's: 436 , the Y value of Blue circle's: 164,the angle between origin and circle center: 33.231711067979354
+Camera Active Time:2022-08-06 23:29:51.360681
+The X value of Blue circle's: 451 , the Y value of Blue circle's: 159,the angle between origin and circle center: 31.729356123596318
+Camera Active Time:2022-08-06 23:29:51.361678
+The X value of Blue circle's: 449 , the Y value of Blue circle's: 186,the angle between origin and circle center: 22.714412353167237
+Camera Active Time:2022-08-06 23:29:51.395828
+The X value of Blue circle's: 436 , the Y value of Blue circle's: 205,the angle between origin and circle center: 16.789830371184742
+Camera Active Time:2022-08-06 23:29:51.396826
+The X value of Blue circle's: 413 , the Y value of Blue circle's: 194,the angle between origin and circle center: 26.318088139651742
+Camera Active Time:2022-08-06 23:29:51.421759
+The X value of Blue circle's: 436 , the Y value of Blue circle's: 205,the angle between origin and circle center: 16.789830371184742
+Camera Active Time:2022-08-06 23:29:51.422758
+The X value of Blue circle's: 413 , the Y value of Blue circle's: 194,the angle between origin and circle center: 26.318088139651742
+Camera Active Time:2022-08-06 23:29:51.453634
+The X value of Blue circle's: 436 , the Y value of Blue circle's: 205,the angle between origin and circle center: 16.789830371184742
+Camera Active Time:2022-08-06 23:29:51.455629
+The X value of Blue circle's: 413 , the Y value of Blue circle's: 194,the angle between origin and circle center: 26.318088139651742
+Camera Active Time:2022-08-06 23:29:51.484768
+The X value of Blue circle's: 369 , the Y value of Blue circle's: 199,the angle between origin and circle center: 39.92039213998543
+Camera Active Time:2022-08-06 23:29:51.485764
+The X value of Blue circle's: 398 , the Y value of Blue circle's: 167,the angle between origin and circle center: 43.10348169679071
+Camera Active Time:2022-08-06 23:29:51.486727
+The X value of Blue circle's: 357 , the Y value of Blue circle's: 142,the angle between origin and circle center: 69.31591973205319
+Camera Active Time:2022-08-06 23:29:51.514211
+The X value of Blue circle's: 369 , the Y value of Blue circle's: 199,the angle between origin and circle center: 39.92039213998543
+Camera Active Time:2022-08-06 23:29:51.516205
+The X value of Blue circle's: 398 , the Y value of Blue circle's: 167,the angle between origin and circle center: 43.10348169679071
+Camera Active Time:2022-08-06 23:29:51.517206
+The X value of Blue circle's: 357 , the Y value of Blue circle's: 142,the angle between origin and circle center: 69.31591973205319
+Camera Active Time:2022-08-06 23:29:51.545477
+The X value of Blue circle's: 339 , the Y value of Blue circle's: 161,the angle between origin and circle center: 76.47683934958398
+Camera Active Time:2022-08-06 23:29:51.546475
+The X value of Blue circle's: 334 , the Y value of Blue circle's: 181,the angle between origin and circle center: 76.65127288671262
+Camera Active Time:2022-08-06 23:29:51.576127
+The X value of Blue circle's: 339 , the Y value of Blue circle's: 161,the angle between origin and circle center: 76.47683934958398
+Camera Active Time:2022-08-06 23:29:51.578122
+The X value of Blue circle's: 334 , the Y value of Blue circle's: 181,the angle between origin and circle center: 76.65127288671262
+Camera Active Time:2022-08-06 23:29:51.607671
+The X value of Blue circle's: 326 , the Y value of Blue circle's: 136,the angle between origin and circle center: 86.69813432556501
+Camera Active Time:2022-08-06 23:29:51.608636
+The X value of Blue circle's: 303 , the Y value of Blue circle's: 178,the angle between origin and circle center: 105.33328479305356
+Camera Active Time:2022-08-06 23:29:51.640049
+The X value of Blue circle's: 326 , the Y value of Blue circle's: 136,the angle between origin and circle center: 86.69813432556501
+Camera Active Time:2022-08-06 23:29:51.641047
+The X value of Blue circle's: 303 , the Y value of Blue circle's: 178,the angle between origin and circle center: 105.33328479305356
+Camera Active Time:2022-08-06 23:29:51.670525
+The X value of Blue circle's: 279 , the Y value of Blue circle's: 179,the angle between origin and circle center: 123.90627698844216
+Camera Active Time:2022-08-06 23:29:51.734086
+The X value of Blue circle's: 263 , the Y value of Blue circle's: 181,the angle between origin and circle center: 134.01223960036018
+Camera Active Time:2022-08-06 23:29:51.761343
+The X value of Blue circle's: 263 , the Y value of Blue circle's: 181,the angle between origin and circle center: 134.01223960036018
+Camera Active Time:2022-08-06 23:29:51.810863
+The X value of Blue circle's: 249 , the Y value of Blue circle's: 183,the angle between origin and circle center: 141.24191434741505
+Camera Active Time:2022-08-06 23:29:51.840198
+The X value of Blue circle's: 249 , the Y value of Blue circle's: 183,the angle between origin and circle center: 141.24191434741505
+Camera Active Time:2022-08-06 23:29:51.871266
+The X value of Blue circle's: 249 , the Y value of Blue circle's: 183,the angle between origin and circle center: 141.24191434741505
+Camera Active Time:2022-08-06 23:29:51.902395
+The X value of Blue circle's: 230 , the Y value of Blue circle's: 183,the angle between origin and circle center: 147.65255650055798
+Camera Active Time:2022-08-06 23:29:51.933170
+The X value of Blue circle's: 230 , the Y value of Blue circle's: 183,the angle between origin and circle center: 147.65255650055798
+Camera Active Time:2022-08-06 23:29:51.963810
+The X value of Blue circle's: 212 , the Y value of Blue circle's: 181,the angle between origin and circle center: 151.35238354319114
+Camera Active Time:2022-08-06 23:29:51.994408
+The X value of Blue circle's: 212 , the Y value of Blue circle's: 181,the angle between origin and circle center: 151.35238354319114
+Camera Active Time:2022-08-06 23:29:52.026326
+The X value of Blue circle's: 193 , the Y value of Blue circle's: 178,the angle between origin and circle center: 153.97887975571345
+Camera Active Time:2022-08-06 23:29:52.058265
+The X value of Blue circle's: 193 , the Y value of Blue circle's: 178,the angle between origin and circle center: 153.97887975571345
+Camera Active Time:2022-08-06 23:29:52.089261
+The X value of Blue circle's: 177 , the Y value of Blue circle's: 175,the angle between origin and circle center: 155.55604521958347
+Camera Active Time:2022-08-06 23:29:52.132304
+The X value of Blue circle's: 163 , the Y value of Blue circle's: 173,the angle between origin and circle center: 156.8895567699047
+Camera Active Time:2022-08-06 23:29:52.151973
+The X value of Blue circle's: 163 , the Y value of Blue circle's: 173,the angle between origin and circle center: 156.8895567699047
+Camera Active Time:2022-08-06 23:29:52.182689
+The X value of Blue circle's: 163 , the Y value of Blue circle's: 173,the angle between origin and circle center: 156.8895567699047
+Camera Active Time:2022-08-06 23:29:52.213452
+The X value of Blue circle's: 152 , the Y value of Blue circle's: 170,the angle between origin and circle center: 157.38013505195957
+Camera Active Time:2022-08-06 23:29:52.244598
+The X value of Blue circle's: 152 , the Y value of Blue circle's: 170,the angle between origin and circle center: 157.38013505195957
+Camera Active Time:2022-08-06 23:29:52.275124
+The X value of Blue circle's: 143 , the Y value of Blue circle's: 167,the angle between origin and circle center: 157.58731053136572
+Camera Active Time:2022-08-06 23:29:52.306024
+The X value of Blue circle's: 143 , the Y value of Blue circle's: 167,the angle between origin and circle center: 157.58731053136572
+Camera Active Time:2022-08-06 23:29:52.340036
+The X value of Blue circle's: 125 , the Y value of Blue circle's: 205,the angle between origin and circle center: 169.8244891569568
+Camera Active Time:2022-08-06 23:29:52.341037
+The X value of Blue circle's: 138 , the Y value of Blue circle's: 164,the angle between origin and circle center: 157.3354425653039
+Camera Active Time:2022-08-06 23:29:52.367486
+The X value of Blue circle's: 125 , the Y value of Blue circle's: 205,the angle between origin and circle center: 169.8244891569568
+Camera Active Time:2022-08-06 23:29:52.368484
+The X value of Blue circle's: 138 , the Y value of Blue circle's: 164,the angle between origin and circle center: 157.3354425653039
+Camera Active Time:2022-08-06 23:29:52.402018
+The X value of Blue circle's: 137 , the Y value of Blue circle's: 158,the angle between origin and circle center: 155.86344843327723
+Camera Active Time:2022-08-06 23:29:52.428548
+The X value of Blue circle's: 137 , the Y value of Blue circle's: 158,the angle between origin and circle center: 155.86344843327723
+Camera Active Time:2022-08-06 23:29:52.467994
+The X value of Blue circle's: 139 , the Y value of Blue circle's: 150,the angle between origin and circle center: 153.5617091902497
+Camera Active Time:2022-08-06 23:29:52.532451
+The X value of Blue circle's: 139 , the Y value of Blue circle's: 139,the angle between origin and circle center: 150.83800000136958
+Camera Active Time:2022-08-06 23:29:52.554788
+The X value of Blue circle's: 139 , the Y value of Blue circle's: 139,the angle between origin and circle center: 150.83800000136958
+Camera Active Time:2022-08-06 23:29:52.585325
+The X value of Blue circle's: 139 , the Y value of Blue circle's: 139,the angle between origin and circle center: 150.83800000136958
+Camera Active Time:2022-08-06 23:29:52.615756
+The X value of Blue circle's: 144 , the Y value of Blue circle's: 129,the angle between origin and circle center: 147.76111516253002
+Camera Active Time:2022-08-06 23:29:52.646665
+The X value of Blue circle's: 144 , the Y value of Blue circle's: 129,the angle between origin and circle center: 147.76111516253002
+Camera Active Time:2022-08-06 23:29:52.678073
+The X value of Blue circle's: 150 , the Y value of Blue circle's: 119,the angle between origin and circle center: 144.55808108183993
+Camera Active Time:2022-08-06 23:29:52.709318
+The X value of Blue circle's: 150 , the Y value of Blue circle's: 119,the angle between origin and circle center: 144.55808108183993
+Camera Active Time:2022-08-06 23:29:52.740090
+The X value of Blue circle's: 156 , the Y value of Blue circle's: 110,the angle between origin and circle center: 141.5967382978942
+Camera Active Time:2022-08-06 23:29:52.772001
+The X value of Blue circle's: 156 , the Y value of Blue circle's: 110,the angle between origin and circle center: 141.5967382978942
+Camera Active Time:2022-08-06 23:29:52.804447
+The X value of Blue circle's: 165 , the Y value of Blue circle's: 102,the angle between origin and circle center: 138.32060570762332
+Camera Active Time:2022-08-06 23:29:52.833618
+The X value of Blue circle's: 165 , the Y value of Blue circle's: 102,the angle between origin and circle center: 138.32060570762332
+Camera Active Time:2022-08-06 23:29:52.866644
+The X value of Blue circle's: 183 , the Y value of Blue circle's: 56,the angle between origin and circle center: 126.67008754211595
+Camera Active Time:2022-08-06 23:29:52.867642
+The X value of Blue circle's: 177 , the Y value of Blue circle's: 97,the angle between origin and circle center: 135.0
+Camera Active Time:2022-08-06 23:29:52.947043
+The X value of Blue circle's: 188 , the Y value of Blue circle's: 93,the angle between origin and circle center: 131.92254460057563
+Camera Active Time:2022-08-06 23:29:52.974721
+The X value of Blue circle's: 188 , the Y value of Blue circle's: 93,the angle between origin and circle center: 131.92254460057563
+Camera Active Time:2022-08-06 23:29:53.003889
+The X value of Blue circle's: 188 , the Y value of Blue circle's: 93,the angle between origin and circle center: 131.92254460057563
+Camera Active Time:2022-08-06 23:29:53.033683
+The X value of Blue circle's: 199 , the Y value of Blue circle's: 89,the angle between origin and circle center: 128.70605181104892
+Camera Active Time:2022-08-06 23:29:53.064430
+The X value of Blue circle's: 199 , the Y value of Blue circle's: 89,the angle between origin and circle center: 128.70605181104892
+Camera Active Time:2022-08-06 23:29:53.095066
+The X value of Blue circle's: 213 , the Y value of Blue circle's: 86,the angle between origin and circle center: 124.79177364118617
+Camera Active Time:2022-08-06 23:29:53.126681
+The X value of Blue circle's: 213 , the Y value of Blue circle's: 86,the angle between origin and circle center: 124.79177364118617
+Camera Active Time:2022-08-06 23:29:53.155760
+The X value of Blue circle's: 230 , the Y value of Blue circle's: 82,the angle between origin and circle center: 119.66671520694645
+Camera Active Time:2022-08-06 23:29:53.187556
+The X value of Blue circle's: 230 , the Y value of Blue circle's: 82,the angle between origin and circle center: 119.66671520694645
+Camera Active Time:2022-08-06 23:29:53.217025
+The X value of Blue circle's: 251 , the Y value of Blue circle's: 78,the angle between origin and circle center: 113.07041224982466
+Camera Active Time:2022-08-06 23:29:53.248762
+The X value of Blue circle's: 251 , the Y value of Blue circle's: 78,the angle between origin and circle center: 113.07041224982466
+Camera Active Time:2022-08-06 23:29:53.280298
+The X value of Blue circle's: 297 , the Y value of Blue circle's: 49,the angle between origin and circle center: 96.86642980249772
+Camera Active Time:2022-08-06 23:29:53.281295
+The X value of Blue circle's: 275 , the Y value of Blue circle's: 78,the angle between origin and circle center: 105.52411099675426
+Camera Active Time:2022-08-06 23:29:53.312315
+The X value of Blue circle's: 297 , the Y value of Blue circle's: 49,the angle between origin and circle center: 96.86642980249772
+Camera Active Time:2022-08-06 23:29:53.313314
+The X value of Blue circle's: 275 , the Y value of Blue circle's: 78,the angle between origin and circle center: 105.52411099675426
+Camera Active Time:2022-08-06 23:29:53.346831
+The X value of Blue circle's: 285 , the Y value of Blue circle's: 102,the angle between origin and circle center: 104.23145831564261
+Camera Active Time:2022-08-06 23:29:53.348791
+The X value of Blue circle's: 308 , the Y value of Blue circle's: 96,the angle between origin and circle center: 94.76364169072617
+Camera Active Time:2022-08-06 23:29:53.349823
+The X value of Blue circle's: 287 , the Y value of Blue circle's: 58,the angle between origin and circle center: 100.27714058141241
+Camera Active Time:2022-08-06 23:29:53.351817
+The X value of Blue circle's: 304 , the Y value of Blue circle's: 56,the angle between origin and circle center: 94.96974072811031
+Camera Active Time:2022-08-06 23:29:53.352779
+The X value of Blue circle's: 294 , the Y value of Blue circle's: 51,the angle between origin and circle center: 97.83279556623465
+Camera Active Time:2022-08-06 23:29:53.354776
+The X value of Blue circle's: 303 , the Y value of Blue circle's: 40,the angle between origin and circle center: 94.8584629190343
+Camera Active Time:2022-08-06 23:29:53.355771
+The X value of Blue circle's: 303 , the Y value of Blue circle's: 79,the angle between origin and circle center: 96.02753029552127
+Camera Active Time:2022-08-06 23:29:53.388566
+The X value of Blue circle's: 285 , the Y value of Blue circle's: 102,the angle between origin and circle center: 104.23145831564261
+Camera Active Time:2022-08-06 23:29:53.390595
+The X value of Blue circle's: 308 , the Y value of Blue circle's: 96,the angle between origin and circle center: 94.76364169072617
+Camera Active Time:2022-08-06 23:29:53.391562
+The X value of Blue circle's: 287 , the Y value of Blue circle's: 58,the angle between origin and circle center: 100.27714058141241
+Camera Active Time:2022-08-06 23:29:53.392557
+The X value of Blue circle's: 304 , the Y value of Blue circle's: 56,the angle between origin and circle center: 94.96974072811031
+Camera Active Time:2022-08-06 23:29:53.394584
+The X value of Blue circle's: 294 , the Y value of Blue circle's: 51,the angle between origin and circle center: 97.83279556623465
+Camera Active Time:2022-08-06 23:29:53.395549
+The X value of Blue circle's: 303 , the Y value of Blue circle's: 40,the angle between origin and circle center: 94.8584629190343
+Camera Active Time:2022-08-06 23:29:53.396547
+The X value of Blue circle's: 303 , the Y value of Blue circle's: 79,the angle between origin and circle center: 96.02753029552127
+Camera Active Time:2022-08-06 23:29:53.418712
+The X value of Blue circle's: 323 , the Y value of Blue circle's: 98,the angle between origin and circle center: 88.78970583107879
+Camera Active Time:2022-08-06 23:29:53.419710
+The X value of Blue circle's: 359 , the Y value of Blue circle's: 73,the angle between origin and circle center: 76.85513238244926
+Camera Active Time:2022-08-06 23:29:53.421704
+The X value of Blue circle's: 349 , the Y value of Blue circle's: 54,the angle between origin and circle center: 81.13813559360244
+Camera Active Time:2022-08-06 23:29:53.422702
+The X value of Blue circle's: 326 , the Y value of Blue circle's: 67,the angle between origin and circle center: 88.01365930411781
+Camera Active Time:2022-08-06 23:29:53.423699
+The X value of Blue circle's: 325 , the Y value of Blue circle's: 79,the angle between origin and circle center: 88.22119968432615
+Camera Active Time:2022-08-06 23:29:53.448038
+The X value of Blue circle's: 323 , the Y value of Blue circle's: 98,the angle between origin and circle center: 88.78970583107879
+Camera Active Time:2022-08-06 23:29:53.450041
+The X value of Blue circle's: 359 , the Y value of Blue circle's: 73,the angle between origin and circle center: 76.85513238244926
+Camera Active Time:2022-08-06 23:29:53.451034
+The X value of Blue circle's: 349 , the Y value of Blue circle's: 54,the angle between origin and circle center: 81.13813559360244
+Camera Active Time:2022-08-06 23:29:53.453061
+The X value of Blue circle's: 326 , the Y value of Blue circle's: 67,the angle between origin and circle center: 88.01365930411781
+Camera Active Time:2022-08-06 23:29:53.454023
+The X value of Blue circle's: 325 , the Y value of Blue circle's: 79,the angle between origin and circle center: 88.22119968432615
+Camera Active Time:2022-08-06 23:29:53.478720
+The X value of Blue circle's: 337 , the Y value of Blue circle's: 113,the angle between origin and circle center: 82.37580749554817
+Camera Active Time:2022-08-06 23:29:53.480718
+The X value of Blue circle's: 342 , the Y value of Blue circle's: 84,the angle between origin and circle center: 81.97276248956804
+Camera Active Time:2022-08-06 23:29:53.510910
+The X value of Blue circle's: 337 , the Y value of Blue circle's: 113,the angle between origin and circle center: 82.37580749554817
+Camera Active Time:2022-08-06 23:29:53.511908
+The X value of Blue circle's: 342 , the Y value of Blue circle's: 84,the angle between origin and circle center: 81.97276248956804
+Camera Active Time:2022-08-06 23:29:53.542247
+The X value of Blue circle's: 363 , the Y value of Blue circle's: 117,the angle between origin and circle center: 70.7307056015312
+Camera Active Time:2022-08-06 23:29:53.543247
+The X value of Blue circle's: 351 , the Y value of Blue circle's: 88,the angle between origin and circle center: 78.47276472650427
+Camera Active Time:2022-08-06 23:29:53.572441
+The X value of Blue circle's: 363 , the Y value of Blue circle's: 117,the angle between origin and circle center: 70.7307056015312
+Camera Active Time:2022-08-06 23:29:53.573438
+The X value of Blue circle's: 351 , the Y value of Blue circle's: 88,the angle between origin and circle center: 78.47276472650427
+Camera Active Time:2022-08-06 23:29:53.604139
+The X value of Blue circle's: 372 , the Y value of Blue circle's: 124,the angle between origin and circle center: 65.85445803957835
+Camera Active Time:2022-08-06 23:29:53.605136
+The X value of Blue circle's: 363 , the Y value of Blue circle's: 105,the angle between origin and circle center: 72.33235949216768
+Camera Active Time:2022-08-06 23:29:53.606133
+The X value of Blue circle's: 359 , the Y value of Blue circle's: 89,the angle between origin and circle center: 75.51823067887523
+Camera Active Time:2022-08-06 23:29:53.607131
+The X value of Blue circle's: 368 , the Y value of Blue circle's: 78,the angle between origin and circle center: 73.49563861824498
+Camera Active Time:2022-08-06 23:29:53.608128
+The X value of Blue circle's: 385 , the Y value of Blue circle's: 61,the angle between origin and circle center: 70.04259817781698
+Camera Active Time:2022-08-06 23:29:53.636372
+The X value of Blue circle's: 372 , the Y value of Blue circle's: 124,the angle between origin and circle center: 65.85445803957835
+Camera Active Time:2022-08-06 23:29:53.638367
+The X value of Blue circle's: 363 , the Y value of Blue circle's: 105,the angle between origin and circle center: 72.33235949216768
+Camera Active Time:2022-08-06 23:29:53.639364
+The X value of Blue circle's: 359 , the Y value of Blue circle's: 89,the angle between origin and circle center: 75.51823067887523
+Camera Active Time:2022-08-06 23:29:53.640362
+The X value of Blue circle's: 368 , the Y value of Blue circle's: 78,the angle between origin and circle center: 73.49563861824498
+Camera Active Time:2022-08-06 23:29:53.641359
+The X value of Blue circle's: 385 , the Y value of Blue circle's: 61,the angle between origin and circle center: 70.04259817781698
+Camera Active Time:2022-08-06 23:29:53.669044
+The X value of Blue circle's: 391 , the Y value of Blue circle's: 61,the angle between origin and circle center: 68.36434447605963
+Camera Active Time:2022-08-06 23:29:53.698658
+The X value of Blue circle's: 391 , the Y value of Blue circle's: 61,the angle between origin and circle center: 68.36434447605963
+Camera Active Time:2022-08-06 23:29:53.747049
+The X value of Blue circle's: 380 , the Y value of Blue circle's: 84,the angle between origin and circle center: 68.96248897457819
+Camera Active Time:2022-08-06 23:29:53.776129
+The X value of Blue circle's: 380 , the Y value of Blue circle's: 84,the angle between origin and circle center: 68.96248897457819
+Camera Active Time:2022-08-06 23:29:54.210125
+The X value of Blue circle's: 485 , the Y value of Blue circle's: 265,the angle between origin and circle center: -8.615648184164113
+Camera Active Time:2022-08-06 23:29:54.239108
+The X value of Blue circle's: 485 , the Y value of Blue circle's: 265,the angle between origin and circle center: -8.615648184164113
+Camera Active Time:2022-08-06 23:29:54.275366
+The X value of Blue circle's: 518 , the Y value of Blue circle's: 280,the angle between origin and circle center: -11.421186274999284
+Camera Active Time:2022-08-06 23:29:54.276364
+The X value of Blue circle's: 481 , the Y value of Blue circle's: 277,the angle between origin and circle center: -12.942624265794574
+Camera Active Time:2022-08-06 23:29:54.277361
+The X value of Blue circle's: 484 , the Y value of Blue circle's: 258,the angle between origin and circle center: -6.26349061433454
+Camera Active Time:2022-08-06 23:29:54.301791
+The X value of Blue circle's: 518 , the Y value of Blue circle's: 280,the angle between origin and circle center: -11.421186274999284
+Camera Active Time:2022-08-06 23:29:54.302820
+The X value of Blue circle's: 481 , the Y value of Blue circle's: 277,the angle between origin and circle center: -12.942624265794574
+Camera Active Time:2022-08-06 23:29:54.303819
+The X value of Blue circle's: 484 , the Y value of Blue circle's: 258,the angle between origin and circle center: -6.26349061433454
+Camera Active Time:2022-08-06 23:29:54.340540
+The X value of Blue circle's: 492 , the Y value of Blue circle's: 300,the angle between origin and circle center: -19.230672375661285
+Camera Active Time:2022-08-06 23:29:54.341538
+The X value of Blue circle's: 517 , the Y value of Blue circle's: 304,the angle between origin and circle center: -17.99758495540128
+Camera Active Time:2022-08-06 23:29:54.343532
+The X value of Blue circle's: 469 , the Y value of Blue circle's: 293,the angle between origin and circle center: -19.580711661097116
+Camera Active Time:2022-08-06 23:29:54.344529
+The X value of Blue circle's: 466 , the Y value of Blue circle's: 283,the angle between origin and circle center: -16.410784596877726
+Camera Active Time:2022-08-06 23:29:54.345527
+The X value of Blue circle's: 483 , the Y value of Blue circle's: 271,the angle between origin and circle center: -10.768144561107833
+Camera Active Time:2022-08-06 23:29:54.346525
+The X value of Blue circle's: 481 , the Y value of Blue circle's: 259,the angle between origin and circle center: -6.730483934615653
+Camera Active Time:2022-08-06 23:29:54.363782
+The X value of Blue circle's: 492 , the Y value of Blue circle's: 300,the angle between origin and circle center: -19.230672375661285
+Camera Active Time:2022-08-06 23:29:54.364780
+The X value of Blue circle's: 517 , the Y value of Blue circle's: 304,the angle between origin and circle center: -17.99758495540128
+Camera Active Time:2022-08-06 23:29:54.365742
+The X value of Blue circle's: 469 , the Y value of Blue circle's: 293,the angle between origin and circle center: -19.580711661097116
+Camera Active Time:2022-08-06 23:29:54.367751
+The X value of Blue circle's: 466 , the Y value of Blue circle's: 283,the angle between origin and circle center: -16.410784596877726
+Camera Active Time:2022-08-06 23:29:54.368770
+The X value of Blue circle's: 483 , the Y value of Blue circle's: 271,the angle between origin and circle center: -10.768144561107833
+Camera Active Time:2022-08-06 23:29:54.369732
+The X value of Blue circle's: 481 , the Y value of Blue circle's: 259,the angle between origin and circle center: -6.730483934615653
+Camera Active Time:2022-08-06 23:29:54.403335
+The X value of Blue circle's: 509 , the Y value of Blue circle's: 323,the angle between origin and circle center: -23.708844780273775
+Camera Active Time:2022-08-06 23:29:54.405330
+The X value of Blue circle's: 488 , the Y value of Blue circle's: 312,the angle between origin and circle center: -23.19859051364819
+Camera Active Time:2022-08-06 23:29:54.406328
+The X value of Blue circle's: 527 , the Y value of Blue circle's: 297,the angle between origin and circle center: -15.39554925399509
+Camera Active Time:2022-08-06 23:29:54.407325
+The X value of Blue circle's: 471 , the Y value of Blue circle's: 289,the angle between origin and circle center: -17.978418408822964
+Camera Active Time:2022-08-06 23:29:54.409320
+The X value of Blue circle's: 450 , the Y value of Blue circle's: 282,the angle between origin and circle center: -17.9044475062482
+Camera Active Time:2022-08-06 23:29:54.410317
+The X value of Blue circle's: 471 , the Y value of Blue circle's: 292,the angle between origin and circle center: -19.002215232779946
+Camera Active Time:2022-08-06 23:29:54.411314
+The X value of Blue circle's: 488 , the Y value of Blue circle's: 260,the angle between origin and circle center: -6.788974574438791
+Camera Active Time:2022-08-06 23:29:54.412312
+The X value of Blue circle's: 459 , the Y value of Blue circle's: 259,the angle between origin and circle center: -7.7835595264654005
+Camera Active Time:2022-08-06 23:29:54.440975
+The X value of Blue circle's: 509 , the Y value of Blue circle's: 323,the angle between origin and circle center: -23.708844780273775
+Camera Active Time:2022-08-06 23:29:54.442967
+The X value of Blue circle's: 488 , the Y value of Blue circle's: 312,the angle between origin and circle center: -23.19859051364819
+Camera Active Time:2022-08-06 23:29:54.443964
+The X value of Blue circle's: 527 , the Y value of Blue circle's: 297,the angle between origin and circle center: -15.39554925399509
+Camera Active Time:2022-08-06 23:29:54.444962
+The X value of Blue circle's: 471 , the Y value of Blue circle's: 289,the angle between origin and circle center: -17.978418408822964
+Camera Active Time:2022-08-06 23:29:54.445959
+The X value of Blue circle's: 450 , the Y value of Blue circle's: 282,the angle between origin and circle center: -17.9044475062482
+Camera Active Time:2022-08-06 23:29:54.446957
+The X value of Blue circle's: 471 , the Y value of Blue circle's: 292,the angle between origin and circle center: -19.002215232779946
+Camera Active Time:2022-08-06 23:29:54.448951
+The X value of Blue circle's: 488 , the Y value of Blue circle's: 260,the angle between origin and circle center: -6.788974574438791
+Camera Active Time:2022-08-06 23:29:54.449948
+The X value of Blue circle's: 459 , the Y value of Blue circle's: 259,the angle between origin and circle center: -7.7835595264654005
+Camera Active Time:2022-08-06 23:29:54.483968
+The X value of Blue circle's: 494 , the Y value of Blue circle's: 326,the angle between origin and circle center: -26.30101719581888
+Camera Active Time:2022-08-06 23:29:54.485962
+The X value of Blue circle's: 475 , the Y value of Blue circle's: 315,the angle between origin and circle center: -25.82099197418928
+Camera Active Time:2022-08-06 23:29:54.487957
+The X value of Blue circle's: 529 , the Y value of Blue circle's: 281,the angle between origin and circle center: -11.098899249642335
+Camera Active Time:2022-08-06 23:29:54.489951
+The X value of Blue circle's: 485 , the Y value of Blue circle's: 306,the angle between origin and circle center: -21.80140948635181
+Camera Active Time:2022-08-06 23:29:54.519274
+The X value of Blue circle's: 494 , the Y value of Blue circle's: 326,the angle between origin and circle center: -26.30101719581888
+Camera Active Time:2022-08-06 23:29:54.521268
+The X value of Blue circle's: 475 , the Y value of Blue circle's: 315,the angle between origin and circle center: -25.82099197418928
+Camera Active Time:2022-08-06 23:29:54.523263
+The X value of Blue circle's: 529 , the Y value of Blue circle's: 281,the angle between origin and circle center: -11.098899249642335
+Camera Active Time:2022-08-06 23:29:54.524260
+The X value of Blue circle's: 485 , the Y value of Blue circle's: 306,the angle between origin and circle center: -21.80140948635181
+Camera Active Time:2022-08-06 23:29:54.550705
+The X value of Blue circle's: 499 , the Y value of Blue circle's: 350,the angle between origin and circle center: -31.57177055177729
+Camera Active Time:2022-08-06 23:29:54.552699
+The X value of Blue circle's: 487 , the Y value of Blue circle's: 338,the angle between origin and circle center: -30.405533651000848
+Camera Active Time:2022-08-06 23:29:54.553697
+The X value of Blue circle's: 461 , the Y value of Blue circle's: 337,the angle between origin and circle center: -34.52576517177418
+Camera Active Time:2022-08-06 23:29:54.555691
+The X value of Blue circle's: 494 , the Y value of Blue circle's: 315,the angle between origin and circle center: -23.31770838675507
+Camera Active Time:2022-08-06 23:29:54.556689
+The X value of Blue circle's: 466 , the Y value of Blue circle's: 312,the angle between origin and circle center: -26.250242369688888
+Camera Active Time:2022-08-06 23:29:54.558683
+The X value of Blue circle's: 528 , the Y value of Blue circle's: 316,the angle between origin and circle center: -20.07152586453873
+Camera Active Time:2022-08-06 23:29:54.560717
+The X value of Blue circle's: 519 , the Y value of Blue circle's: 293,the angle between origin and circle center: -14.913495445999773
+Camera Active Time:2022-08-06 23:29:54.562710
+The X value of Blue circle's: 521 , the Y value of Blue circle's: 280,the angle between origin and circle center: -11.255103993614531
+Camera Active Time:2022-08-06 23:29:54.563706
+The X value of Blue circle's: 481 , the Y value of Blue circle's: 328,the angle between origin and circle center: -28.660303741701835
+Camera Active Time:2022-08-06 23:29:54.565700
+The X value of Blue circle's: 486 , the Y value of Blue circle's: 263,the angle between origin and circle center: -7.8883494448878775
+Camera Active Time:2022-08-06 23:29:54.596452
+The X value of Blue circle's: 499 , the Y value of Blue circle's: 350,the angle between origin and circle center: -31.57177055177729
+Camera Active Time:2022-08-06 23:29:54.597451
+The X value of Blue circle's: 487 , the Y value of Blue circle's: 338,the angle between origin and circle center: -30.405533651000848
+Camera Active Time:2022-08-06 23:29:54.599443
+The X value of Blue circle's: 461 , the Y value of Blue circle's: 337,the angle between origin and circle center: -34.52576517177418
+Camera Active Time:2022-08-06 23:29:54.601439
+The X value of Blue circle's: 494 , the Y value of Blue circle's: 315,the angle between origin and circle center: -23.31770838675507
+Camera Active Time:2022-08-06 23:29:54.602403
+The X value of Blue circle's: 466 , the Y value of Blue circle's: 312,the angle between origin and circle center: -26.250242369688888
+Camera Active Time:2022-08-06 23:29:54.604398
+The X value of Blue circle's: 528 , the Y value of Blue circle's: 316,the angle between origin and circle center: -20.07152586453873
+Camera Active Time:2022-08-06 23:29:54.606413
+The X value of Blue circle's: 519 , the Y value of Blue circle's: 293,the angle between origin and circle center: -14.913495445999773
+Camera Active Time:2022-08-06 23:29:54.610382
+The X value of Blue circle's: 521 , the Y value of Blue circle's: 280,the angle between origin and circle center: -11.255103993614531
+Camera Active Time:2022-08-06 23:29:54.612378
+The X value of Blue circle's: 481 , the Y value of Blue circle's: 328,the angle between origin and circle center: -28.660303741701835
+Camera Active Time:2022-08-06 23:29:54.614369
+The X value of Blue circle's: 486 , the Y value of Blue circle's: 263,the angle between origin and circle center: -7.8883494448878775
+Camera Active Time:2022-08-06 23:29:54.641905
+The X value of Blue circle's: 493 , the Y value of Blue circle's: 377,the angle between origin and circle center: -38.375967365482495
+Camera Active Time:2022-08-06 23:29:54.643900
+The X value of Blue circle's: 468 , the Y value of Blue circle's: 374,the angle between origin and circle center: -42.15786211634434
+Camera Active Time:2022-08-06 23:29:54.644898
+The X value of Blue circle's: 515 , the Y value of Blue circle's: 348,the angle between origin and circle center: -28.979707697928777
+Camera Active Time:2022-08-06 23:29:54.646892
+The X value of Blue circle's: 454 , the Y value of Blue circle's: 321,the angle between origin and circle center: -31.152022380839988
+Camera Active Time:2022-08-06 23:29:54.647890
+The X value of Blue circle's: 477 , the Y value of Blue circle's: 292,the angle between origin and circle center: -18.325396796745498
+Camera Active Time:2022-08-06 23:29:54.648888
+The X value of Blue circle's: 480 , the Y value of Blue circle's: 334,the angle between origin and circle center: -30.43423575344341
+Camera Active Time:2022-08-06 23:29:54.674572
+The X value of Blue circle's: 493 , the Y value of Blue circle's: 377,the angle between origin and circle center: -38.375967365482495
+Camera Active Time:2022-08-06 23:29:54.675570
+The X value of Blue circle's: 468 , the Y value of Blue circle's: 374,the angle between origin and circle center: -42.15786211634434
+Camera Active Time:2022-08-06 23:29:54.677564
+The X value of Blue circle's: 515 , the Y value of Blue circle's: 348,the angle between origin and circle center: -28.979707697928777
+Camera Active Time:2022-08-06 23:29:54.678562
+The X value of Blue circle's: 454 , the Y value of Blue circle's: 321,the angle between origin and circle center: -31.152022380839988
+Camera Active Time:2022-08-06 23:29:54.679560
+The X value of Blue circle's: 477 , the Y value of Blue circle's: 292,the angle between origin and circle center: -18.325396796745498
+Camera Active Time:2022-08-06 23:29:54.681554
+The X value of Blue circle's: 480 , the Y value of Blue circle's: 334,the angle between origin and circle center: -30.43423575344341
+Camera Active Time:2022-08-06 23:29:54.705647
+The X value of Blue circle's: 516 , the Y value of Blue circle's: 377,the angle between origin and circle center: -34.952763075881585
+Camera Active Time:2022-08-06 23:29:54.706610
+The X value of Blue circle's: 509 , the Y value of Blue circle's: 369,the angle between origin and circle center: -34.315087599997284
+Camera Active Time:2022-08-06 23:29:54.707606
+The X value of Blue circle's: 482 , the Y value of Blue circle's: 331,the angle between origin and circle center: -29.32415883569826
+Camera Active Time:2022-08-06 23:29:54.709637
+The X value of Blue circle's: 497 , the Y value of Blue circle's: 324,the angle between origin and circle center: -25.387906291095927
+Camera Active Time:2022-08-06 23:29:54.710633
+The X value of Blue circle's: 474 , the Y value of Blue circle's: 323,the angle between origin and circle center: -28.32293763849981
+Camera Active Time:2022-08-06 23:29:54.711629
+The X value of Blue circle's: 450 , the Y value of Blue circle's: 314,the angle between origin and circle center: -29.64986350757558
+Camera Active Time:2022-08-06 23:29:54.712628
+The X value of Blue circle's: 479 , the Y value of Blue circle's: 355,the angle between origin and circle center: -35.877103794621526
+Camera Active Time:2022-08-06 23:29:54.737930
+The X value of Blue circle's: 516 , the Y value of Blue circle's: 377,the angle between origin and circle center: -34.952763075881585
+Camera Active Time:2022-08-06 23:29:54.738927
+The X value of Blue circle's: 509 , the Y value of Blue circle's: 369,the angle between origin and circle center: -34.315087599997284
+Camera Active Time:2022-08-06 23:29:54.740954
+The X value of Blue circle's: 482 , the Y value of Blue circle's: 331,the angle between origin and circle center: -29.32415883569826
+Camera Active Time:2022-08-06 23:29:54.741916
+The X value of Blue circle's: 497 , the Y value of Blue circle's: 324,the angle between origin and circle center: -25.387906291095927
+Camera Active Time:2022-08-06 23:29:54.743946
+The X value of Blue circle's: 474 , the Y value of Blue circle's: 323,the angle between origin and circle center: -28.32293763849981
+Camera Active Time:2022-08-06 23:29:54.744910
+The X value of Blue circle's: 450 , the Y value of Blue circle's: 314,the angle between origin and circle center: -29.64986350757558
+Camera Active Time:2022-08-06 23:29:54.745905
+The X value of Blue circle's: 479 , the Y value of Blue circle's: 355,the angle between origin and circle center: -35.877103794621526
+Camera Active Time:2022-08-06 23:29:54.767346
+The X value of Blue circle's: 517 , the Y value of Blue circle's: 408,the angle between origin and circle center: -40.45727539361708
+Camera Active Time:2022-08-06 23:29:54.769341
+The X value of Blue circle's: 496 , the Y value of Blue circle's: 346,the angle between origin and circle center: -31.059408829709984
+Camera Active Time:2022-08-06 23:29:54.770339
+The X value of Blue circle's: 476 , the Y value of Blue circle's: 337,the angle between origin and circle center: -31.873136981272665
+Camera Active Time:2022-08-06 23:29:54.771336
+The X value of Blue circle's: 473 , the Y value of Blue circle's: 383,the angle between origin and circle center: -43.06506769044723
+Camera Active Time:2022-08-06 23:29:54.798808
+The X value of Blue circle's: 517 , the Y value of Blue circle's: 408,the angle between origin and circle center: -40.45727539361708
+Camera Active Time:2022-08-06 23:29:54.800807
+The X value of Blue circle's: 496 , the Y value of Blue circle's: 346,the angle between origin and circle center: -31.059408829709984
+Camera Active Time:2022-08-06 23:29:54.801804
+The X value of Blue circle's: 476 , the Y value of Blue circle's: 337,the angle between origin and circle center: -31.873136981272665
+Camera Active Time:2022-08-06 23:29:54.802801
+The X value of Blue circle's: 473 , the Y value of Blue circle's: 383,the angle between origin and circle center: -43.06506769044723
+Camera Active Time:2022-08-06 23:29:54.827734
+The X value of Blue circle's: 469 , the Y value of Blue circle's: 411,the angle between origin and circle center: -48.93289627223054
+Camera Active Time:2022-08-06 23:29:54.858472
+The X value of Blue circle's: 469 , the Y value of Blue circle's: 411,the angle between origin and circle center: -48.93289627223054
+Camera Active Time:2022-08-06 23:29:54.890595
+The X value of Blue circle's: 464 , the Y value of Blue circle's: 431,the angle between origin and circle center: -52.9863841450902
+Camera Active Time:2022-08-06 23:29:54.921619
+The X value of Blue circle's: 464 , the Y value of Blue circle's: 431,the angle between origin and circle center: -52.9863841450902
+Camera Active Time:2022-08-06 23:29:54.952078
+The X value of Blue circle's: 459 , the Y value of Blue circle's: 442,the angle between origin and circle center: -55.4674082132798
+Camera Active Time:2022-08-06 23:29:54.982674
+The X value of Blue circle's: 459 , the Y value of Blue circle's: 442,the angle between origin and circle center: -55.4674082132798
+Camera Active Time:2022-08-06 23:29:55.012989
+The X value of Blue circle's: 455 , the Y value of Blue circle's: 449,the angle between origin and circle center: -57.140247960278224
+Camera Active Time:2022-08-06 23:29:55.043635
+The X value of Blue circle's: 455 , the Y value of Blue circle's: 449,the angle between origin and circle center: -57.140247960278224
+Camera Active Time:2022-08-06 23:29:55.075940
+The X value of Blue circle's: 456 , the Y value of Blue circle's: 454,the angle between origin and circle center: -57.563469398518386
+Camera Active Time:2022-08-06 23:29:55.106282
+The X value of Blue circle's: 456 , the Y value of Blue circle's: 454,the angle between origin and circle center: -57.563469398518386
+Camera Active Time:2022-08-06 23:29:55.283731
+The X value of Blue circle's: 442 , the Y value of Blue circle's: 458,the angle between origin and circle center: -60.76718254247569
+Camera Active Time:2022-08-06 23:29:55.307045
+The X value of Blue circle's: 442 , the Y value of Blue circle's: 458,the angle between origin and circle center: -60.76718254247569
+Camera Active Time:2022-08-06 23:29:55.346629
+The X value of Blue circle's: 427 , the Y value of Blue circle's: 456,the angle between origin and circle center: -63.647548142249654
+Camera Active Time:2022-08-06 23:29:55.369394
+The X value of Blue circle's: 427 , the Y value of Blue circle's: 456,the angle between origin and circle center: -63.647548142249654
+Camera Active Time:2022-08-06 23:29:55.412110
+The X value of Blue circle's: 406 , the Y value of Blue circle's: 457,the angle between origin and circle center: -68.38091537002616
+Camera Deactivated Time:2022-08-06 23:29:55.728164
+Time: 2022-08-06 23:29:55.730161
+Airspeed: 21.443618774414062 m/s
+Euler Angles: Attitude:pitch=-0.08490321040153503,yaw=-1.8327661752700806,roll=-0.011847570538520813
+Relative Altitude: 123.769
+Longitute:28.805636 Latitude:40.978691
+Time: 2022-08-06 23:29:56.032648
+Airspeed: 21.47957420349121 m/s
+Euler Angles: Attitude:pitch=-0.08183466643095016,yaw=-1.8344366550445557,roll=-0.0126122385263443
+Relative Altitude: 123.595
+Longitute:28.8055763 Latitude:40.9786792
+Time: 2022-08-06 23:29:56.033643
+Airspeed: 21.47957420349121 m/s
+Euler Angles: Attitude:pitch=-0.08183466643095016,yaw=-1.8344366550445557,roll=-0.0126122385263443
+Relative Altitude: 123.595
+Longitute:28.8055763 Latitude:40.9786792
+Time: 2022-08-06 23:29:56.344928
+Airspeed: 21.502241134643555 m/s
+Euler Angles: Attitude:pitch=-0.0797431543469429,yaw=-1.8359131813049316,roll=-0.012758992612361908
+Relative Altitude: 123.42
+Longitute:28.8055115 Latitude:40.9786664
+Time: 2022-08-06 23:29:56.345927
+Airspeed: 21.502241134643555 m/s
+Euler Angles: Attitude:pitch=-0.0797431543469429,yaw=-1.8359131813049316,roll=-0.012758992612361908
+Relative Altitude: 123.42
+Longitute:28.8055115 Latitude:40.9786664
+Time: 2022-08-06 23:29:56.655715
+Airspeed: 21.602676391601562 m/s
+Euler Angles: Attitude:pitch=-0.08088003098964691,yaw=-1.8386743068695068,roll=-0.015868593007326126
+Relative Altitude: 123.268
+Longitute:28.805452 Latitude:40.9786544
+Time: 2022-08-06 23:29:56.656713
+Airspeed: 21.602676391601562 m/s
+Euler Angles: Attitude:pitch=-0.08088003098964691,yaw=-1.8386743068695068,roll=-0.015868593007326126
+Relative Altitude: 123.268
+Longitute:28.805452 Latitude:40.9786544
+Time: 2022-08-06 23:29:56.964331
+Airspeed: 21.614051818847656 m/s
+Euler Angles: Attitude:pitch=-0.07451876252889633,yaw=-1.8459421396255493,roll=-0.04925793781876564
+Relative Altitude: 122.952
+Longitute:28.805328 Latitude:40.9786292
+Time: 2022-08-06 23:29:57.274984
+Airspeed: 21.642642974853516 m/s
+Euler Angles: Attitude:pitch=-0.07266969233751297,yaw=-1.822724461555481,roll=0.03587416559457779
+Relative Altitude: 122.824
+Longitute:28.8052634 Latitude:40.9786155
+Time: 2022-08-06 23:29:57.584697
+Airspeed: 21.632568359375 m/s
+Euler Angles: Attitude:pitch=-0.08147526532411575,yaw=-1.803940773010254,roll=0.36743810772895813
+Relative Altitude: 122.723
+Longitute:28.8052036 Latitude:40.9786034
+Time: 2022-08-06 23:29:57.896705
+Airspeed: 21.64898681640625 m/s
+Euler Angles: Attitude:pitch=-0.06466690450906754,yaw=-1.805908441543579,roll=0.515457808971405
+Relative Altitude: 122.555
+Longitute:28.8051378 Latitude:40.978593
+Time: 2022-08-06 23:29:58.206557
+Airspeed: 21.674373626708984 m/s
+Euler Angles: Attitude:pitch=-0.045460741966962814,yaw=-1.7736610174179077,roll=0.4284917712211609
+Relative Altitude: 122.408
+Longitute:28.8050762 Latitude:40.9785857
+Time: 2022-08-06 23:29:58.516133
+Airspeed: 21.833959579467773 m/s
+Euler Angles: Attitude:pitch=-0.06630925089120865,yaw=-1.6998753547668457,roll=0.29950204491615295
+Relative Altitude: 122.271
+Longitute:28.8049466 Latitude:40.9785747
+Time: 2022-08-06 23:29:58.825838
+Airspeed: 21.865436553955078 m/s
+Euler Angles: Attitude:pitch=-0.06625419855117798,yaw=-1.672103762626648,roll=0.30715328454971313
+Relative Altitude: 122.153
+Longitute:28.804879 Latitude:40.9785706
+Time: 2022-08-06 23:29:59.136687
+Airspeed: 21.873809814453125 m/s
+Euler Angles: Attitude:pitch=-0.060584038496017456,yaw=-1.6495108604431152,roll=0.3015776574611664
+Relative Altitude: 122.053
+Longitute:28.8048165 Latitude:40.9785681
+Time: 2022-08-06 23:29:59.446086
+Airspeed: 21.785884857177734 m/s
+Euler Angles: Attitude:pitch=-0.05774463340640068,yaw=-1.6239840984344482,roll=0.27364057302474976
+Relative Altitude: 121.981
+Longitute:28.8047488 Latitude:40.9785668
+Time: 2022-08-06 23:29:59.758263
+Airspeed: 21.865751266479492 m/s
+Euler Angles: Attitude:pitch=-0.06465441733598709,yaw=-1.583234429359436,roll=0.22133521735668182
+Relative Altitude: 121.848
+Longitute:28.8046175 Latitude:40.9785671
+Time: 2022-08-06 23:30:00.071484
+Airspeed: 21.873964309692383 m/s
+Euler Angles: Attitude:pitch=-0.06566783785820007,yaw=-1.5655313730239868,roll=0.2025199830532074
+Relative Altitude: 121.77
+Longitute:28.8045548 Latitude:40.9785683
+Time: 2022-08-06 23:30:00.385112
+Airspeed: 21.8408145904541 m/s
+Euler Angles: Attitude:pitch=-0.06337489187717438,yaw=-1.5468590259552002,roll=0.18470841646194458
+Relative Altitude: 121.693
+Longitute:28.8044868 Latitude:40.9785706
+Time: 2022-08-06 23:30:00.693567
+Airspeed: 21.861753463745117 m/s
+Euler Angles: Attitude:pitch=-0.06191664934158325,yaw=-1.5335098505020142,roll=0.16520729660987854
+Relative Altitude: 121.637
+Longitute:28.8044246 Latitude:40.9785733
+Time: 2022-08-06 23:30:01.005887
+Airspeed: 21.766408920288086 m/s
+Euler Angles: Attitude:pitch=-0.06504856795072556,yaw=-1.5075572729110718,roll=0.1267537623643875
+Relative Altitude: 121.521
+Longitute:28.8042954 Latitude:40.9785805
+Time: 2022-08-06 23:30:01.316768
+Airspeed: 21.72197151184082 m/s
+Euler Angles: Attitude:pitch=-0.06526383757591248,yaw=-1.4972015619277954,roll=0.11218439787626266
+Relative Altitude: 121.449
+Longitute:28.8042283 Latitude:40.978585
+Time: 2022-08-06 23:30:01.626677
+Airspeed: 21.76519203186035 m/s
+Euler Angles: Attitude:pitch=-0.06641001254320145,yaw=-1.4881819486618042,roll=0.09621260315179825
+Relative Altitude: 121.382
+Longitute:28.804166 Latitude:40.9785895
+Time: 2022-08-06 23:30:01.936249
+Airspeed: 21.81503677368164 m/s
+Euler Angles: Attitude:pitch=-0.0669194906949997,yaw=-1.4815328121185303,roll=0.07980579882860184
+Relative Altitude: 121.305
+Longitute:28.8040982 Latitude:40.9785947
+Time: 2022-08-06 23:30:02.247292
+Airspeed: 21.83869743347168 m/s
+Euler Angles: Attitude:pitch=-0.06731031835079193,yaw=-1.46906578540802,roll=0.05063282698392868
+Relative Altitude: 121.16
+Longitute:28.8039687 Latitude:40.9786054
+Time: 2022-08-06 23:30:02.561050
+Airspeed: 21.76742935180664 m/s
+Euler Angles: Attitude:pitch=-0.06532759219408035,yaw=-1.4654954671859741,roll=0.040641460567712784
+Relative Altitude: 121.093
+Longitute:28.8039066 Latitude:40.9786108
+Time: 2022-08-06 23:30:02.871730
+Airspeed: 21.78780174255371 m/s
+Euler Angles: Attitude:pitch=-0.06463170796632767,yaw=-1.461995244026184,roll=0.02929580956697464
+Relative Altitude: 121.026
+Longitute:28.8038396 Latitude:40.9786167
+Time: 2022-08-06 23:30:03.181614
+Airspeed: 21.797409057617188 m/s
+Euler Angles: Attitude:pitch=-0.06527277827262878,yaw=-1.4582021236419678,roll=0.01958228461444378
+Relative Altitude: 120.968
+Longitute:28.8037777 Latitude:40.9786222
+Time: 2022-08-06 23:30:03.490151
+Airspeed: 21.8676815032959 m/s
+Euler Angles: Attitude:pitch=-0.06558144092559814,yaw=-1.4571293592453003,roll=0.0019562782254070044
+Relative Altitude: 120.835
+Longitute:28.8036487 Latitude:40.9786339
+Time: 2022-08-06 23:30:03.796827
+Airspeed: 21.87699317932129 m/s
+Euler Angles: Attitude:pitch=-0.06429777294397354,yaw=-1.4562214612960815,roll=-0.005041554570198059
+Relative Altitude: 120.772
+Longitute:28.803581 Latitude:40.97864
+Time: 2022-08-06 23:30:04.107446
+Airspeed: 21.879470825195312 m/s
+Euler Angles: Attitude:pitch=-0.06346636265516281,yaw=-1.4564498662948608,roll=-0.010183993726968765
+Relative Altitude: 120.721
+Longitute:28.8035185 Latitude:40.9786456
+Time: 2022-08-06 23:30:04.419278
+Airspeed: 21.88103485107422 m/s
+Euler Angles: Attitude:pitch=-0.060370784252882004,yaw=-1.4579448699951172,roll=-0.016047697514295578
+Relative Altitude: 120.682
+Longitute:28.8034508 Latitude:40.9786515
+Time: 2022-08-06 23:30:04.729181
+Airspeed: 21.8817138671875 m/s
+Euler Angles: Attitude:pitch=-0.06277649849653244,yaw=-1.4615198373794556,roll=-0.025561630725860596
+Relative Altitude: 120.618
+Longitute:28.8033212 Latitude:40.9786626
+Time: 2022-08-06 23:30:05.043341
+Airspeed: 21.881784439086914 m/s
+Euler Angles: Attitude:pitch=-0.0620439313352108,yaw=-1.4629547595977783,roll=-0.026880428194999695
+Relative Altitude: 120.579
+Longitute:28.8032591 Latitude:40.9786677
+Time: 2022-08-06 23:30:05.355442
+Airspeed: 21.88182830810547 m/s
+Euler Angles: Attitude:pitch=-0.06063461676239967,yaw=-1.465997338294983,roll=-0.030653413385152817
+Relative Altitude: 120.541
+Longitute:28.8031918 Latitude:40.9786731
+Time: 2022-08-06 23:30:05.656567
+Airspeed: 21.881839752197266 m/s
+Euler Angles: Attitude:pitch=-0.0592077411711216,yaw=-1.4681344032287598,roll=-0.03408808261156082
+Relative Altitude: 120.511
+Longitute:28.8031297 Latitude:40.978678
+Time: 2022-08-06 23:30:05.964944
+Airspeed: 21.881847381591797 m/s
+Euler Angles: Attitude:pitch=-0.06193441152572632,yaw=-1.4701586961746216,roll=-0.0357808880507946
+Relative Altitude: 120.481
+Longitute:28.8030618 Latitude:40.9786831
+Time: 2022-08-06 23:30:06.266139
+Airspeed: 21.881851196289062 m/s
+Euler Angles: Attitude:pitch=-0.06181719899177551,yaw=-1.4750337600708008,roll=-0.03687053918838501
+Relative Altitude: 120.409
+Longitute:28.8029311 Latitude:40.9786926
+Time: 2022-08-06 23:30:06.578505
+Airspeed: 21.881851196289062 m/s
+Euler Angles: Attitude:pitch=-0.0594322495162487,yaw=-1.4779953956604004,roll=-0.0391552597284317
+Relative Altitude: 120.384
+Longitute:28.8028684 Latitude:40.978697
+Time: 2022-08-06 23:30:06.890562
+Airspeed: 21.936487197875977 m/s
+Euler Angles: Attitude:pitch=-0.0594448484480381,yaw=-1.4807602167129517,roll=-0.04049098491668701
+Relative Altitude: 120.361
+Longitute:28.8028008 Latitude:40.9787015
+Time: 2022-08-06 23:30:07.206279
+Airspeed: 21.908639907836914 m/s
+Euler Angles: Attitude:pitch=-0.060560256242752075,yaw=-1.4845789670944214,roll=-0.041194137185811996
+Relative Altitude: 120.342
+Longitute:28.8027384 Latitude:40.9787055
+Time: 2022-08-06 23:30:07.518444
+Airspeed: 21.89948272705078 m/s
+Euler Angles: Attitude:pitch=-0.05874418094754219,yaw=-1.4925509691238403,roll=-0.04032807797193527
+Relative Altitude: 120.299
+Longitute:28.8026084 Latitude:40.9787133
+Time: 2022-08-06 23:30:07.832606
+Airspeed: 21.914682388305664 m/s
+Euler Angles: Attitude:pitch=-0.05898445472121239,yaw=-1.4964630603790283,roll=-0.03754109516739845
+Relative Altitude: 120.276
+Longitute:28.8025404 Latitude:40.9787171
+Time: 2022-08-06 23:30:08.134111
+Airspeed: 21.936176300048828 m/s
+Euler Angles: Attitude:pitch=-0.06047198548913002,yaw=-1.49782133102417,roll=-0.03629083186388016
+Relative Altitude: 120.25
+Longitute:28.8024775 Latitude:40.9787204
+Time: 2022-08-06 23:30:08.447789
+Airspeed: 21.90049934387207 m/s
+Euler Angles: Attitude:pitch=-0.05827881023287773,yaw=-1.5009044408798218,roll=-0.0332680307328701
+Relative Altitude: 120.226
+Longitute:28.8024096 Latitude:40.9787239
+Time: 2022-08-06 23:30:08.748998
+Airspeed: 21.924884796142578 m/s
+Euler Angles: Attitude:pitch=-0.060820579528808594,yaw=-1.5075151920318604,roll=-0.030128253623843193
+Relative Altitude: 120.181
+Longitute:28.8022788 Latitude:40.9787302
+Time: 2022-08-06 23:30:09.063548
+Airspeed: 21.941171646118164 m/s
+Euler Angles: Attitude:pitch=-0.05993577837944031,yaw=-1.509935975074768,roll=-0.029332969337701797
+Relative Altitude: 120.152
+Longitute:28.8022161 Latitude:40.978733
+Time: 2022-08-06 23:30:09.374604
+Airspeed: 21.940441131591797 m/s
+Euler Angles: Attitude:pitch=-0.0556824766099453,yaw=-1.511677861213684,roll=-0.02642429620027542
+Relative Altitude: 120.136
+Longitute:28.8021482 Latitude:40.9787359
+Time: 2022-08-06 23:30:09.682513
+Airspeed: 21.910579681396484 m/s
+Euler Angles: Attitude:pitch=-0.05455147102475166,yaw=-1.5162830352783203,roll=-0.026606665924191475
+Relative Altitude: 120.143
+Longitute:28.8020855 Latitude:40.9787385
+Time: 2022-08-06 23:30:09.995863
+Airspeed: 21.983444213867188 m/s
+Euler Angles: Attitude:pitch=-0.06044356897473335,yaw=-1.5186904668807983,roll=-0.023322584107518196
+Relative Altitude: 120.125
+Longitute:28.8019542 Latitude:40.9787435
+Time: 2022-08-06 23:30:10.305758
+Airspeed: 21.9549503326416 m/s
+Euler Angles: Attitude:pitch=-0.05760233476758003,yaw=-1.5203131437301636,roll=-0.02073805034160614
+Relative Altitude: 120.102
+Longitute:28.8018856 Latitude:40.9787459
+Time: 2022-08-06 23:30:10.615843
+Airspeed: 21.972248077392578 m/s
+Euler Angles: Attitude:pitch=-0.05495815724134445,yaw=-1.5219597816467285,roll=-0.019852889701724052
+Relative Altitude: 120.106
+Longitute:28.8018226 Latitude:40.9787481
+Time: 2022-08-06 23:30:10.929131
+Airspeed: 21.912899017333984 m/s
+Euler Angles: Attitude:pitch=-0.05632668361067772,yaw=-1.5231399536132812,roll=-0.01782730221748352
+Relative Altitude: 120.115
+Longitute:28.8017544 Latitude:40.9787504
+Time: 2022-08-06 23:30:11.244461
+Airspeed: 21.944042205810547 m/s
+Euler Angles: Attitude:pitch=-0.062406715005636215,yaw=-1.5563085079193115,roll=-0.19631561636924744
+Relative Altitude: 120.108
+Longitute:28.8016238 Latitude:40.9787548
+Time: 2022-08-06 23:30:11.557003
+Airspeed: 21.91234588623047 m/s
+Euler Angles: Attitude:pitch=-0.07235613465309143,yaw=-1.5813442468643188,roll=-0.5611120462417603
+Relative Altitude: 120.093
+Longitute:28.8015611 Latitude:40.9787555
+Time: 2022-08-06 23:30:11.873113
+Airspeed: 22.011735916137695 m/s
+Euler Angles: Attitude:pitch=-0.05995378643274307,yaw=-1.6370881795883179,roll=-0.9269757866859436
+Relative Altitude: 119.987
+Longitute:28.801493 Latitude:40.9787523
+Time: 2022-08-06 23:30:12.178233
+Airspeed: 22.275835037231445 m/s
+Euler Angles: Attitude:pitch=-0.0188022181391716,yaw=-1.761797308921814,roll=-1.0288403034210205
+Relative Altitude: 119.797
+Longitute:28.8014295 Latitude:40.9787437
+Time: 2022-08-06 23:30:12.479590
+Airspeed: 22.889427185058594 m/s
+Euler Angles: Attitude:pitch=0.02419319935142994,yaw=-1.9450724124908447,roll=-0.9803891181945801
+Relative Altitude: 119.723
+Longitute:28.8013615 Latitude:40.978725
+Time: 2022-08-06 23:30:12.788895
+Airspeed: 23.780038833618164 m/s
+Euler Angles: Attitude:pitch=0.053899385035037994,yaw=-2.2149927616119385,roll=-0.9591727256774902
+Relative Altitude: 120.245
+Longitute:28.8012434 Latitude:40.9786652
+Time: 2022-08-06 23:30:13.098332
+Airspeed: 23.877294540405273 m/s
+Euler Angles: Attitude:pitch=0.05393529310822487,yaw=-2.315260410308838,roll=-0.9585567116737366
+Relative Altitude: 120.588
+Longitute:28.8011941 Latitude:40.9786292
+Time: 2022-08-06 23:30:13.415237
+Airspeed: 23.9384822845459 m/s
+Euler Angles: Attitude:pitch=0.05064782500267029,yaw=-2.417764186859131,roll=-0.9440808892250061
+Relative Altitude: 120.948
+Longitute:28.8011463 Latitude:40.9785865
+Time: 2022-08-06 23:30:13.728286
+Airspeed: 23.95474624633789 m/s
+Euler Angles: Attitude:pitch=0.046008363366127014,yaw=-2.5098378658294678,roll=-0.9316452145576477
+Relative Altitude: 121.275
+Longitute:28.8011076 Latitude:40.9785441
+Time: 2022-08-06 23:30:14.040588
+Airspeed: 23.738096237182617 m/s
+Euler Angles: Attitude:pitch=0.037380099296569824,yaw=-2.6913084983825684,roll=-0.8959822654724121
+Relative Altitude: 121.889
+Longitute:28.8010441 Latitude:40.978449
+Time: 2022-08-06 23:30:14.348645
+Airspeed: 23.559467315673828 m/s
+Euler Angles: Attitude:pitch=0.028763210400938988,yaw=-2.7783284187316895,roll=-0.8733667135238647
+Relative Altitude: 122.156
+Longitute:28.8010201 Latitude:40.9783969
+Time: 2022-08-06 23:30:14.657994
+Airspeed: 23.42496681213379 m/s
+Euler Angles: Attitude:pitch=0.0193563811480999,yaw=-2.8545312881469727,roll=-0.848953902721405
+Relative Altitude: 122.36
+Longitute:28.8010033 Latitude:40.978348
+Time: 2022-08-06 23:30:14.970027
+Airspeed: 23.13929557800293 m/s
+Euler Angles: Attitude:pitch=0.011004249565303326,yaw=-2.9329562187194824,roll=-0.8177640438079834
+Relative Altitude: 122.548
+Longitute:28.8009907 Latitude:40.9782948
+Time: 2022-08-06 23:30:15.282156
+Airspeed: 22.707618713378906 m/s
+Euler Angles: Attitude:pitch=-0.009695952758193016,yaw=-3.0710697174072266,roll=-0.7478047609329224
+Relative Altitude: 122.79
+Longitute:28.8009814 Latitude:40.9781929
+Time: 2022-08-06 23:30:15.593163
+Airspeed: 22.562519073486328 m/s
+Euler Angles: Attitude:pitch=-0.020709214732050896,yaw=-3.1286802291870117,roll=-0.7080396413803101
+Relative Altitude: 122.837
+Longitute:28.800983 Latitude:40.9781446
+Time: 2022-08-06 23:30:15.901218
+Airspeed: 22.379697799682617 m/s
+Euler Angles: Attitude:pitch=-0.03331755846738815,yaw=3.0956809520721436,roll=-0.6605384349822998
+Relative Altitude: 122.829
+Longitute:28.8009885 Latitude:40.9780928
+Time: 2022-08-06 23:30:16.209645
+Airspeed: 22.218971252441406 m/s
+Euler Angles: Attitude:pitch=-0.04479042440652847,yaw=3.0442793369293213,roll=-0.6159123182296753
+Relative Altitude: 122.775
+Longitute:28.8009968 Latitude:40.9780454
+Time: 2022-08-06 23:30:16.521842
+Airspeed: 21.990108489990234 m/s
+Euler Angles: Attitude:pitch=-0.06128699705004692,yaw=2.9519619941711426,roll=-0.503169059753418
+Relative Altitude: 122.539
+Longitute:28.8010231 Latitude:40.9779481
+Time: 2022-08-06 23:30:16.831118
+Airspeed: 21.919042587280273 m/s
+Euler Angles: Attitude:pitch=-0.07130362093448639,yaw=2.9117820262908936,roll=-0.43291589617729187
+Relative Altitude: 122.387
+Longitute:28.8010406 Latitude:40.9778988
+Time: 2022-08-06 23:30:17.143419
+Airspeed: 21.806964874267578 m/s
+Euler Angles: Attitude:pitch=-0.07793721556663513,yaw=2.876187562942505,roll=-0.37118056416511536
+Relative Altitude: 122.225
+Longitute:28.8010585 Latitude:40.9778539
+Time: 2022-08-06 23:30:17.455363
+Airspeed: 21.642093658447266 m/s
+Euler Angles: Attitude:pitch=-0.08054118603467941,yaw=2.843827724456787,roll=-0.30734968185424805
+Relative Altitude: 122.043
+Longitute:28.8010795 Latitude:40.9778061
+Time: 2022-08-06 23:30:17.768074
+Airspeed: 21.51005744934082 m/s
+Euler Angles: Attitude:pitch=-0.08851911872625351,yaw=2.797208070755005,roll=-0.18467962741851807
+Relative Altitude: 121.688
+Longitute:28.8011234 Latitude:40.9777157
+Time: 2022-08-06 23:30:18.083396
+Airspeed: 21.512100219726562 m/s
+Euler Angles: Attitude:pitch=-0.09173166751861572,yaw=2.7811954021453857,roll=-0.12870731949806213
+Relative Altitude: 121.5
+Longitute:28.8011455 Latitude:40.9776727
+Time: 2022-08-06 23:30:18.395803
+Airspeed: 21.486108779907227 m/s
+Euler Angles: Attitude:pitch=-0.09191150963306427,yaw=2.7695353031158447,roll=-0.07061124593019485
+Relative Altitude: 121.291
+Longitute:28.8011701 Latitude:40.9776261
+Time: 2022-08-06 23:30:18.705675
+Airspeed: 21.500370025634766 m/s
+Euler Angles: Attitude:pitch=-0.09403325617313385,yaw=2.760650873184204,roll=-0.0255995225161314
+Relative Altitude: 121.089
+Longitute:28.8011931 Latitude:40.9775829
+Time: 2022-08-06 23:30:19.015368
+Airspeed: 21.42868995666504 m/s
+Euler Angles: Attitude:pitch=-0.08583396673202515,yaw=2.758544683456421,roll=0.05664956197142601
+Relative Altitude: 120.691
+Longitute:28.8012408 Latitude:40.977493
+Time: 2022-08-06 23:30:19.325321
+Airspeed: 21.418415069580078 m/s
+Euler Angles: Attitude:pitch=-0.0836811438202858,yaw=2.762345314025879,roll=0.09396897256374359
+Relative Altitude: 120.526
+Longitute:28.8012649 Latitude:40.9774464
+Time: 2022-08-06 23:30:19.635484
+Airspeed: 21.428180694580078 m/s
+Euler Angles: Attitude:pitch=-0.08704318851232529,yaw=2.7693138122558594,roll=0.12066749483346939
+Relative Altitude: 120.367
+Longitute:28.8012867 Latitude:40.9774031
+Time: 2022-08-06 23:30:19.946881
+Airspeed: 21.48464584350586 m/s
+Euler Angles: Attitude:pitch=-0.08585494756698608,yaw=2.777787208557129,roll=0.14501255750656128
+Relative Altitude: 120.179
+Longitute:28.8013096 Latitude:40.977356
+Time: 2022-08-06 23:30:20.259456
+Airspeed: 21.541549682617188 m/s
+Euler Angles: Attitude:pitch=-0.07534847408533096,yaw=2.804091691970825,roll=0.18123304843902588
+Relative Altitude: 119.874
+Longitute:28.8013514 Latitude:40.9772642
+Time: 2022-08-06 23:30:20.569878
+Airspeed: 21.58306884765625 m/s
+Euler Angles: Attitude:pitch=-0.07551410794258118,yaw=2.8186028003692627,roll=0.1932375282049179
+Relative Altitude: 119.753
+Longitute:28.8013703 Latitude:40.9772192
+Time: 2022-08-06 23:30:20.879469
+Airspeed: 21.65913200378418 m/s
+Euler Angles: Attitude:pitch=-0.07485457509756088,yaw=2.8328325748443604,roll=0.2030256688594818
+Relative Altitude: 119.624
+Longitute:28.8013896 Latitude:40.9771704
+Time: 2022-08-06 23:30:21.189269
+Airspeed: 21.679340362548828 m/s
+Euler Angles: Attitude:pitch=-0.0708942636847496,yaw=2.851757764816284,roll=0.21200671792030334
+Relative Altitude: 119.514
+Longitute:28.8014065 Latitude:40.9771252
+Time: 2022-08-06 23:30:21.498461
+Airspeed: 21.695478439331055 m/s
+Euler Angles: Attitude:pitch=-0.06365042924880981,yaw=2.886850357055664,roll=0.21864712238311768
+Relative Altitude: 119.349
+Longitute:28.801438 Latitude:40.9770304
+Time: 2022-08-06 23:30:21.807998
+Airspeed: 21.69761848449707 m/s
+Euler Angles: Attitude:pitch=-0.06390418857336044,yaw=2.9058997631073,roll=0.21921421587467194
+Relative Altitude: 119.278
+Longitute:28.8014526 Latitude:40.9769808
+Time: 2022-08-06 23:30:22.119619
+Airspeed: 21.791772842407227 m/s
+Euler Angles: Attitude:pitch=-0.06280303746461868,yaw=2.9237775802612305,roll=0.2174566239118576
+Relative Altitude: 119.213
+Longitute:28.801465 Latitude:40.9769348
+Time: 2022-08-06 23:30:22.428052
+Airspeed: 21.757667541503906 m/s
+Euler Angles: Attitude:pitch=-0.06156404688954353,yaw=2.943235397338867,roll=0.21493743360042572
+Relative Altitude: 119.157
+Longitute:28.8014772 Latitude:40.9768846
+Time: 2022-08-06 23:30:22.737307
+Airspeed: 21.727632522583008 m/s
+Euler Angles: Attitude:pitch=-0.05764191970229149,yaw=2.958704710006714,roll=0.21120299398899078
+Relative Altitude: 119.118
+Longitute:28.8014875 Latitude:40.976838
+Time: 2022-08-06 23:30:23.049305
+Airspeed: 21.790735244750977 m/s
+Euler Angles: Attitude:pitch=-0.06215054914355278,yaw=2.990694046020508,roll=0.18692779541015625
+Relative Altitude: 119.048
+Longitute:28.8015056 Latitude:40.9767406
+Time: 2022-08-06 23:30:23.358261
+Airspeed: 21.823781967163086 m/s
+Euler Angles: Attitude:pitch=-0.06057367101311684,yaw=3.0086960792541504,roll=0.16795441508293152
+Relative Altitude: 119.002
+Longitute:28.8015136 Latitude:40.9766897
+Time: 2022-08-06 23:30:23.669677
+Airspeed: 21.853416442871094 m/s
+Euler Angles: Attitude:pitch=-0.057712193578481674,yaw=3.0242769718170166,roll=0.16242142021656036
+Relative Altitude: 118.979
+Longitute:28.8015202 Latitude:40.9766427
+Time: 2022-08-06 23:30:23.980247
+Airspeed: 21.84526824951172 m/s
+Euler Angles: Attitude:pitch=-0.055528875440359116,yaw=3.035728931427002,roll=0.1582370102405548
+Relative Altitude: 118.968
+Longitute:28.8015263 Latitude:40.9765918
+Time: 2022-08-06 23:30:24.289750
+Airspeed: 21.862564086914062 m/s
+Euler Angles: Attitude:pitch=-0.05603543668985367,yaw=3.0609538555145264,roll=0.14171798527240753
+Relative Altitude: 118.95
+Longitute:28.801536 Latitude:40.9764937
+Time: 2022-08-06 23:30:24.603920
+Airspeed: 21.834060668945312 m/s
+Euler Angles: Attitude:pitch=-0.05738199129700661,yaw=3.071408271789551,roll=0.13540613651275635
+Relative Altitude: 118.945
+Longitute:28.8015396 Latitude:40.9764463
+Time: 2022-08-06 23:30:24.916051
+Airspeed: 21.86547088623047 m/s
+Euler Angles: Attitude:pitch=-0.05745137110352516,yaw=3.081514835357666,roll=0.12853862345218658
+Relative Altitude: 118.935
+Longitute:28.8015429 Latitude:40.9763946
+Time: 2022-08-06 23:30:25.227510
+Airspeed: 21.87382698059082 m/s
+Euler Angles: Attitude:pitch=-0.056196171790361404,yaw=3.0906805992126465,roll=0.1213950589299202
+Relative Altitude: 118.927
+Longitute:28.8015453 Latitude:40.9763472
+Time: 2022-08-06 23:30:25.536833
+Airspeed: 21.880502700805664 m/s
+Euler Angles: Attitude:pitch=-0.052638545632362366,yaw=3.111119508743286,roll=0.10621529817581177
+Relative Altitude: 118.948
+Longitute:28.8015486 Latitude:40.9762485
+Time: 2022-08-06 23:30:25.847424
+Airspeed: 21.88138771057129 m/s
+Euler Angles: Attitude:pitch=-0.053771957755088806,yaw=3.1195104122161865,roll=0.09907529503107071
+Relative Altitude: 118.969
+Longitute:28.8015494 Latitude:40.9761974
+Time: 2022-08-06 23:30:26.157135
+Airspeed: 21.881624221801758 m/s
+Euler Angles: Attitude:pitch=-0.05238884687423706,yaw=3.1275031566619873,roll=0.08939225226640701
+Relative Altitude: 118.983
+Longitute:28.8015498 Latitude:40.9761503
+Time: 2022-08-06 23:30:26.470298
+Airspeed: 21.881772994995117 m/s
+Euler Angles: Attitude:pitch=-0.05468842759728432,yaw=3.1360933780670166,roll=0.08229111135005951
+Relative Altitude: 119.001
+Longitute:28.8015497 Latitude:40.9760992
+Time: 2022-08-06 23:30:26.780195
+Airspeed: 21.881837844848633 m/s
+Euler Angles: Attitude:pitch=-0.05509892478585243,yaw=-3.1342132091522217,roll=0.06579143553972244
+Relative Altitude: 118.995
+Longitute:28.8015484 Latitude:40.9760001
+Time: 2022-08-06 23:30:27.092831
+Airspeed: 21.881845474243164 m/s
+Euler Angles: Attitude:pitch=-0.05506448447704315,yaw=-3.1293623447418213,roll=0.05967460945248604
+Relative Altitude: 119.003
+Longitute:28.8015473 Latitude:40.9759527
+Time: 2022-08-06 23:30:27.401963
+Airspeed: 21.88184928894043 m/s
+Euler Angles: Attitude:pitch=-0.05510900914669037,yaw=-3.124725818634033,roll=0.05236818268895149
+Relative Altitude: 119.006
+Longitute:28.8015458 Latitude:40.9759015
+Time: 2022-08-06 23:30:27.711968
+Airspeed: 21.881851196289062 m/s
+Euler Angles: Attitude:pitch=-0.052153974771499634,yaw=-3.121079921722412,roll=0.04526333138346672
+Relative Altitude: 119.023
+Longitute:28.8015441 Latitude:40.9758542
+Time: 2022-08-06 23:30:28.021181
+Airspeed: 21.881851196289062 m/s
+Euler Angles: Attitude:pitch=-0.055033985525369644,yaw=-3.1144862174987793,roll=0.034002166241407394
+Relative Altitude: 119.067
+Longitute:28.8015402 Latitude:40.975756
+Time: 2022-08-06 23:30:28.330486
+Airspeed: 21.881851196289062 m/s
+Euler Angles: Attitude:pitch=-0.0534706637263298,yaw=-3.110938787460327,roll=0.02880708873271942
+Relative Altitude: 119.073
+Longitute:28.8015379 Latitude:40.9757049
+Time: 2022-08-06 23:30:28.640210
+Airspeed: 21.881851196289062 m/s
+Euler Angles: Attitude:pitch=-0.05414270982146263,yaw=-3.1091058254241943,roll=0.025342820212244987
+Relative Altitude: 119.088
+Longitute:28.8015357 Latitude:40.9756575
+Time: 2022-08-06 23:30:28.949398
+Airspeed: 21.881851196289062 m/s
+Euler Angles: Attitude:pitch=-0.05611403286457062,yaw=-3.106154441833496,roll=0.018815329298377037
+Relative Altitude: 119.092
+Longitute:28.8015331 Latitude:40.9756062
+Time: 2022-08-06 23:30:29.259115
+Airspeed: 21.921754837036133 m/s
+Euler Angles: Attitude:pitch=-0.0521424263715744,yaw=-3.102581024169922,roll=0.009884089231491089
+Relative Altitude: 119.118
+Longitute:28.8015279 Latitude:40.975507
+Time: 2022-08-06 23:30:29.566329
+Airspeed: 21.95600128173828 m/s
+Euler Angles: Attitude:pitch=-0.05035167932510376,yaw=-3.1011605262756348,roll=0.004538190551102161
+Relative Altitude: 119.15
+Longitute:28.8015253 Latitude:40.9754595
+Time: 2022-08-06 23:30:29.875574
+Airspeed: 21.945528030395508 m/s
+Euler Angles: Attitude:pitch=-0.0512540340423584,yaw=-3.102520704269409,roll=0.0008420831873081625
+Relative Altitude: 119.194
+Longitute:28.8015225 Latitude:40.9754084
+Time: 2022-08-06 23:30:30.183784
+Airspeed: 21.913076400756836 m/s
+Euler Angles: Attitude:pitch=-0.05280257388949394,yaw=-3.1028056144714355,roll=-0.0027658818289637566
+Relative Altitude: 119.224
+Longitute:28.80152 Latitude:40.9753612
+Time: 2022-08-06 23:30:30.497582
+Airspeed: 21.887102127075195 m/s
+Euler Angles: Attitude:pitch=-0.05090514197945595,yaw=-3.1026599407196045,roll=-0.004485939629375935
+Relative Altitude: 119.278
+Longitute:28.8015149 Latitude:40.975263
+Time: 2022-08-06 23:30:30.815884
+Airspeed: 21.883651733398438 m/s
+Euler Angles: Attitude:pitch=-0.05207503214478493,yaw=-3.103522777557373,roll=-0.005906559061259031
+Relative Altitude: 119.309
+Longitute:28.8015123 Latitude:40.9752114
+Time: 2022-08-06 23:30:31.128151
+Airspeed: 21.882734298706055 m/s
+Euler Angles: Attitude:pitch=-0.05547208711504936,yaw=-3.102785348892212,roll=-0.0070097194984555244
+Relative Altitude: 119.328
+Longitute:28.80151 Latitude:40.9751637
+Time: 2022-08-06 23:30:31.437302
+Airspeed: 21.90894317626953 m/s
+Euler Angles: Attitude:pitch=-0.05433560907840729,yaw=-3.1022212505340576,roll=-0.009118583984673023
+Relative Altitude: 119.34
+Longitute:28.8015074 Latitude:40.9751124
+Time: 2022-08-06 23:30:31.748826
+Airspeed: 21.899534225463867 m/s
+Euler Angles: Attitude:pitch=-0.06323215365409851,yaw=3.127798318862915,roll=-0.49486976861953735
+Relative Altitude: 119.385
+Longitute:28.8015038 Latitude:40.9750137
+Time: 2022-08-06 23:30:32.062547
+Airspeed: 21.890518188476562 m/s
+Euler Angles: Attitude:pitch=-0.06084757670760155,yaw=3.0877041816711426,roll=-0.8561505675315857
+Relative Altitude: 119.352
+Longitute:28.8015067 Latitude:40.9749665
+Time: 2022-08-06 23:30:32.373465
+Airspeed: 22.204652786254883 m/s
+Euler Angles: Attitude:pitch=-0.022277135401964188,yaw=2.9733200073242188,roll=-1.0278671979904175
+Relative Altitude: 119.197
+Longitute:28.8015174 Latitude:40.9749154
+Time: 2022-08-06 23:30:32.685854
+Airspeed: 22.656578063964844 m/s
+Euler Angles: Attitude:pitch=0.022561395540833473,yaw=2.806950330734253,roll=-0.9934692978858948
+Relative Altitude: 119.115
+Longitute:28.8015377 Latitude:40.9748685
+Time: 2022-08-06 23:30:32.996921
+Airspeed: 23.648258209228516 m/s
+Euler Angles: Attitude:pitch=0.059062376618385315,yaw=2.523179769515991,roll=-0.9506610035896301
+Relative Altitude: 119.629
+Longitute:28.8016129 Latitude:40.9747779
+Time: 2022-08-06 23:30:33.303855
+Airspeed: 23.750247955322266 m/s
+Euler Angles: Attitude:pitch=0.05722477287054062,yaw=2.4196293354034424,roll=-0.9510133862495422
+Relative Altitude: 120.037
+Longitute:28.8016632 Latitude:40.9747368
+Time: 2022-08-06 23:30:33.616520
+Airspeed: 23.862760543823242 m/s
+Euler Angles: Attitude:pitch=0.05204187333583832,yaw=2.327308177947998,roll=-0.9400794506072998
+Relative Altitude: 120.402
+Longitute:28.8017142 Latitude:40.9747026
+Time: 2022-08-06 23:30:33.930135
+Airspeed: 23.773426055908203 m/s
+Euler Angles: Attitude:pitch=0.04689531400799751,yaw=2.228649616241455,roll=-0.9296852946281433
+Relative Altitude: 120.769
+Longitute:28.8017739 Latitude:40.9746695
+Time: 2022-08-06 23:30:34.240317
+Airspeed: 23.58441925048828 m/s
+Euler Angles: Attitude:pitch=0.04018918797373772,yaw=2.044123649597168,roll=-0.8936218023300171
+Relative Altitude: 121.415
+Longitute:28.8018976 Latitude:40.9746195
+Time: 2022-08-06 23:30:34.547967
+Airspeed: 23.437265396118164 m/s
+Euler Angles: Attitude:pitch=0.03291396051645279,yaw=1.9638763666152954,roll=-0.8725782036781311
+Relative Altitude: 121.701
+Longitute:28.80196 Latitude:40.9746017
+Time: 2022-08-06 23:30:34.856243
+Airspeed: 23.179744720458984 m/s
+Euler Angles: Attitude:pitch=0.02338707633316517,yaw=1.8825387954711914,roll=-0.8450170159339905
+Relative Altitude: 121.972
+Longitute:28.8020292 Latitude:40.9745867
+Time: 2022-08-06 23:30:35.166807
+Airspeed: 23.06279754638672 m/s
+Euler Angles: Attitude:pitch=0.013344592414796352,yaw=1.8126261234283447,roll=-0.8172863721847534
+Relative Altitude: 122.172
+Longitute:28.8020939 Latitude:40.9745766
+Time: 2022-08-06 23:30:35.479849
+Airspeed: 22.874351501464844 m/s
+Euler Angles: Attitude:pitch=-0.00024413577921222895,yaw=1.7409768104553223,roll=-0.7875970005989075
+Relative Altitude: 122.319
+Longitute:28.8021645 Latitude:40.9745694
+Time: 2022-08-06 23:30:35.790943
+Airspeed: 22.489439010620117 m/s
+Euler Angles: Attitude:pitch=-0.01872839778661728,yaw=1.6096432209014893,roll=-0.7116861343383789
+Relative Altitude: 122.468
+Longitute:28.8022991 Latitude:40.9745657
+Time: 2022-08-06 23:30:36.105841
+Airspeed: 22.364377975463867 m/s
+Euler Angles: Attitude:pitch=-0.026847288012504578,yaw=1.5534809827804565,roll=-0.6691038608551025
+Relative Altitude: 122.495
+Longitute:28.8023626 Latitude:40.9745683
+Time: 2022-08-06 23:30:36.416618
+Airspeed: 22.193571090698242 m/s
+Euler Angles: Attitude:pitch=-0.03881646320223808,yaw=1.4974415302276611,roll=-0.6158578395843506
+Relative Altitude: 122.484
+Longitute:28.8024305 Latitude:40.9745739
+Time: 2022-08-06 23:30:36.726175
+Airspeed: 22.035144805908203 m/s
+Euler Angles: Attitude:pitch=-0.048012178391218185,yaw=1.4498488903045654,roll=-0.5634021759033203
+Relative Altitude: 122.433
+Longitute:28.8024924 Latitude:40.9745813
+Time: 2022-08-06 23:30:37.038927
+Airspeed: 21.82612419128418 m/s
+Euler Angles: Attitude:pitch=-0.06764598935842514,yaw=1.3643769025802612,roll=-0.44547536969184875
+Relative Altitude: 122.222
+Longitute:28.8026194 Latitude:40.9746027
+Time: 2022-08-06 23:30:37.349175
+Airspeed: 21.648717880249023 m/s
+Euler Angles: Attitude:pitch=-0.07598979026079178,yaw=1.3286316394805908,roll=-0.3798048198223114
+Relative Altitude: 122.045
+Longitute:28.8026846 Latitude:40.9746164
+Time: 2022-08-06 23:30:37.659499
+Airspeed: 21.580148696899414 m/s
+Euler Angles: Attitude:pitch=-0.0796353742480278,yaw=1.3000088930130005,roll=-0.3178207278251648
+Relative Altitude: 121.875
+Longitute:28.8027434 Latitude:40.9746301
+Time: 2022-08-06 23:30:37.969299
+Airspeed: 21.536754608154297 m/s
+Euler Angles: Attitude:pitch=-0.08443837612867355,yaw=1.2734416723251343,roll=-0.25020089745521545
+Relative Altitude: 121.684
+Longitute:28.8028068 Latitude:40.974646
+Time: 2022-08-06 23:30:38.277785
+Airspeed: 21.517879486083984 m/s
+Euler Angles: Attitude:pitch=-0.08960599452257156,yaw=1.2333688735961914,roll=-0.1340319663286209
+Relative Altitude: 121.298
+Longitute:28.8029266 Latitude:40.9746785
+Time: 2022-08-06 23:30:38.585984
+Airspeed: 21.476953506469727 m/s
+Euler Angles: Attitude:pitch=-0.08850504457950592,yaw=1.2216860055923462,roll=-0.08379147201776505
+Relative Altitude: 121.111
+Longitute:28.8029837 Latitude:40.9746946
+Time: 2022-08-06 23:30:38.898161
+Airspeed: 21.43498992919922 m/s
+Euler Angles: Attitude:pitch=-0.08761973679065704,yaw=1.213066816329956,roll=-0.0320395901799202
+Relative Altitude: 120.918
+Longitute:28.8030454 Latitude:40.9747123
+Time: 2022-08-06 23:30:39.211199
+Airspeed: 21.38038444519043 m/s
+Euler Angles: Attitude:pitch=-0.08600427955389023,yaw=1.2094707489013672,roll=0.007774803321808577
+Relative Altitude: 120.742
+Longitute:28.8031026 Latitude:40.9747287
+Time: 2022-08-06 23:30:39.520899
+Airspeed: 21.41672134399414 m/s
+Euler Angles: Attitude:pitch=-0.0866461917757988,yaw=1.211855411529541,roll=0.08097612857818604
+Relative Altitude: 120.398
+Longitute:28.8032226 Latitude:40.9747626
+Time: 2022-08-06 23:30:39.829997
+Airspeed: 21.414308547973633 m/s
+Euler Angles: Attitude:pitch=-0.08304986357688904,yaw=1.220302939414978,roll=0.11279218643903732
+Relative Altitude: 120.224
+Longitute:28.8032851 Latitude:40.9747797
+Time: 2022-08-06 23:30:40.138206
+Airspeed: 21.370227813720703 m/s
+Euler Angles: Attitude:pitch=-0.08226481825113297,yaw=1.2282463312149048,roll=0.1370212286710739
+Relative Altitude: 120.082
+Longitute:28.8033432 Latitude:40.9747949
+Time: 2022-08-06 23:30:40.448730
+Airspeed: 21.46483612060547 m/s
+Euler Angles: Attitude:pitch=-0.07867006957530975,yaw=1.2403098344802856,roll=0.15669822692871094
+Relative Altitude: 119.934
+Longitute:28.8034063 Latitude:40.9748108
+Time: 2022-08-06 23:30:40.759580
+Airspeed: 21.50579833984375 m/s
+Euler Angles: Attitude:pitch=-0.07321687787771225,yaw=1.266371250152588,roll=0.18508124351501465
+Relative Altitude: 119.688
+Longitute:28.8035288 Latitude:40.9748392
+Time: 2022-08-06 23:30:41.068582
+Airspeed: 21.548933029174805 m/s
+Euler Angles: Attitude:pitch=-0.07369549572467804,yaw=1.28037428855896,roll=0.19470565021038055
+Relative Altitude: 119.579
+Longitute:28.8035884 Latitude:40.974852
+Time: 2022-08-06 23:30:41.377483
+Airspeed: 21.564922332763672 m/s
+Euler Angles: Attitude:pitch=-0.07177451997995377,yaw=1.296818733215332,roll=0.20388861000537872
+Relative Altitude: 119.463
+Longitute:28.8036537 Latitude:40.9748651
+Time: 2022-08-06 23:30:41.686717
+Airspeed: 21.633270263671875 m/s
+Euler Angles: Attitude:pitch=-0.06864555925130844,yaw=1.3131064176559448,roll=0.21010103821754456
+Relative Altitude: 119.37
+Longitute:28.8037143 Latitude:40.9748764
+Time: 2022-08-06 23:30:41.997610
+Airspeed: 21.687747955322266 m/s
+Euler Angles: Attitude:pitch=-0.0612829364836216,yaw=1.3498263359069824,roll=0.21615856885910034
+Relative Altitude: 119.245
+Longitute:28.8038411 Latitude:40.9748973
+Time: 2022-08-06 23:30:42.307224
+Airspeed: 21.733556747436523 m/s
+Euler Angles: Attitude:pitch=-0.061357662081718445,yaw=1.368488073348999,roll=0.2131308764219284
+Relative Altitude: 119.192
+Longitute:28.8039072 Latitude:40.9749067
+Time: 2022-08-06 23:30:42.617616
+Airspeed: 21.770858764648438 m/s
+Euler Angles: Attitude:pitch=-0.06097939983010292,yaw=1.386137843132019,roll=0.20918655395507812
+Relative Altitude: 119.148
+Longitute:28.8039683 Latitude:40.9749146
+Time: 2022-08-06 23:30:42.928648
+Airspeed: 21.762039184570312 m/s
+Euler Angles: Attitude:pitch=-0.05861003324389458,yaw=1.4045846462249756,roll=0.2067890167236328
+Relative Altitude: 119.11
+Longitute:28.8040348 Latitude:40.9749223
+Time: 2022-08-06 23:30:43.238674
+Airspeed: 21.73638916015625 m/s
+Euler Angles: Attitude:pitch=-0.05756490305066109,yaw=1.4385161399841309,roll=0.19573940336704254
+Relative Altitude: 119.055
+Longitute:28.8041635 Latitude:40.9749346
+Time: 2022-08-06 23:30:43.548067
+Airspeed: 21.717195510864258 m/s
+Euler Angles: Attitude:pitch=-0.0599982813000679,yaw=1.4541308879852295,roll=0.1876276731491089
+Relative Altitude: 119.032
+Longitute:28.8042259 Latitude:40.9749394
+Time: 2022-08-06 23:30:43.861795
+Airspeed: 21.70507049560547 m/s
+Euler Angles: Attitude:pitch=-0.05730784311890602,yaw=1.4704686403274536,roll=0.18217189610004425
+Relative Altitude: 119.006
+Longitute:28.804293 Latitude:40.9749438
+Time: 2022-08-06 23:30:44.169867
+Airspeed: 21.740415573120117 m/s
+Euler Angles: Attitude:pitch=-0.056473780423402786,yaw=1.4853194952011108,roll=0.1745460033416748
+Relative Altitude: 118.996
+Longitute:28.8043555 Latitude:40.9749472
+Time: 2022-08-06 23:30:44.478180
+Airspeed: 21.74003791809082 m/s
+Euler Angles: Attitude:pitch=-0.05498780682682991,yaw=1.5001622438430786,roll=0.1649048924446106
+Relative Altitude: 118.989
+Longitute:28.8044229 Latitude:40.9749502
+Time: 2022-08-06 23:30:44.787499
+Airspeed: 21.784408569335938 m/s
+Euler Angles: Attitude:pitch=-0.05771731957793236,yaw=1.5276963710784912,roll=0.14457076787948608
+Relative Altitude: 118.99
+Longitute:28.8045528 Latitude:40.974954
+Time: 2022-08-06 23:30:45.096539
+Airspeed: 21.834157943725586 m/s
+Euler Angles: Attitude:pitch=-0.056373756378889084,yaw=1.5395479202270508,roll=0.1370740681886673
+Relative Altitude: 118.985
+Longitute:28.8046152 Latitude:40.9749551
+Time: 2022-08-06 23:30:45.406450
+Airspeed: 21.865503311157227 m/s
+Euler Angles: Attitude:pitch=-0.054844774305820465,yaw=1.5517141819000244,roll=0.1280834972858429
+Relative Altitude: 118.989
+Longitute:28.8046831 Latitude:40.9749556
+Time: 2022-08-06 23:30:45.714542
+Airspeed: 21.83550262451172 m/s
+Euler Angles: Attitude:pitch=-0.05443938076496124,yaw=1.5615365505218506,roll=0.12027885764837265
+Relative Altitude: 118.999
+Longitute:28.8047461 Latitude:40.9749556
+Time: 2022-08-06 23:30:46.028350
+Airspeed: 21.83572769165039 m/s
+Euler Angles: Attitude:pitch=-0.055835381150245667,yaw=1.5802490711212158,roll=0.09977339208126068
+Relative Altitude: 119.022
+Longitute:28.8048766 Latitude:40.9749544
+Time: 2022-08-06 23:30:46.339987
+Airspeed: 21.784320831298828 m/s
+Euler Angles: Attitude:pitch=-0.05582207813858986,yaw=1.5882755517959595,roll=0.09147563576698303
+Relative Altitude: 119.035
+Longitute:28.8049444 Latitude:40.9749531
+Time: 2022-08-06 23:30:46.650442
+Airspeed: 21.74071502685547 m/s
+Euler Angles: Attitude:pitch=-0.05613641068339348,yaw=1.5956413745880127,roll=0.08242979645729065
+Relative Altitude: 119.045
+Longitute:28.8050066 Latitude:40.9749517
+Time: 2022-08-06 23:30:46.960379
+Airspeed: 21.806663513183594 m/s
+Euler Angles: Attitude:pitch=-0.05538247525691986,yaw=1.6038684844970703,roll=0.07466602325439453
+Relative Altitude: 119.057
+Longitute:28.805074 Latitude:40.9749497
+Time: 2022-08-06 23:30:47.274373
+Airspeed: 21.869232177734375 m/s
+Euler Angles: Attitude:pitch=-0.05483665317296982,yaw=1.615352749824524,roll=0.059769101440906525
+Relative Altitude: 119.072
+Longitute:28.8052039 Latitude:40.9749452
+Time: 2022-08-06 23:30:47.582951
+Airspeed: 21.837331771850586 m/s
+Euler Angles: Attitude:pitch=-0.05359622463583946,yaw=1.6202187538146973,roll=0.05233285203576088
+Relative Altitude: 119.085
+Longitute:28.8052668 Latitude:40.9749426
